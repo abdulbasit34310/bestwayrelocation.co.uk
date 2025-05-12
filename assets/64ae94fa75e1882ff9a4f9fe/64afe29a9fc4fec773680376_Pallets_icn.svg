@@ -1,0 +1,19 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="60" y="63" width="6" height="6" rx="3" fill="#1e1e1e"/>
+<rect x="49" y="56" width="7" height="8" transform="rotate(-90 49 56)" fill="#FFBF39"/>
+<rect x="25" y="56" width="7" height="8" transform="rotate(-90 25 56)" fill="#FFBF39"/>
+<rect y="56" width="7" height="8" transform="rotate(-90 0 56)" fill="#FFBF39"/>
+<rect x="12" y="9" width="8" height="8" rx="4" fill="#FFBF39"/>
+<path d="M71.1227 55.0861C65.5257 67.0231 53.3988 75.2944 39.4063 75.2944C27.1861 75.2944 16.4585 68.9969 10.1152 59.4097" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M7.7832 24.9143C13.3802 12.9773 25.5071 4.70593 39.4996 4.70593C53.4922 4.70593 65.619 12.9773 71.216 24.9143" stroke="#FFBF39" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M34.9295 47.1903H27.4668V52.0779H34.9295V47.1903Z" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M52.0003 47.1903V52.0779H59.463V47.1903H2.83984V52.0779H10.3025V47.7543" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M77 39.3888L60.3955 56.1194H2" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M8.43555 41.5507H65.0587" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M2.83789 47.1901L14.2185 35.629H70.9349" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M4.23633 29.8015H76.7177L59.4602 47.1901" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M14.221 35.629H6.85156" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M59.4629 52.0778L76.7204 34.6892V29.8016" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M10.3008 52.0778L14.965 47.3782" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+<path d="M34.9297 52.0778L39.5939 47.3782" stroke="#1e1e1e" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"/>
+</svg>
