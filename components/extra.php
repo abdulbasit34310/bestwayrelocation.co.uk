@@ -58,14 +58,31 @@
         /* Optional shadow for separation */
     }
 
-    .next-section {
-        margin-top: 135px;
-        /* Navbar height (80px) + Extra spacing (20px) */
+    @media (min-width: 962px) {
+        .next-section {
+            margin-top: 135px;
+            /* Navbar height (80px) + Extra spacing (20px) */
+        }
     }
 
-    @media (max-width: 600px) {
+    @media screen and (min-width: 767px) and (max-width: 962px) {
         .next-section {
-            margin-top: 80px;
+            margin-top: 100px;
+            /* Adjusted for mobile screen */
+        }
+    }
+
+
+    @media screen and (min-width: 479px) and (max-width: 767px) {
+        .next-section {
+            margin-top: 90px;
+            /* Adjusted for mobile screen */
+        }
+    }
+
+    @media (max-width: 479px) {
+        .next-section {
+            margin-top: 70px;
             /* Adjusted for mobile screen */
         }
     }
@@ -148,7 +165,7 @@
     }
 
     /* Responsive Adjustments (if needed) */
-    @media (max-width: 768px) {
+    @media (max-width: 991px) {
         .navbar-logo-center-container {
             padding: 15px;
             flex-direction: column;
@@ -200,6 +217,7 @@
             filter: invert(1) !important;
             /* Make arrow icon white on dark background */
         }
+    }
 </style>
 
 <style>
@@ -358,8 +376,6 @@
 
     }
 
-
-
     @media (max-width: 991px) {
 
         .navbar-logo-center-container,
@@ -367,21 +383,19 @@
         .navbar-brand-three {
             background: #1e1e1e !important;
             min-height: 73px !important;
-            padding-top: 4% !important;
-            padding-bottom: 6% !important;
+            padding-top: 3% !important;
+            padding-bottom: 5% !important;
             overflow: visible !important;
         }
 
         .navbar-brand-three {
             display: flex;
             align-items: center;
-
+            justify-content: center;
             width: 100%;
             height: 50px !important;
         }
-
     }
-
 
     .submit-button {
         background-color: #FFBF39;

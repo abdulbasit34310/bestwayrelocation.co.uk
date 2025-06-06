@@ -27,7 +27,7 @@
 <body>
   <?php include 'components/nav-2.php'; ?>
   <section class="section-8 next-section">
-    <!-- <div class="content_wrapper get-a-quote">
+    <!-- <div class="specs_wrapper get-a-quote">
       <div class="w-layout-grid grid-8">
         <div id="w-node-_9a5a82f3-d8dd-8a48-ad81-95d9ce164d38-aba94886" class="div-block-25">
           <div class="div-block-22">
@@ -264,7 +264,7 @@
   </style>
 
   <section class="steps-section">
-    <div class="content_wrapper">
+    <div class="specs_wrapper">
       <div class="steps-heading">
         <h2 class="steps-title">Getting a quote is simple…</h2>
         <p class="steps-subtitle">In order to provide an accurate quote, we conduct a simple survey.</p>
@@ -349,5 +349,6 @@
     });
   </script>
 </body>
+
 
 </html>

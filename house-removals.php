@@ -106,8 +106,7 @@
         <div class="cta_maine">
           <div class="cta_content">
             <h2 class="heading-2">
-              <strong>The knowledgeable team ensures your house move is smooth and
-                worry-free</strong>
+              <strong>The knowledgeable team ensures<br> your house move is smooth and worry-free</strong>
             </h2>
             <p>
               When you’re preparing to move house, there’s already enough on your plate. The stress of packing,
@@ -199,7 +198,7 @@
       <style>
         /* Mobile Responsive Styles */
         @media screen and (max-width: 767px) {
-          .content_wrapper {
+          .specs_wrapper {
             padding: 0 15px;
           }
 
@@ -264,7 +263,9 @@
           }
 
           /* Package Section Mobile Styles */
-          .packages-section {}
+          .packages-section {
+            
+          }
 
           .packages-grid {
             grid-template-columns: 1fr;
@@ -294,7 +295,7 @@
 
           .package-list li {
             font-size: 14px;
-            padding: 10px 0 10px 30px;
+            padding: 0px 0 12px 36px;
           }
 
           /* Features Section Mobile Styles */
@@ -397,8 +398,8 @@
         }
 
         .packages-section {
+            padding-bottom: 100px;
           background: #FBFBFD;
-          padding-bottom: 100px;
         }
 
         .packages-grid {
@@ -413,7 +414,7 @@
         .package-card {
           background: #fff;
           border-radius: 20px;
-          padding: 40px;
+          padding: 30px;
           position: relative;
           transition: all 0.3s ease;
           box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
@@ -456,7 +457,6 @@
         .package-name {
           font-size: 24px;
           font-weight: 700;
-          margin-bottom: 15px;
         }
 
         .package-price {
@@ -511,7 +511,7 @@
 
         .get-plan-button {
           display: block;
-          padding: 15px 30px;
+          padding: 10px 15px;
           background: #000;
           color: #fff;
           text-align: center;
@@ -552,7 +552,7 @@
         }
       </style>
       <section class="packages-section">
-        <div class="content_wrapper">
+        <div class="specs_wrapper">
           <h2 class="heading-2 text-center" style="margin-bottom: 50px;">Our Packages</h2>
 
           <div class="packages-grid">
@@ -623,36 +623,52 @@
         </div>
       </section>
 
-      <section class="standart-page_content-section">
-        <div class="w-layout-grid content-section_grid">
-          <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f" class="content-section_image pallets"></div>
-          <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f" class="content-section_text">
-            <div class="rich-text w-richtext">
-              <h4 class="heading-2">House Removals</h4>
-              <div class="text-white">
-                <p>
-                  Moving house can be overwhelming — but with Bestway Relocation by your side, it doesn’t have to be.
-                  <br /><br />
-                  We’ve refined our house removals process through years of hands-on experience, delivering moves that
-                  are
-                  smooth, timely, and fully tailored to your needs.
-                  <br /><br />
-                  From carefully packing your belongings to safely unloading them at your new home, we handle every step
-                  with precision. Our professional movers bring the right tools, vehicles, and support to ensure
-                  everything
-                  goes exactly as planned.
-                  <br /><br />
-                  Throughout the process, we treat your home and possessions with complete respect — protecting both
-                  your
-                  property and your peace of mind.
-                </p>
-              </div>
-            </div>
-            <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php"
-              class="grey-outline-button_white-bg margin-top-28 ">Get your moving quote</a>
-          </div>
-        </div>
-      </section>
+            <section class="section-3">
+                <div class="specs_wrapper">
+                    <div class="w-layout-grid grid-4">
+                        <div>
+                            
+                            <h2 class="heading-2 white">A Complete End to End Relocation Solution</h2>
+                        </div>
+                        <!-- <div id="w-node-_9cf6041d-81b4-70c7-b547-7b2a82f66331-aba94876" class="div-block-10">
+                            <p class="body-1 white">Hand it to Bestway Relocation- our infrastructure will support all
+                                of your needs
+                                from start to
+                                finish.<br /></p>
+                        </div> -->
+                    </div>
+                    <div class="w-layout-grid specialization-items-wrapper">
+                        <div id="w-node-_2677a9bc-aa75-aa34-e2af-f9ed1aa82536-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/2.svg" loading="lazy" alt=""
+                                class="specialization_icon" />
+                            <div class="subtitle specialization_white">Booking, Planning<br /> &amp; Pickup</div>
+                        </div>
+                        <div id="w-node-_60d020b8-41c3-8c2a-90ec-6f190dd1eb6f-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/64affdedb96532030bf14236_Delivery_icn.svg"
+                                loading="lazy" alt="" class="specialization_icon" />
+                            <div class="subtitle specialization_white">Packing <br>Services</div>
+                        </div>
+
+                        <div id="w-node-_31c499e9-6ac1-52a5-5e0e-959c1c3eb80e-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/64affdec08e3adb42f45afb2_Sea%20an%20Road%20Transportation.svg"
+                                loading="lazy" alt="" class="specialization_icon" />
+                            <div class="subtitle specialization_white">International <br />Relocation</div>
+                        </div>
+                        <div id="w-node-_4c202b8b-1734-1f17-a91a-acc244021c36-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/1.svg" loading="lazy" alt=""
+                                class="specialization_icon" />
+                            <div class="subtitle specialization_white">Punctual <br />Delivery</div>
+                        </div>
+                        <div id="w-node-_36634bc5-3789-5575-fc09-1d76b5c29d7c-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/3.svg" loading="lazy" alt=""
+                                class="specialization_icon" />
+                            <div class="subtitle specialization_white">Customer<br /> Support</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
     </div>
   </section>
 

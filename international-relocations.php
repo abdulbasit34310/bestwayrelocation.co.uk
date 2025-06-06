@@ -159,11 +159,11 @@
                     <h4>Why Choose Bestway Relocation?</h4>
                     <ul class="rich-text">
                         <li>The UK’s premier choice for international removals and shipping services</li>
-                        <li>Specialists in overseas relocations for over four decades</li>
+                        <li>Specialists in overseas relocations for over seven years</li>
                         <li>Successfully helping thousands of clients move worldwide each year</li>
                         <li>Comprehensive door-to-door relocation solutions</li>
                     </ul>
-
+ <!--
                     <h4>Accreditations and Excellence</h4>
                     <p>Our dedication to providing safe, timely, and competitively priced international removals is
                         demonstrated
@@ -177,8 +177,483 @@
                         international moving companies. When you choose us, you are choosing professionalism,
                         reliability, and a
                         relocation partner that genuinely cares about your journey.</p>
+                        -->
                 </div>
+                
             </div>
+                <style>
+      /* Mobile Responsive Styles */
+      @media screen and (max-width: 767px) {
+        .specs_wrapper {
+          padding: 0 15px;
+        }
+
+        .grid-8 {
+          display: block !important;
+        }
+
+        .div-block-25 {
+          margin-bottom: 30px;
+        }
+
+        .form {
+          padding: 20px;
+        }
+
+        .div-block-23 {
+          display: block !important;
+        }
+
+        .div-block-23>div {
+          margin-bottom: 15px;
+        }
+
+        .text-field {
+          width: 100% !important;
+        }
+
+        .submit-button {
+          width: 100%;
+        }
+
+        .top-features-list {
+          margin-bottom: 30px;
+        }
+
+        .image-10 {
+          max-width: 100%;
+          height: auto;
+        }
+
+        .w-layout-grid {
+          display: block !important;
+        }
+
+        .features_item {
+          margin-bottom: 30px;
+        }
+
+        .content-section_image {
+          height: 250px !important;
+          margin-bottom: 30px;
+        }
+
+        .heading-2 {
+          font-size: 24px !important;
+          line-height: 1.3;
+        }
+
+        .body-2 {
+          font-size: 16px;
+          line-height: 1.5;
+        }
+
+        /* Package Section Mobile Styles */
+        .packages-section {
+          padding: 10px 0;
+        }
+
+        .packages-grid {
+          grid-template-columns: 1fr;
+          padding: 0 15px;
+        }
+
+        .package-card {
+          margin-bottom: 30px;
+          padding: 25px;
+        }
+
+        .package-card.popular {
+          transform: none;
+        }
+
+        .package-price {
+          font-size: 36px;
+        }
+
+        .package-price span {
+          font-size: 20px;
+        }
+
+        .package-list {
+          margin-bottom: 20px;
+        }
+
+        .package-list li {
+          font-size: 14px;
+          padding: 10px 0 10px 30px;
+        }
+
+        /* Features Section Mobile Styles */
+        .features-section {
+          padding: 40px 0;
+        }
+
+        .features-container {
+          padding: 0 15px;
+        }
+
+        .features-title {
+          font-size: 24px;
+          margin-bottom: 30px;
+        }
+
+        .feature-item {
+          width: 220px;
+          padding: 15px;
+        }
+
+        .feature-icon {
+          width: 60px;
+          height: 60px;
+          font-size: 24px;
+        }
+
+        .feature-text {
+          font-size: 13px;
+        }
+
+        /* Client Logos Mobile Styles */
+        .client-logos-section {
+          padding: 40px 0;
+        }
+
+        .client-logos-title {
+          font-size: 24px;
+          margin-bottom: 30px;
+        }
+
+        .client-logo {
+          min-width: 150px;
+          height: 80px;
+          margin: 0 15px;
+        }
+
+        .client-logo img {
+          max-width: 120px;
+          max-height: 60px;
+        }
+      }
+
+      /* Tablet Responsive Styles */
+      @media screen and (min-width: 768px) and (max-width: 991px) {
+        .grid-8 {
+          grid-template-columns: 1fr !important;
+        }
+
+        .div-block-25 {
+          margin-bottom: 40px;
+        }
+
+        .features_item {
+          margin-bottom: 30px;
+        }
+
+        /* Package Section Tablet Styles */
+        .packages-grid {
+          grid-template-columns: repeat(2, 1fr);
+          gap: 20px;
+        }
+
+        .package-card.popular {
+          transform: scale(1.02);
+        }
+
+        /* Features Section Tablet Styles */
+        .features-container {
+          padding: 0 30px;
+        }
+
+        .features-track {
+          gap: 20px;
+        }
+
+        .feature-item {
+          width: 250px;
+        }
+
+        /* Client Logos Tablet Styles */
+        .client-logos-container {
+          padding: 0 30px;
+        }
+
+        .client-logo {
+          min-width: 180px;
+          margin: 0 20px;
+        }
+      }
+
+      .packages-section {
+        padding: 10px 0;
+        background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+      }
+
+      .packages-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+
+      .package-card {
+        background: #fff;
+        border-radius: 20px;
+        padding: 30px;
+        position: relative;
+        transition: all 0.3s ease;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+      }
+
+      .package-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+      }
+
+      .package-card.popular {
+        background: linear-gradient(135deg, #000 0%, #333 100%);
+        color: white;
+        transform: scale(1.05);
+      }
+
+      .popular-tag {
+        position: absolute;
+        top: -15px;
+        right: 20px;
+        background: #FFBF39;
+        color: #000;
+        padding: 5px 15px;
+        border-radius: 20px;
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      .package-header {
+        text-align: center;
+        padding-bottom: 30px;
+        border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+        margin-bottom: 30px;
+      }
+
+      .popular .package-header {
+        border-bottom-color: rgba(255, 255, 255, 0.2);
+      }
+
+      .package-name {
+        font-size: 24px;
+        font-weight: 700;
+      }
+
+      .package-price {
+        font-size: 48px;
+        font-weight: 800;
+        margin-bottom: 10px;
+      }
+
+      .package-price span {
+        font-size: 24px;
+        font-weight: 600;
+      }
+
+      .package-list {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 30px 0;
+      }
+
+      .package-list li {
+        padding: 0px 0 12px 36px;
+        position: relative;
+        font-size: 16px;
+        line-height: 1.4;
+      }
+
+      .package-list li:before {
+        content: "✓";
+        position: absolute;
+        left: 0;
+        color: #FFBF39;
+        font-weight: bold;
+        font-size: 18px;
+      }
+
+      .popular .package-list li:before {
+        color: #FFBF39;
+      }
+
+      .package-list li.inactive {
+        opacity: 0.5;
+      }
+
+      .package-list li.inactive:before {
+        content: "×";
+        color: rgba(0, 0, 0, 0.3);
+      }
+
+      .popular .package-list li.inactive:before {
+        color: rgba(255, 255, 255, 0.3);
+      }
+
+      .get-plan-button {
+        display: block;
+        padding: 10px 15px;
+        background: #000;
+        color: #fff;
+        text-align: center;
+        border-radius: 30px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: all 0.3s ease;
+      }
+
+      .get-plan-button:hover {
+        background: #FFBF39;
+        color: #000;
+      }
+
+      .popular .get-plan-button {
+        background: #FFBF39;
+        color: #000;
+      }
+
+      .popular .get-plan-button:hover {
+        background: #fff;
+      }
+
+      @media screen and (max-width: 991px) {
+        .packages-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      @media screen and (max-width: 767px) {
+        .packages-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .package-card.popular {
+          transform: scale(1);
+        }
+      }
+    </style>
+
+    <section class="packages-section">
+      <div class="specs_wrapper">
+        <h2 class="heading-2 text-center" style="margin-bottom: 50px;">Our Packages</h2>
+
+        <div class="packages-grid">
+          <!-- Standard Package -->
+          <div class="package-card">
+            <div class="package-header">
+              <div class="package-name">Standard</div>
+              <!-- <div class="package-price"><span>£</span>299</div> -->
+            </div>
+            <ul class="package-list">
+              <li>All furniture is dismantled and reassembled</li>
+              <li>All hanging clothes packed into wardrobe boxes</li>
+              <li>Furniture and floor protectors provided</li>
+              <li>Insurance included up to £50,000 (T&Cs applies)</li>
+              <li class="inactive">Packing materials provided</li>
+              <li class="inactive">Full packing service included</li>
+              <li class="inactive">We organise your home ready for the move</li>
+            </ul>
+            <div style="text-align: center;">
+              <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
+            </div>
+          </div>
+
+          <!-- Premium Package -->
+          <div class="package-card popular">
+            <div class="popular-tag">Most Popular</div>
+            <div class="package-header">
+              <div class="package-name">Premium</div>
+              <!-- <div class="package-price"><span>£</span>499</div> -->
+            </div>
+            <ul class="package-list">
+              <li>All furniture is dismantled and reassembled</li>
+              <li>All hanging clothes packed into wardrobe boxes</li>
+              <li>Furniture and floor protectors provided</li>
+              <li>Insurance included up to £50,000 (T&Cs applies)</li>
+              <li>Packing materials provided</li>
+              <li>Full packing service included</li>
+              <li>We organise your home ready for the move</li>
+            </ul>
+            <div style="text-align: center;">
+              <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
+            </div>
+          </div>
+
+          <!-- Elite Package -->
+          <div class="package-card">
+            <div class="package-header">
+              <div class="package-name">Elite</div>
+              <!-- <div class="package-price"><span>£</span>699</div> -->
+            </div>
+            <ul class="package-list">
+              <li>All furniture is dismantled and reassembled</li>
+              <li>All hanging clothes packed into wardrobe boxes</li>
+              <li>Furniture and floor protectors provided</li>
+              <li>Insurance included up to £50,000 (T&Cs applies)</li>
+              <li>Packing materials provided</li>
+              <li>Full packing service included</li>
+              <li>We organise your home ready for the move</li>
+              <li>Unpacking service tailored to your needs</li>
+              <li>All rubbish removed from the property</li>
+              <li>We organise your new home as you like it</li>
+            </ul>
+            <div style="text-align: center;">
+              <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+            <section class="section-3">
+                <div class="specs_wrapper">
+                    <div class="w-layout-grid grid-4">
+                        <div>
+                            
+                            <h2 class="heading-2 white">A Complete End to End Relocation Solution</h2>
+                        </div>
+                        <!-- <div id="w-node-_9cf6041d-81b4-70c7-b547-7b2a82f66331-aba94876" class="div-block-10">
+                            <p class="body-1 white">Hand it to Bestway Relocation- our infrastructure will support all
+                                of your needs
+                                from start to
+                                finish.<br /></p>
+                        </div> -->
+                    </div>
+                    <div class="w-layout-grid specialization-items-wrapper">
+                        <div id="w-node-_2677a9bc-aa75-aa34-e2af-f9ed1aa82536-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/2.svg" loading="lazy" alt=""
+                                class="specialization_icon" />
+                            <div class="subtitle specialization_white">Booking, Planning<br /> &amp; Pickup</div>
+                        </div>
+                        <div id="w-node-_60d020b8-41c3-8c2a-90ec-6f190dd1eb6f-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/64affdedb96532030bf14236_Delivery_icn.svg"
+                                loading="lazy" alt="" class="specialization_icon" />
+                            <div class="subtitle specialization_white">Packing <br>Services</div>
+                        </div>
+                        <div id="w-node-_31c499e9-6ac1-52a5-5e0e-959c1c3eb80e-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/64affdec08e3adb42f45afb2_Sea%20an%20Road%20Transportation.svg"
+                                loading="lazy" alt="" class="specialization_icon" />
+                            <div class="subtitle specialization_white">International <br />Relocation</div>
+                        </div>
+                        <div id="w-node-_4c202b8b-1734-1f17-a91a-acc244021c36-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/1.svg" loading="lazy" alt=""
+                                class="specialization_icon" />
+                            <div class="subtitle specialization_white">Punctual <br />Delivery</div>
+                        </div>
+                        <div id="w-node-_36634bc5-3789-5575-fc09-1d76b5c29d7c-aba94876" class="specialization_item"><img
+                                src="assets/64ae94fa75e1882ff9a4f9fe/3.svg" loading="lazy" alt=""
+                                class="specialization_icon" />
+                            <div class="subtitle specialization_white">Customer<br /> Support</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
         </div>
     </section>
 

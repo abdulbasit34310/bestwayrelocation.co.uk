@@ -882,6 +882,10 @@ textarea.w-select {
 }
 
 @media screen and (max-width: 991px) {
+  .features_item.new {
+    padding-bottom: 32px;
+  }
+
   .grid-12 {
     grid-template-columns: 1fr 1fr;
   }
@@ -1529,6 +1533,7 @@ textarea.w-select {
 }
 
 @media screen and (max-width: 767px) {
+
   .w-nav-brand {
     padding-left: 10px;
   }
@@ -1770,7 +1775,15 @@ textarea.w-select {
   overflow: hidden;
 }
 
+@media (min-width: 1024px) {
+  .devider {
+    width: 0px;
+    background-color: #d1d2d7;
+  }
+}
+
 @media (min-width: 768px) {
+
   .w-lightbox-content {
     height: 96vh;
     margin-top: 2vh;
@@ -2853,31 +2866,39 @@ ul {
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
+  padding: 0px 100px;
+}
+
+.specs_wrapper {
+  max-width: none;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
   padding: 30px 100px;
 }
 
-.content_wrapper.get-a-quote {
+.specs_wrapper.get-a-quote {
   margin-bottom: -100px;
 }
 
-.content_wrapper.get-a-quote.make-a-payment {
+.specs_wrapper.get-a-quote.make-a-payment {
   height: 100%;
   margin-bottom: 0;
   overflow: hidden;
 }
 
-.content_wrapper.get-a-quote.make-a-payment._2 {
+.specs_wrapper.get-a-quote.make-a-payment._2 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
   display: flex;
 }
 
-.content_wrapper._100 {
+.specs_wrapper._100 {
   width: 100%;
 }
 
-.content_wrapper._100.margin-down-64 {
+.specs_wrapper._100.margin-down-64 {
   margin-bottom: 64px;
 }
 
@@ -3143,7 +3164,7 @@ ul {
 .features_item.new {
   border-left: 1px solid #b79d18;
   margin-bottom: 0;
-  padding-left: 32px;
+  padding-left: 18px;
 }
 
 .features_item.new.down {
@@ -3155,7 +3176,7 @@ ul {
   background-image: url("../../62434fa732124a0fb112aab4/DSC_0029.jpg");
   background-position: 50% 30%;
   background-size: cover;
-  margin-bottom: 24px;
+  margin-bottom: 22px;
 }
 
 .features-image.shipping-to-uk {
@@ -3213,6 +3234,7 @@ ul {
 
 .body-1.gray-2 {
   color: #61636a;
+  margin-bottom: 18px;
 }
 
 .div-block-10 {
@@ -3845,7 +3867,7 @@ ul {
 }
 
 .div-block-19 {
-  padding: 40px;
+  padding: 40px 40px 40px 0px;
 }
 
 .image-8 {
@@ -4773,7 +4795,7 @@ ul {
 }
 
 .heading-3.margin-24-down {
-  margin-bottom: 24px;
+  margin-bottom: 18px;
 }
 
 .big-number {
@@ -4898,7 +4920,7 @@ ul {
 }
 
 .section_our-values {
-  padding-bottom: 90px;
+  padding-bottom: 60px;
 }
 
 .our-values_grid {
@@ -5761,15 +5783,21 @@ ul {
     padding-right: 24px;
   }
 
-  .content_wrapper.get-a-quote.make-a-payment {
+  .specs_wrapper {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+
+  .specs_wrapper.get-a-quote.make-a-payment {
     height: auto;
   }
 
-  .content_wrapper.get-a-quote.make-a-payment._2 {
+  .specs_wrapper.get-a-quote.make-a-payment._2 {
     height: 100%;
   }
 
-  .content_wrapper.get-a-quote.credit-application {
+  .specs_wrapper.get-a-quote.credit-application {
     margin-bottom: 0;
   }
 
@@ -6381,15 +6409,21 @@ ul {
     padding-right: 20px;
   }
 
-  .content_wrapper.get-a-quote {
+  .specs_wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+
+  .specs_wrapper.get-a-quote {
     margin-bottom: 0;
   }
 
-  .content_wrapper.get-a-quote.make-a-payment {
+  .specs_wrapper.get-a-quote.make-a-payment {
     height: auto;
   }
 
-  .content_wrapper.get-a-quote.credit-application {
+  .specs_wrapper.get-a-quote.credit-application {
     margin-bottom: 0;
   }
 
@@ -6438,15 +6472,6 @@ ul {
 
   .features_item._2 {
     margin-top: 56px;
-  }
-
-  .features_item.new.down {
-    padding-bottom: 56px;
-  }
-
-  .features_item.new.down._2 {
-    margin-top: 0;
-    padding-bottom: 0;
   }
 
   .section-3 {
@@ -6824,11 +6849,6 @@ ul {
     display: grid;
   }
 
-  .devider {
-    width: 100%;
-    height: 1px;
-  }
-
   .section-9 {
     padding-top: 72px;
     padding-bottom: 72px;
@@ -6887,6 +6907,17 @@ ul {
 }
 
 @media screen and (max-width: 479px) {
+
+  .div-block-19 {
+    padding: 40px 40px 0px 0px;
+  }
+
+  .title-small {
+    margin-bottom: 16px;
+    font-size: 32px;
+    line-height: 120%;
+  }
+
   .container {
     max-width: none;
   }
@@ -6936,7 +6967,7 @@ ul {
     margin-left: 0;
   }
 
-  .content_wrapper.get-a-quote.make-a-payment {
+  .specs_wrapper.get-a-quote.make-a-payment {
     height: auto;
     padding-bottom: 0;
   }
@@ -7058,7 +7089,6 @@ ul {
   }
 
   .div-block-19 {
-    margin-top: 100px;
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -7159,7 +7189,6 @@ ul {
     padding-left: 32px;
   }
 
-  /* @media screen and (max-width: 479px) { */
   .grid-12 {
     grid-template-columns: 1fr;
   }

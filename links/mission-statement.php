@@ -121,6 +121,7 @@
 
       </div>
     </div>
+    <br> <br>
   </section>
 
   <?php include '../components/foot.php'; ?>

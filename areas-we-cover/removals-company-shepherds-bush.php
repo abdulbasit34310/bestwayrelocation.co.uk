@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html data-wf-domain="www.bestwayrelocation.co.uk" data-wf-page="64b93a320f538156aba9487c" data-wf-site="64ae94fa75e1882ff9a4f9fe">
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
     <title>Removals Company Shepherd’s Bush W12 London | Bestway Relocation</title>
     <meta name="description" content="Bestway Relocation provides expert removals, office moves, packing, and secure storage solutions in Shepherd’s Bush W12 London. Discover our tailored moving services and a comprehensive Shepherd’s Bush area guide." />
@@ -33,7 +32,7 @@
           <div style="padding:40px;">
                             <ul role="list" class="nav-menu-block w-list-unstyled">
                                 <li>
-                                    <a href="tel:08000147676" class="secondary-black-outline-cta "
+                                    <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
                                         style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
                                         onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                                         onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
@@ -41,7 +40,7 @@
                                     </a>
                                 </li>
                                 <li class="mobile-margin-top-10">
-                                    <a href="request-a-quote.php" class="secondary-black-cta "
+                                    <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php" class="secondary-black-cta w-button"
                                         style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
                                         onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                                         onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">

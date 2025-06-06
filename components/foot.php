@@ -1,120 +1,80 @@
+<style>
+    @media screen and (max-width: 767px) {
+        .container-2 {
+            padding: 0 15px;
+        }
+        
+        .footer-wrapper {
+            display: block !important;
+        }
+        
+        .footer-content {
+            display: block !important;
+        }
+        
+        .footer-block {
+            width: 100% !important;
+            margin-bottom: 30px !important;
+        }
+        
+        .footer-block img {
+            /*max-width: 200px !important;*/
+        }
+        
+        .footer_contact_link-block {
+            font-size: 14px !important;
+        }
+        
+        .footer-social-center {
+            padding: 20px 0 !important;
+        }
+        
+        .footer-copyright-center {
+            font-size: 14px !important;
+            padding: 0 15px !important;
+            text-align: center !important;
+        }
+        
+        .whatsapp-float {
+            bottom: 15px !important;
+            right: 15px !important;
+        }
+        
+        .whatsapp-float img {
+            width: 50px !important;
+            height: 50px !important;
+        }
+    }
+</style>
+
 <section class="footer">
     <div class="container-2">
         <div class="footer-wrapper">
             <div class="footer-block">
                 <a href="../index.php" aria-current="page" class="">
-                    <img src="../assets/64ae94fa75e1882ff9a4f9fe/Logo.png" loading="lazy" width="290" alt="" />
+                    <img src="../assets/64ae94fa75e1882ff9a4f9fe/Logo.png" loading="lazy" width="212.5" alt="" />
                 </a>
-                <a href="https://maps.app.goo.gl/Z78xGMmo6w9FxkB5A?g_st=com.google.maps.preview.copy"
-                    class="footer_contact_link-block w-inline-block"><img
-                        src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
-                        alt="" />
-                    <p class="footer-email"><span class="text-span">Main Headquarter •</span> Gemma House, 39 Lilestone
-                        Street, London NW8 8SS</p>
-                </a>
+                <p class="footer-email"><strong class="text-span">Headquarter</strong></p>
+
                 <a href="tel:02073623864" class="footer_contact_link-block w-inline-block"><img
                         src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
                         alt="" />
-                    <!-- <div class="footer-link_contact"><span class="text-span">Contact Number •</span> 0207 3623864</div> -->
-                    <div class="footer-link_contact">0207 3623864</div>
+                    <div class="footer-link_contact">0175 3379155</div>
 
                 </a>
-                <a href="london@bestwayrelocation.co.uk" class="footer_contact_link-block w-inline-block"><img
-                        src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                <a href="mailto:slough@bestwayrelocation.co.uk" class="footer_contact_link-block w-inline-block"><img
+                        src="../assets/64ae94fa75e1882ff9a4f9fe/in_email_icon.png" loading="lazy"
                         alt="" />
-                    <!-- <p class="footer-email"><span class="text-span">Email •</span> london@bestwayrelocation.co.uk</p> -->
-                    <p class="footer-email">london@bestwayrelocation.co.uk</p>
+                    <p class="footer-email">slough@bestwayrelocation.co.uk</p>
 
                 </a>
-            </div>
-            <div class="footer-content">
-                <div class="footer-block">
-                    <div class="caption-small">COMPANY</div>
-                    <a href="../company/packing-supplies.php" class="footer-link">Packing Supplies</a>
-                    <a href="../company/storage-solutions.php" class="footer-link">Storage Solutions</a>
-                    <a href="../company/environmental-policy.php" class="footer-link">Environmental Policy</a>
-                    <a href="../company/ modern-slavery-statement.php" class="footer-link">Slavery Statement</a>
-                </div>
-
-                <div class="footer-block">
-                    <div class="caption-small">Key Links</div>
-                    <a href="../careers.php" class="footer-link">Careers</a>
-                    <a href="https://bestwayrelocation.co.uk/careers.php" aria-current="page"
-                        class="footer-link w--current">Terms
-                        & Conditions</a>
-                    <a href="../links/mission-statement.php" class="footer-link">Our Mission</a>
-                    <a href="../links/privacy-policy.php" class="footer-link">Privacy Policy</a>
-                </div>
-
-
-                <div id="w-node-_976c0385-189b-dd15-747d-484ecb5f2dd1-cb5f2da4" class="footer-block">
-                    <div class="caption-small">BRANCHES</div>
-                    <a href="tel:01753379155" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-                        <div class="footer-link_contact">0175 3379155 <span class="text-span">• Slough -
-                                Berkshire</span></div>
-                    </a>
-
-                    <a href="tel:01276539488" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-
-                        <div class="footer-link_contact">0127 6539488 <span class="text-span">• Guildford -
-                                Surrey</span>
-                        </div>
-                    </a>
-
-                    <a href="tel:01296596500" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-                        <div class="footer-link_contact">0129 6596500 <span class="text-span">• Aylsbury -
-                                Buckinghamshire</span></div>
-                    </a>
-
-                    <a href="tel:01865957032" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-                        <div class="footer-link_contact">01865957032 <span class="text-span">• Oxford -
-                                Oxfordshire</span>
-                        </div>
-                    </a>
-                </div>
-
-                <div id="w-node-_976c0385-189b-dd15-747d-484ecb5f2dd1-cb5f2da4" class="footer-block">
-                    <div class="caption-small">BRANCHES</div>
-                    <a href="tel:02382026565" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-                        <div class="footer-link_contact">0238 2026565 <span class="text-span">• Southampton -
-                                Hampshire</span></div>
-                    </a>
-                    <a href="tel:01182276227" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-                        <div class="footer-link_contact">0118 2276227 <span class="text-span">• Reading -
-                                Berkshire</span>
-                        </div>
-                    </a>
-                    <a href="tel:01273927320" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-                        <div class="footer-link_contact">0127 3927320 <span class="text-span">• Brighton - East
-                                Sussex</span></div>
-                    </a>
-                    <a href="tel:01793379155" class="footer_contact_link-block w-inline-block"><img
-                            src="../assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg"
-                            loading="lazy" alt="" />
-                        <div class="footer-link_contact">0179 3379155 <span class="text-span">• Swindon - Wiltshire
-                            </span>
-                        </div>
-                    </a>
-                </div>
-
-            </div>
-        </div>
-
-        <div class="footer-social-center">
+                                <a href="https://maps.app.goo.gl/Z78xGMmo6w9FxkB5A?g_st=com.google.maps.preview.copy"
+                    class="footer_contact_link-block w-inline-block"><img
+                        src="../assets/64ae94fa75e1882ff9a4f9fe/in_address_icon.png" loading="lazy"
+                        alt="" />
+                    <p class="footer-email">Regus House, 268 Bath Rd, Slough SL1 4DX</p>
+                </a>
+                        <div class="footer-social-center">
             <a href=" https://youtube.com/@bestwayrelocation?si=vZdF3OBKWdQ_bZ5d" target="_blank"
                 class="in w-inline-block" style="width:35px; margin:5px;"><img
                     src="../assets/62434fa732124a0fb112aab4/youtube.png" loading="lazy" alt="" class="ink-icon" /></a>
@@ -134,7 +94,82 @@
                 class="in w-inline-block" style="width:35px; margin:5px;"><img
                     src="../assets/62434fa732124a0fb112aab4/facebook.png" loading="lazy" alt="" class="ink-icon" /></a>
         </div>
+            </div>
+            <div class="footer-content">
+                <div class="footer-block">
+                    <div class="caption-small">COMPANY</div>
+                    <a href="../company/packing-supplies.php" class="footer-link">Packing Supplies</a>
+                    <a href="../company/storage-solutions.php" class="footer-link">Storage Solutions</a>
+                                        <a href="../company/modern-slavery-statement.php" class="footer-link">Slavery Statement</a>
+                    <a href="../company/environmental-policy.php" class="footer-link">Environmental Policy</a>
+                </div>
 
+                <div class="footer-block">
+                    <div class="caption-small">Key Links</div>
+                    <a href="../careers.php" class="footer-link">Careers</a>
+                    <a href="../links/mission-statement.php" class="footer-link">Our Mission</a>
+                    <a href="../assets/Privacy_Policy.pdf" target="_blank" aria-current="page" class="footer-link w--current" rel="noopener noreferrer">Privacy Policy</a>
+                                        <a href="../assets/Terms_And_Conditions.pdf" target="_blank" aria-current="page" class="footer-link w--current" rel="noopener noreferrer">Terms & Conditions</a>
+                </div>
+
+                <div id="w-node-_976c0385-189b-dd15-747d-484ecb5f2dd1-cb5f2da4" class="footer-block">
+                    <div class="caption-small">BRANCHES</div>
+                    <a href="tel:01753379155" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+                        <div class="footer-link_contact">0175 3379155 <span class="text-span">• Slough</span></div>
+                    </a>
+
+                    <a href="tel:01276539488" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+
+                        <div class="footer-link_contact">0127 6539488 <span class="text-span">• Guildford</span>
+                        </div>
+                    </a>
+
+                    <a href="tel:01296596500" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+                        <div class="footer-link_contact">0129 6596500 <span class="text-span">• Aylsbury</span></div>
+                    </a>
+
+                    <a href="tel:01865957032" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+                        <div class="footer-link_contact">01865957032 <span class="text-span">• Oxford</span>
+                        </div>
+                    </a>
+                </div>
+                <div id="w-node-_976c0385-189b-dd15-747d-484ecb5f2dd1-cb5f2da4" class="footer-block">
+                    <div class="caption-small">BRANCHES</div>
+
+                    <a href="tel:01182276227" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+                        <div class="footer-link_contact">0118 2276227 <span class="text-span">• Reading</span>
+                        </div>
+                    </a>
+                    <a href="tel:01273927320" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+                        <div class="footer-link_contact">0127 3927320 <span class="text-span">• Brighton</span></div>
+                    </a>
+                    <a href="tel:01793379155" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+                        <div class="footer-link_contact">0179 3379155 <span class="text-span">• Swindon</span>
+                        </div>
+                    </a>
+                                        <a href="tel:02382026565" class="footer_contact_link-block w-inline-block"><img
+                            src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
+                            alt="" />
+                        <div class="footer-link_contact">0238 2026565 <span class="text-span">• Southampton</span></div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
         <p class="footer-copyright-center">
             Bestway Relocation is a trading name of Bestway
             Relocation Limited. A company registered in England and Wales with Company No. 16126468.

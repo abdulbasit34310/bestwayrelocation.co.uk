@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
     <!-- Meta Title -->
-    <title>Student Removals UK | Nationwide Student Moving Services | Bestway Relocation</title>
+    <title>Student Relocations UK | Nationwide Student Moving Services | Bestway Relocation</title>
 
     <!-- Meta Description -->
     <meta name="description"
@@ -20,7 +20,7 @@
         content="Student Removals UK, University Moving Services, Student Moving Company, UK Student Movers, Student Storage UK, Best Student Removal Company, Student Packing Services, Student House Moves UK, Nationwide Student Relocation">
 
     <!-- Open Graph Meta Tags for Social Sharing -->
-    <meta property="og:title" content="Student Removals UK | Nationwide Student Moving Services | Bestway Relocation">
+    <meta property="og:title" content="Student Relocations UK | Nationwide Student Moving Services | Bestway Relocation">
     <meta property="og:description"
         content="Flexible, affordable student removals across the UK. From halls to home, we’ve got your move covered. Get a quote now from Bestway Relocation.">
     <meta property="og:url" content="https://www.bestwayrelocation.co.uk/student-removals-uk">
@@ -29,7 +29,7 @@
 
     <!-- Twitter Card Meta -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Student Removals UK | Nationwide Student Moving Services | Bestway Relocation">
+    <meta name="twitter:title" content="Student Relocations UK | Nationwide Student Moving Services | Bestway Relocation">
     <meta name="twitter:description"
         content="Bestway Relocation offers expert student moving services nationwide. Affordable, reliable, and built for student life.">
     <meta name="twitter:image" content="https://www.bestwayrelocation.co.uk/images/student-removals-uk.jpg">
@@ -89,8 +89,9 @@
             line-height: 1.6;
         }
         .cta_section {
-            background: #f8f9fa;
-            padding: 60px 0;
+            background: #FBFBFD;
+    padding: 45px 0;
+
         }
         .cta_wrapper {
             max-width: 800px;
@@ -176,7 +177,7 @@
                 <div class="main-content">
                     <div class="cta_maine">
                         <div class="cta_content">
-                            <h2 class="heading-2">Student Removals UK – Affordable & Flexible Nationwide Services</h2>
+                            <h2 class="heading-2">Affordable & Flexible Nationwide Services</h2>
                             <p>
                                 Whether you're moving into university halls, switching between student flats, or heading
                                 home for the holidays, Bestway Relocation provides affordable, hassle-free student
@@ -246,7 +247,7 @@
                                 <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f"
                                     class="content-section_text">
                                     <div class="rich-text w-richtext">
-                                        <h4 class="heading-2">Nationwide Student Removals UK</h4>
+                                        <h4 class="heading-2">Nationwide Student Relocations UK</h4>
                                         <div class="text-white">
                                             <p>Bestway Relocation offers fast, flexible, and affordable student removals
                                                 across the UK —
@@ -291,7 +292,7 @@
 
     <section class="cta_section">
         <div class="cta_wrapper">
-            <h2 class="heading-2"><b>Student Removals FAQs</b></h2>
+            <h2 class="heading-2"><b>Student Relocations FAQs</b></h2>
             <div id="accordion">
 
                 <div class="card">

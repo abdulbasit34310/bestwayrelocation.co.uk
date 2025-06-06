@@ -145,7 +145,7 @@
             Whether you're relocating a flat, townhouse, office space, or commercial premises, our experienced team
             ensures a smooth and stress-free move from start to finish.</p>
           <br>
-          <img src="https://www.blueskyrelocation.co.uk/wp-content/uploads/2021/05/removals-in-london1-1.jpg"
+          <img src="https://www.Bestwayrelocation.co.uk/wp-content/uploads/2021/05/removals-in-london1-1.jpg"
             alt="Removals in London" width="1200" height="800" class="size-large" loading="lazy" decoding="async">
 
           <h2>How Much Does a Move in London Cost?</h2>
@@ -304,7 +304,7 @@
 
           <h2>Public Transport</h2>
           <p>Monthly travel cards cost between £142–£370 depending on your travel zones (Zones 1–9).</p>
-          <p><img src="https://www.blueskyrelocation.co.uk/wp-content/uploads/2021/05/london-underground-map-min-1.png"
+          <p><img src="https://www.Bestwayrelocation.co.uk/wp-content/uploads/2021/05/london-underground-map-min-1.png"
               alt="London Underground Map" loading="lazy" class="size-large"></p>
 
           <p>For a truly stress-free move in and around London — contact Bestway Relocation today and let’s get you

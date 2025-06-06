@@ -47,50 +47,6 @@
 
 <body>
     <?php include 'components/nav-2.php'; ?>
-    <!-- <section class="standart-page_content-section next-section">
-            <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c"
-                class="content-section_text european-freight">
-                <section class="_340_hero-setion">
-                    <div class="w-layout-grid _340_hero-setion_grid">
-                        <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2f5-aba9487e" class="_340_hero-setion_heading">
-                            <div>
-                               <h2 class="heading-2">Our Nationwide Branches</h2>
-                                <p>
-                                    Bestway Relocation is a trusted national moving company providing
-                                    white-glove moving services
-                                    across the UK. Whether you're moving locally or across the country, our team
-                                    ensures a seamless,
-                                    professional experience from start to finish.
-                                    We are proud of our extensive network of branches, which allows us to serve
-                                    every corner of the
-                                    UK. But if you can’t see your location listed here, don’t worry — we
-                                    specialize in bespoke
-                                    furniture removals, and we’ll work with you to find a solution that meets
-                                    your needs. Get in
-                                    touch and let us know how we can help.
-                                </p>
-                                <div>
-                                    <a data-w-id="49407b29-7d97-79bb-230c-5787fde768e2"
-                                        style="border-color:rgb(183,157,24)" href="#"
-                                        class="main-yellow-outline-cta_download margin-left-20 off w-inline-block">
-                                        <div class="main-yellow-outline-cta_download_text">Download</div>
-                                        <img src="assets/64ae94fa75e1882ff9a4f9fe/64b14db1a27271e2496d19bd_arrow_icn-1.svg"
-                                            loading="lazy" width="14" height="14" alt=""
-                                            class="download_icon_yello" />
-                                        <img src="assets/64ae94fa75e1882ff9a4f9fe/64b14db1fecf02d30dfe34d9_arrow_icn.svg"
-                                            loading="lazy" width="14" height="14" alt="" style="display:none;opacity:0"
-                                            class="download_icon_yello hover" />
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2fb-aba9487e"
-                            class="_340_hero-setion_img departure">
-                        </div>
-                    </div>
-                </section>
-            </div>
-    </section> -->
     <section class="standart-page_content-section next-section">
         <div class="content-section_grid european-freight">
             <div class="cta_maine marginTop">
@@ -118,11 +74,11 @@
     </section>
 
     <section class="section-7">
-        <div class="content_wrapper">
+        <div class="specs_wrapper">
             <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c"
                 class="content-section_text european-freight">
 
-                <div class="rich-text">
+                      <div class="rich-text">
                     <div class="w-layout-grid grid-12">
 
                         <div id="w-node-c9bf8dff-85e0-6281-5279-ec345cbb8aac-aba9487a">
@@ -167,7 +123,7 @@
                             </div>
                             <div class="div-block-21"><img src="assets/64ae94fa75e1882ff9a4f9fe/address_icon.png"
                                     loading="lazy" alt="" class="image-8" />
-                                <p class="body-2">Regus House, 268 Bath Rd, Slough SL1 4D</p>
+                                <p class="body-2">Regus House, 268 Bath Rd, Slough SL1 4DX</p>
                             </div>
                             <div class="div-block-21">
                                 <img src="assets/64ae94fa75e1882ff9a4f9fe/email_icon.png" loading="lazy" alt=""
@@ -403,7 +359,6 @@
                     </div>
                 </div>
 
-                
             </div>
         </div>
     </section>

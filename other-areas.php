@@ -130,9 +130,9 @@
         .area-letter-block {
             flex: 1 1 calc(33.333% - 20px);
             background-color: #f9f9f9;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            padding: 25px 50px;
+            border-radius: 12px;
+            box-shadow: -20px 20px 11px rgba(0, 0, 0, 0.05);
         }
 
         .letter-heading {
@@ -199,7 +199,7 @@
                         </div>
   </div>
   <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Service coverage map" class="image-15" />
-  <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager" alt="Nationwide relocation" class="image-11" />
+  <img src="assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="Nationwide relocation" class="image-11" />
 </div>
 
 <br><br>

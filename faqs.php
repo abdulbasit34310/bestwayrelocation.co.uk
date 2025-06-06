@@ -46,7 +46,7 @@
     <?php include 'components/nav-2.php'; ?>
 
         <section class="section_our-values">
-            <div class="content_wrapper">
+            <div class="specs_wrapper">
               <div>
                 <!--<div class="subtitle">FAQs</div>-->
                 <br><br><br>
@@ -194,18 +194,17 @@
           </section>
 
         <section class="section-9">
-            <div class="content_wrapper">
+            <div class="specs_wrapper">
                 <div class="quote-wrapper">
                     <div class="quote-text">
-                        <h4>Our mission to collect ship and deliver your goods on time every time. To become your
-                            trusted logistics and freight provider that supports and helps your business grow.</h4>
+                        <h4>   Our mission is to carefully collect, transport, and deliver your belongings on time, every time. We strive to become your trusted relocation partner, dedicated to supporting and simplifying your move so you can focus on starting your new chapter with confidence.</h4>
                         <div class="marks">“</div>
                         <div class="marks _2">”</div>
                     </div>
                     <div class="qoute-devider"></div>
-                    <div>
-                        <div class="testimonials_autor">CEO, <span class="text-span-2">Francis Egan</span></div>
-                    </div>
+                    <!--<div>-->
+                    <!--    <div class="testimonials_autor">CEO, <span class="text-span-2">Naeem</span></div>-->
+                    <!--</div>-->
                 </div>
             </div>
         </section>

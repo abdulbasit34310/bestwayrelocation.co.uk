@@ -106,14 +106,13 @@
               <div class="top-feature-content">
                 <p><strong>Comprehensive Insurance</strong><br>
                   Every quote comes with goods-in-transit insurance included — upto <br> £50,000 for extra
-                  confidence
-                  on moving day.
+                  confidence on moving day.
                 </p>
               </div>
             </li>
 
             <li class="top-feature-item">
-              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/8.svg" loading="lazy" alt="" />
+              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/9.svg" loading="lazy" alt="" />
               </div>
               <div class="top-feature-content">
                 <p><strong>White-Glove Handling for Homes & Offices</strong><br>
@@ -123,7 +122,7 @@
             </li>
 
             <li class="top-feature-item">
-              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/9.svg" loading="lazy" alt="" />
+              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/8.svg" loading="lazy" alt="" />
               </div>
               <div class="top-feature-content">
                 <p><strong>Dedicated Support from Start to Finish</strong><br>
@@ -138,8 +137,8 @@
         <div class="div-block-80"></div>
       </div>
     </section>
-
     <script>
+
       document.addEventListener("DOMContentLoaded", function () {
         const form = document.getElementById("myForm");
         const formContainer = document.getElementById("formContainer");
@@ -393,9 +392,9 @@
               <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/20.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">We care for the environment</div>
             </div>
+            <button class="nav-button prev-button">←</button>
+            <button class="nav-button next-button">→</button>
           </div>
-          <button class="nav-button prev-button">←</button>
-          <button class="nav-button next-button">→</button>
         </div>
       </div>
 
@@ -444,6 +443,8 @@
           }, 5000);
         });
       </script>
+
+
     </section>
 
     <section class="section-2">
@@ -475,10 +476,11 @@
           <div class="features_item new">
             <div>
               <div class="features-image"></div>
-              <div class="subtitle yellow-bg margin-8">01</div>
+              <div class="subtitle yellow-bg margin-8"></div>
               <h4 class="heading-4">Hassle-Free Furniture Setup</h4>
               <div class="body-2">
-                We’ll carefully dismantle and reassemble beds, wardrobes, dining tables, and more — so you don’t have to
+                We’ll carefully dismantle and reassemble beds, wardrobes, dining tables, and more as standard — so you
+                don’t have to
                 lift a finger.
               </div>
             </div>
@@ -487,31 +489,31 @@
           <div class="features_item new">
             <div>
               <div class="features-image express-overnight"></div>
-              <div class="subtitle yellow-bg margin-8">02</div>
+              <div class="subtitle yellow-bg margin-8"></div>
               <h4 class="heading-4">Flexible Booking Options</h4>
               <div class="body-2">
-                Change of plans? No problem. Enjoy unlimited free date changes and zero cancellation fees for total
-                peace of mind.
+                Change of plans? No problem. Enjoy unlimited free date changes and zero cancellation fees upto 72 hours
+                before the move.
+              </div>
+            </div>
+          </div>
+
+          <div class="features_item new">
+            <div>
+              <div class="features-image shipping-to-uk"></div>
+              <div class="subtitle yellow-bg margin-8"></div>
+              <h4 class="heading-4">Professional & Insured Movers</h4>
+              <div class="body-2">
+                Our trained, and uniformed team delivers a insured, professional, safe
+                and seamless moving experience.
               </div>
             </div>
           </div>
 
           <div class="features_item new down">
             <div>
-              <div class="features-image shipping-to-uk"></div>
-              <div class="subtitle yellow-bg margin-8">03</div>
-              <h4 class="heading-4">Professional & Insured Movers</h4>
-              <div class="body-2">
-                Our trained, and uniformed team delivers a safe, respectful,
-                and seamless moving experience.
-              </div>
-            </div>
-          </div>
-
-          <div class="features_item new down _2">
-            <div>
               <div class="features-image european-freight"></div>
-              <div class="subtitle yellow-bg margin-8">04</div>
+              <div class="subtitle yellow-bg margin-8"></div>
               <h4 class="heading-4">Packing Solutions</h4>
               <div class="body-2">
                 Don’t stress about last-minute packing errands. We offer a full range of moving supplies.
@@ -546,6 +548,30 @@
       </div>
     </section> -->
 
+    <section class="standart-page_content-section paddingLine paddingTop" Style="margin:5%">
+      <div class="w-layout-grid content-section_grid">
+        <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba94893" class="content-section_text">
+          <div class="rich-text w-richtext">
+            <h2 class="heading-2">House Removals</h2>
+            <p>
+              Moving house can be overwhelming — but with Bestway Relocation by your side, it doesn’t have to be.
+              <br /><br />
+              We’ve refined our house removals process through years of hands-on experience, delivering moves that are
+              smooth, timely, and fully tailored to your needs.
+              <br /><br />
+              From carefully packing your belongings to safely unloading them at your new home, we handle every step
+              with precision. Our professional movers bring the right tools, vehicles, and support to ensure everything
+              goes exactly as planned.
+              <br /><br />
+              Throughout the process, we treat your home and possessions with complete respect — protecting both your
+              property and your peace of mind.
+            </p>
+          </div>
+        </div>
+        <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba94893" class="content-section_image storage"></div>
+      </div>
+    </section>
+
     <section class="standart-page_content-section pt-5 paddingLine paddingTop" Style="margin:5%">
       <div class="w-layout-grid content-section_grid">
         <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f" class="content-section_image pallets"></div>
@@ -568,30 +594,6 @@
             </p>
           </div>
         </div>
-      </div>
-    </section>
-
-    <section class="standart-page_content-section paddingLine paddingTop" Style="margin:5%">
-      <div class="w-layout-grid content-section_grid">
-        <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba94893" class="content-section_text">
-          <div class="rich-text w-richtext">
-            <h2 class="heading-2">House Removals</h2>
-            <p>
-              Moving house can be overwhelming — but with Bestway Relocation by your side, it doesn’t have to be.
-              <br /><br />
-              We’ve refined our house removals process through years of hands-on experience, delivering moves that are
-              smooth, timely, and fully tailored to your needs.
-              <br /><br />
-              From carefully packing your belongings to safely unloading them at your new home, we handle every step
-              with precision. Our professional movers bring the right tools, vehicles, and support to ensure everything
-              goes exactly as planned.
-              <br /><br />
-              Throughout the process, we treat your home and possessions with complete respect — protecting both your
-              property and your peace of mind.
-            </p>
-          </div>
-        </div>
-        <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba94893" class="content-section_image storage"></div>
       </div>
     </section>
 
@@ -676,12 +678,12 @@
     </section>
 
     <style>
+      @media screen and (max-width: 479px) {
+        .features-container {}
+      }
+
       /* Mobile Responsive Styles */
       @media screen and (max-width: 767px) {
-        .content_wrapper {
-          padding: 15px 15px;
-        }
-
         .grid-8 {
           display: block !important;
         }
@@ -729,7 +731,7 @@
 
         .content-section_image {
           height: 250px !important;
-          /* margin-bottom: 30px; */
+          /*margin-bottom: 30px;*/
         }
 
         .heading-2 {
@@ -740,11 +742,6 @@
         .body-2 {
           font-size: 16px;
           line-height: 1.5;
-        }
-
-        /* Package Section Mobile Styles */
-        .packages-section {
-          padding: 50px 0;
         }
 
         .packages-grid {
@@ -775,7 +772,7 @@
 
         .package-list li {
           font-size: 14px;
-          padding: 10px 0 10px 30px;
+          padding: 0px 0 12px 36px;
         }
 
         /* Features Section Mobile Styles */
@@ -878,8 +875,8 @@
       }
 
       .packages-section {
-        /* padding: 100px 0;
-        background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); */
+        /*padding: 100px 0;*/
+        /*background: #f8f9fa*/
       }
 
       .packages-grid {
@@ -894,7 +891,7 @@
       .package-card {
         background: #fff;
         border-radius: 20px;
-        padding: 40px;
+        padding: 30px;
         position: relative;
         transition: all 0.3s ease;
         box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
@@ -902,7 +899,7 @@
 
       .package-card:hover {
         transform: translateY(-10px);
-        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1)
       }
 
       .package-card.popular {
@@ -937,7 +934,6 @@
       .package-name {
         font-size: 24px;
         font-weight: 700;
-        margin-bottom: 15px;
       }
 
       .package-price {
@@ -992,7 +988,7 @@
 
       .get-plan-button {
         display: block;
-        padding: 15px 30px;
+        padding: 10px 15px;
         background: #000;
         color: #fff;
         text-align: center;
@@ -1017,6 +1013,10 @@
       }
 
       @media screen and (max-width: 991px) {
+        .w-layout-grid {
+          display: block !important;
+        }
+
         .packages-grid {
           grid-template-columns: repeat(2, 1fr);
         }
@@ -1112,7 +1112,7 @@
       }
 
       .features-container {
-        max-width: 1400px;
+        max-width: 1500px;
         margin: 0 auto;
         padding: 0 60px;
       }
@@ -1181,7 +1181,7 @@
         color: #333;
         cursor: pointer;
         z-index: 2;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.1);
         transition: all 0.3s ease;
         display: flex;
         align-items: center;
@@ -1195,11 +1195,11 @@
       }
 
       .prev-button {
-        left: 10px;
+        left: 7px;
       }
 
       .next-button {
-        right: 10px;
+        right: 7px;
       }
     </style>
 

@@ -3,7 +3,6 @@
   data-wf-site="64ae94fa75e1882ff9a4f9fe">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta charset="utf-8" />
   <title>Removals Company Twickenham TW1 | Bestway Relocation</title>
   <meta name="description"
