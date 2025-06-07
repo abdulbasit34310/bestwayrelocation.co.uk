@@ -58,34 +58,7 @@
         /* Optional shadow for separation */
     }
 
-    @media (min-width: 962px) {
-        .next-section {
-            margin-top: 135px;
-            /* Navbar height (80px) + Extra spacing (20px) */
-        }
-    }
 
-    @media screen and (min-width: 767px) and (max-width: 962px) {
-        .next-section {
-            margin-top: 100px;
-            /* Adjusted for mobile screen */
-        }
-    }
-
-
-    @media screen and (min-width: 479px) and (max-width: 767px) {
-        .next-section {
-            margin-top: 90px;
-            /* Adjusted for mobile screen */
-        }
-    }
-
-    @media (max-width: 479px) {
-        .next-section {
-            margin-top: 70px;
-            /* Adjusted for mobile screen */
-        }
-    }
 
     /* Navbar Links */
     .navbar-logo-center-container a {
@@ -382,7 +355,7 @@
         .navbar-wrapper-three,
         .navbar-brand-three {
             background: #1e1e1e !important;
-            min-height: 73px !important;
+            min-height: 58px !important;
             padding-top: 3% !important;
             padding-bottom: 5% !important;
             overflow: visible !important;

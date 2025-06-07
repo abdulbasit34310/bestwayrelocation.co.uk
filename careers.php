@@ -29,7 +29,7 @@
     content="Looking for a rewarding career in relocation? Apply today and join the Bestway Relocation team across the UK.">
   <meta name="twitter:image" content="https://www.bestwayrelocation.co.uk/assets/images/careers-banner.jpg">
 
-  <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet"
     type="text/css" />
   <style>
     @media (min-width:992px) {
@@ -84,7 +84,7 @@
   </style>
   <script
     type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-  <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/Favicon.png" rel="shortcut icon"
     type="image/x-icon" />
   <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
     rel="apple-touch-icon" />

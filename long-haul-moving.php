@@ -28,7 +28,7 @@
         content="Bestway Relocation offers reliable moving services throughout the UK. View our complete area coverage from A to Z.">
     <meta property="twitter:image" content="https://www.bestwayrelocation.co.uk/images/area-coverage-map.jpg">
 
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet"
         type="text/css" />
     <style>
         @media (min-width:992px) {
@@ -83,7 +83,7 @@
     </style>
     <script
         type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-    <link href="assets/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
+    <link href="assets/Favicon.png" rel="shortcut icon"
         type="image/x-icon" />
     <link href="assets/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
         rel="apple-touch-icon" />

@@ -38,6 +38,10 @@
               groups like Checkatrade and CMM, delivering high-quality moving services in Hampshire and nearby areas.
             </p>
           </div>
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Buckinghamshire removals service"
+            class="image-15" />
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
+            alt="Removals in Buckinghamshire illustration" class="image-11" />
         </div>
         <div class="main-content">
           <h2>About Us</h2>

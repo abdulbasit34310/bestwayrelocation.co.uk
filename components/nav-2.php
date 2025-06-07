@@ -6,7 +6,7 @@
                 <a href="index.php" aria-current="page" class="navbar-brand-three w-nav-brand w--current">
                     <img src="assets/64ae94fa75e1882ff9a4f9fe/Logo.png" loading="lazy" width="212.5" alt="" />
                 </a>
-                <!-- Mobile Only Icons -->
+                <!-- Mobile Only Icons 
                 <div class="mobile-only-icons">
                     <a href="tel:08000147676" class="mobile-icon">
                         <span class="fa-stack" style="font-size: 18px;">
@@ -20,7 +20,7 @@
                             <i class="fas fa-clipboard-list fa-stack-1x fa-inverse" style="color: #1e1e1e;"></i>
                         </span>
                     </a>
-                </div>
+                </div>-->
                 <nav role="navigation" class="nav-menu-wrapper-three w-nav-menu">
                     <div class="nav-menu-three" style="padding:40px;">
 
@@ -59,7 +59,7 @@
                             </div>
 
                             <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
-                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href="locations.php"
+                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href=""
                                         class="navbar_dropdown_link-item">Our Services</a><img
                                         src="assets/64ae94fa75e1882ff9a4f9fe/64afb32e48ca80169bc61600_arrow_icn.svg"
                                         loading="lazy" height="11" width="11" alt="" class="dropdown_arrow" /></div>
@@ -132,8 +132,8 @@
                 </nav>
                 <div class="menu-button w-nav-button">
                     <span class="fa-stack" style="font-size: 18px;">
-                        <i class="fas fa-square fa-stack-2x" style="color: #FFBF39;"></i>
-                        <i class="fas fa-bars fa-stack-1x fa-inverse" style="color: #1e1e1e;"></i>
+                        <i class="fas fa-square fa-stack-2x" style="color: #1e1e1e;"></i>
+                        <i class="fas fa-bars fa-stack-1x fa-inverse" style="color: #ffffff;"></i>
                     </span>
                 </div>
             </div>

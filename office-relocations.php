@@ -34,8 +34,7 @@
         content="Expert office movers you can trust. From IT equipment to full corporate setups, we handle your business relocation end-to-end.">
     <meta name="twitter:image" content="https://www.bestwayrelocation.co.uk/images/og-office-removals.jpg">
 
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
-        type="text/css" />
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet" type="text/css" />
     <style>
         @media (min-width:992px) {
             html.w-mod-js:not(.w-mod-ix) [data-w-id="5319ee58-1ca7-9f4b-9306-46999fdf60b4"] {
@@ -95,8 +94,7 @@
                 .className += t + "touch")
         }(window, document);
     </script>
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
-        type="image/x-icon" />
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/Favicon.png" rel="shortcut icon" type="image/x-icon" />
     <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
         rel="apple-touch-icon" />
     <?php include 'components/extra.php'; ?>
@@ -283,7 +281,37 @@
             </div>
         </div>
     </section>
-    <?php include 'components/specializtion.php'; ?>
+    <section class="standart-page_content-section pt-5 paddingLine paddingTop" Style="margin:5%">
+        <div class="w-layout-grid content-section_grid">
+            <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f" class="content-section_image pallets"></div>
+            <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f" class="content-section_text">
+                <div class="rich-text w-richtext">
+                    <h2 class="heading-2">Office Relocation</h2>
+                    <p>
+                        At Bestway Relocation, we understand that time is money — and office moves need to be seamless,
+                        fast, and
+                        disruption-free.
+                        <br /><br />
+                        With years of experience in business relocations, we deliver efficient office moves that align
+                        with your
+                        schedule, so your team stays focused and operational throughout the transition.
+                        <br /><br />
+                        Whether you're upgrading to a larger space, consolidating to a smaller one, or moving across
+                        town, we
+                        tailor every step of the process to fit your business needs — including packing, transport, and
+                        setup.
+                        <br /><br />
+                        From IT equipment and office furniture to sensitive documents and inventory, we handle it all
+                        with
+                        precision and care. No matter the size or scale of your business, you can rely on us to move you
+                        safely
+                        and professionally.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <?php include 'components/specialization.php'; ?>
     <?php include 'components/foot-2.php'; ?>
     <script src="d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c88852.js?site=64ae94fa75e1882ff9a4f9fe"
         type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">

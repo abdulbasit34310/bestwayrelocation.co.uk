@@ -26,12 +26,12 @@
 <body>
   <?php include '../components/nav.php'; ?>
 
-  <section class="standart-page_content-section">
+  <section class="standart-page_content-section next-section">
     <div class="content-section_grid european-freight">
-      <div class="content-section_text european-freight">
+      <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
         <div class="cta_maine">
           <div class="cta_content">
-            <h1>Premier Removals Company in Maidenhead</h1>
+            <h2 class="heading-2">Premier Removals Company in Maidenhead</h2>
             <p>At Bestway Relocation, we are a trusted and experienced removals company based in Maidenhead. With years
               of industry expertise, our professional team is dedicated to providing a seamless and stress-free moving
               experience for every customer. Whether you're relocating locally or nationwide, we offer tailored services
@@ -59,10 +59,11 @@
             </div>
           </div>
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />
+        </div>
         <div class="main-content">
           <br /><br /><br />
-          <h3>About Bestway Relocation in Maidenhead</h3>
+          <h4>About Bestway Relocation in Maidenhead</h4>
           <p>Bestway Relocation is your reliable white-glove moving company in Maidenhead, ready to assist with every
             aspect of your move. Whether you're transitioning your household or relocating a business, our comprehensive
             relocation services ensure a smooth and efficient process. We're committed to providing exceptional service
@@ -72,7 +73,7 @@
           <p>Our trained movers handle everything from delicate items to bulky furniture, ensuring your possessions are
             packed, transported, and unpacked with care.</p>
 
-          <h3>Why Choose Bestway Relocation?</h3>
+          <h4>Why Choose Bestway Relocation?</h4>
           <ul class="rich-text">
             <li>Over 7+ years of experience moving homes and offices</li>
             <li>Comprehensive packing service with high-quality materials</li>
@@ -85,7 +86,7 @@
             into your new space. Our commitment to excellence means you can enjoy a stress-free and premium moving
             experience.</p>
 
-          <h3>House Removals in Maidenhead</h3>
+          <h4>House Removals in Maidenhead</h4>
           <p>Our residential removal service is among the most sought-after in Maidenhead. Whether you're moving locally
             or to another part of the UK, our expert team ensures a hassle-free move with local knowledge and
             transparent pricing. You won’t even need to pack—we can handle it all for you.</p>
@@ -93,13 +94,13 @@
             Our flexible scheduling accommodates changes in move dates and times, and our stellar 4.9-star rating on
             Trustpilot reflects our dedication to customer satisfaction.</p>
 
-          <h3>Office Relocation in Maidenhead</h3>
+          <h4>Office Relocation in Maidenhead</h4>
           <p>Relocating your business? Bestway Relocation offers professional office removals to help you move
             seamlessly—whether it's across town or nationwide. Let us handle the heavy lifting so you can focus on your
             business priorities. We’re fully insured to protect your valuable assets, and we welcome complex moving
             challenges with confidence.</p>
 
-          <h3>Professional Packing Services</h3>
+          <h4>Professional Packing Services</h4>
           <p>Our expert packing services are tailored to simplify your move. We use only premium materials to protect
             your belongings and offer:</p>
           <ul class="rich-text">
@@ -110,37 +111,37 @@
           <p>Whether you're moving a few boxes or an entire household or office, we have you covered with flexible and
             efficient packing solutions.</p>
 
-          <h3>Secure Storage Solutions</h3>
+          <h4>Secure Storage Solutions</h4>
           <p>As a trusted storage provider in Maidenhead, we offer secure and adaptable storage options for both
             residential and commercial clients. Whether you're in between properties or need temporary space during a
             move, our storage services provide flexibility and peace of mind at an affordable price.</p>
 
-          <h3>Contact Bestway Relocation Today</h3>
+          <h4>Contact Bestway Relocation Today</h4>
           <p>Ready to start your move in Maidenhead? Contact Bestway Relocation today for a <strong>free, no-obligation
               quote</strong>. Our friendly team is happy to answer any questions and tailor our services to suit your
             needs.</p>
           <p>Website: <a href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a></p>
           <p>Service Hours: Monday to Saturday, 8 AM – 6 PM | Sunday: Closed</p>
 
-          <h3>Local Expertise in Maidenhead</h3>
+          <h4>Local Expertise in Maidenhead</h4>
           <p>Being based in Maidenhead, we understand the local area, traffic patterns, and the best times to move.
             Whether you're relocating to a riverside home, a property in the town centre, or a nearby village, our
             familiarity with the region ensures a more efficient move. Our local knowledge allows us to plan logistics
             effectively and avoid unnecessary delays.</p>
 
-          <h3>Customised Moving Plans</h3>
+          <h4>Customised Moving Plans</h4>
           <p>At Bestway Relocation, we know that every move is different. That’s why we create a personalised moving
             plan tailored to your schedule, budget, and specific requirements. Whether you need an urgent move or are
             planning months ahead, our flexible and accommodating approach puts you in control of your relocation
             journey.</p>
 
-          <h3>Eco-Friendly Removals</h3>
+          <h4>Eco-Friendly Removals</h4>
           <p>We care about the environment and are committed to sustainable moving practices. From using recyclable
             packing materials to fuel-efficient vehicles, we strive to reduce our carbon footprint while delivering
             exceptional service. Ask us about our green moving options to make your relocation as eco-conscious as it is
             efficient.</p>
 
-          <h3>Specialist Removals</h3>
+          <h4>Specialist Removals</h4>
           <p>Do you have antiques, pianos, or sensitive equipment that needs special care? Our team is trained in
             specialist removals and can manage high-value, delicate, or unusually shaped items with the attention they
             deserve. We use custom packing techniques and protective materials to ensure every item arrives in perfect

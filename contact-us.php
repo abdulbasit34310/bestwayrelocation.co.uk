@@ -28,11 +28,11 @@
         content="Talk to our team for relocation support and free moving quotes. We're just a call or message away.">
     <meta name="twitter:image" content="https://www.bestwayrelocation.co.uk/assets/images/contact-banner.jpg">
 
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet"
         type="text/css" />
     <script
         type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/Favicon.png" rel="shortcut icon"
         type="image/x-icon" />
     <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
         rel="apple-touch-icon" />
@@ -416,7 +416,7 @@
                     </div>
                 </div>
             </div>
-            <?php include 'components/specializtion.php'; ?>
+            <?php include 'components/specialization.php'; ?>
         </div>
     </section>
     <?php include 'components/foot-2.php'; ?>

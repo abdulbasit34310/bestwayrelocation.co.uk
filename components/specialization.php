@@ -1,6 +1,6 @@
-<link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet" type="text/css" />
+<link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet" type="text/css" />
 <section class="section-3">
-    <div class="specs_wrapper">
+    <div class="content_wrapper">
         <div class="w-layout-grid grid-4">
             <div>
 
