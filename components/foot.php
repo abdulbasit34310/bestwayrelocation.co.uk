@@ -101,8 +101,8 @@
             <div class="footer-content">
                 <div class="footer-block">
                     <div class="caption-small">COMPANY</div>
-                    <a href="../company/packing-supplies.php" class="footer-link">Packing Supplies</a>
-                    <a href="../company/storage-solutions.php" class="footer-link">Storage Solutions</a>
+                    <a href="../service-coverage.php" class="footer-link">Service Coverage</a>
+                    <a href="../long-haul-moving.php" class="footer-link">Long Haul Moving</a>
                     <a href="../company/modern-slavery-statement.php" class="footer-link">Slavery Statement</a>
                     <a href="../company/environmental-policy.php" class="footer-link">Environmental Policy</a>
                 </div>

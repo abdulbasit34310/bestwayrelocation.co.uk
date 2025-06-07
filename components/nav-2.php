@@ -59,31 +59,27 @@
                             </div>
 
                             <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
-                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href="house-removals.php"
-                                        class="navbar_dropdown_link-item">House Removals</a><img
+                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href="locations.php"
+                                        class="navbar_dropdown_link-item">Our Services</a><img
                                         src="assets/64ae94fa75e1882ff9a4f9fe/64afb32e48ca80169bc61600_arrow_icn.svg"
                                         loading="lazy" height="11" width="11" alt="" class="dropdown_arrow" /></div>
-                            </div>
-
-                            <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
-                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href="office-relocations.php"
-                                        class="navbar_dropdown_link-item">Office Relocation</a><img
-                                        src="assets/64ae94fa75e1882ff9a4f9fe/64afb32e48ca80169bc61600_arrow_icn.svg"
-                                        loading="lazy" height="11" width="11" alt="" class="dropdown_arrow" /></div>
-                            </div>
-
-                            <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
-                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href="student-relocations.php"
-                                        class="navbar_dropdown_link-item">Student Relocation</a><img
-                                        src="assets/64ae94fa75e1882ff9a4f9fe/64afb32e48ca80169bc61600_arrow_icn.svg"
-                                        loading="lazy" height="11" width="11" alt="" class="dropdown_arrow" /></div>
-                            </div>
-
-                            <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
-                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href="international-relocations.php"
-                                        class="navbar_dropdown_link-item">International Relocation</a><img
-                                        src="assets/64ae94fa75e1882ff9a4f9fe/64afb32e48ca80169bc61600_arrow_icn.svg"
-                                        loading="lazy" height="11" width="11" alt="" class="dropdown_arrow" /></div>
+                                <nav class="navbar_dropdown-list w-dropdown-list">
+                                    <a href="house-removals.php"
+                                        class="navbar_dropdown_link-item mobile w-dropdown-link">House Removals</a>
+                                    <a href="office-relocations.php"
+                                        class="navbar_dropdown_link-item mobile w-dropdown-link">Office
+                                        Relocation</a>
+                                    <a href="student-relocations.php"
+                                        class="navbar_dropdown_link-item mobile w-dropdown-link">Student
+                                        Relocation</a>
+                                    <a href="international-relocations.php"
+                                        class="navbar_dropdown_link-item mobile w-dropdown-link">International
+                                        Relocation</a>
+                                    <a href="our-services/packing-supplies.php" class="navbar_dropdown_link-item mobile w-dropdown-link">Packing
+                                        Supplies</a>
+                                    <a href="our-services/storage-solutions.php" class="navbar_dropdown_link-item mobile w-dropdown-link">Storage
+                                        Solutions</a>
+                                </nav>
                             </div>
 
                             <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
@@ -102,8 +98,6 @@
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Buckinghamshire</a>
                                     <a href="locations/removals-in-oxfordshire.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Oxfordshire</a>
-                                    <!-- <a href="locations/removal-company-maidenhead.php"
-                    class="navbar_dropdown_link-item mobile w-dropdown-link">Maidenhead</a> -->
                                     <a href="locations/removals-in-hampshire.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Hampshire</a>
                                     <a href="removals-in-eastsussex.php"
@@ -111,23 +105,9 @@
                                         Sussex</a>
                                     <a href="removals-in-wiltshire.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Wiltshire</a>
-                                    <a href="areas-we-cover.php"
-                                        class="navbar_dropdown_link-item mobile w-dropdown-link">Other Areas we
-                                        cover</a>
-                                    <a href="other-areas.php"
-                                        class="navbar_dropdown_link-item mobile w-dropdown-link">Popular Long
-                                        Distance Moving Routes</a>
                                 </nav>
                             </div>
 
-                            <!-- <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
-                                <div class="navbar_dropdown-toggle w-dropdown-toggle"><a
-                                        href="locations/packing-supplies.php" class="navbar_dropdown_link-item">Packing
-                                        Supplies</a><img
-                                        src="assets/64ae94fa75e1882ff9a4f9fe/64afb32e48ca80169bc61600_arrow_icn.svg"
-                                        loading="lazy" height="11" width="11" alt="" class="dropdown_arrow" /></div>
-                            </div> -->
-                            <!-- <a href="faqs.php" class="footer-link">FAQs</a> -->
                             <div data-hover="true" data-delay="0" class="navbar_dropdown w-dropdown">
                                 <div class="navbar_dropdown-toggle w-dropdown-toggle"><a href="faqs.php"
                                         class="navbar_dropdown_link-item">FAQs</a><img
@@ -174,6 +154,7 @@
                     display: none !important;
                 }
             }
+
             @media screen and (max-width: 767px) {
                 .mobile-only-icons {
                     display: flex !important;
@@ -181,20 +162,25 @@
                     gap: 5px;
                     margin-right: 5px;
                 }
+
                 .fa-stack {
                     transition: transform 0.3s ease;
                 }
+
                 .mobile-icon:hover .fa-stack,
                 .menu-button:hover .fa-stack {
                     transform: scale(1.1);
                 }
+
                 .menu-button {
                     padding: 0 !important;
                 }
+
                 .nav-menu-wrapper-three {
                     max-height: 80vh !important;
                     overflow-y: auto !important;
                 }
+
                 .nav-menu-three {
                     height: auto !important;
                     overflow-y: visible !important;

@@ -146,7 +146,7 @@
               materials, and specialist crate hire. Every element of your move is handled with meticulous attention to
               detail.
             </p>
-<br>
+            <br>
             <h4>Meet the Team</h4>
             <p>
               Our success is built on our people. We’ve carefully selected a dedicated team of trained professionals
@@ -159,7 +159,7 @@
               to ensure safe, secure, and efficient transportation of your belongings. Their experience,
               professionalism, and courtesy are what make us different.
             </p>
-<br>
+            <br>
             <h4>Our Values</h4>
             <p>
               Transparency is the foundation of our business. We understand that moving can be overwhelming — that’s
@@ -167,7 +167,7 @@
               communication throughout your move, our goal is to make your journey with us as smooth and stress-free
               as possible.
             </p>
-<br>
+            <br>
             <h4>Our Commitment to Customer Experience</h4>
             <p>
               At Bestway Relocation, our clients aren’t just customers — they’re partners in every move we make. From
@@ -181,7 +181,7 @@
               the same care and attention to detail. Your trust means everything to us, and that’s why we go the extra
               mile to deliver results that reflect our core values of respect, responsibility and reliability.
             </p>
-<br>
+            <br>
             <h4>Sustainability & Responsible Practices</h4>
             <p>
               As a modern relocation company, we believe in doing business responsibly. Bestway Relocation is
@@ -195,7 +195,7 @@
               partners — making your move not only easier, but more meaningful. Because we believe moving forward
               shouldn’t come at the planet’s expense.
             </p>
-<br>
+            <br>
             <h4>Where We're Headed</h4>
             <p>
               Bestway Relocation is more than a moving company — we're building a better future for the removals
@@ -208,7 +208,7 @@
               consistency, and innovation. As we grow, we remain grounded in the belief that every move is personal —
               and every customer deserves the best.
             </p>
-<br>
+            <br>
             <h4>Why Choose Us?</h4>
             <p>
               At Bestway Relocation, we don’t believe in one-size-fits-all solutions. We design every move around the
@@ -256,11 +256,10 @@
               loading="lazy" alt="" class="specialization_icon" />
             <div class="subtitle specialization_white">International <br />Relocation</div>
           </div>
-                        <div id="w-node-_4c202b8b-1734-1f17-a91a-acc244021c36-aba94876" class="specialization_item"><img
-                                src="assets/64ae94fa75e1882ff9a4f9fe/1.svg" loading="lazy" alt=""
-                                class="specialization_icon" />
-                            <div class="subtitle specialization_white">Punctual <br />Delivery</div>
-                        </div>
+          <div id="w-node-_4c202b8b-1734-1f17-a91a-acc244021c36-aba94876" class="specialization_item"><img
+              src="assets/64ae94fa75e1882ff9a4f9fe/1.svg" loading="lazy" alt="" class="specialization_icon" />
+            <div class="subtitle specialization_white">Punctual <br />Delivery</div>
+          </div>
           <div id="w-node-_36634bc5-3789-5575-fc09-1d76b5c29d7c-aba94876" class="specialization_item"><img
               src="assets/64ae94fa75e1882ff9a4f9fe/3.svg" loading="lazy" alt="" class="specialization_icon" />
             <div class="subtitle specialization_white">Customer<br /> Support</div>
