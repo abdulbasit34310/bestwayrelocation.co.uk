@@ -3,43 +3,43 @@
         .container-2 {
             padding: 0 15px;
         }
-        
+
         .footer-wrapper {
             display: block !important;
         }
-        
+
         .footer-content {
             display: block !important;
         }
-        
+
         .footer-block {
             width: 100% !important;
             margin-bottom: 30px !important;
         }
-        
+
         .footer-block img {
             /*max-width: 200px !important;*/
         }
-        
+
         .footer_contact_link-block {
             font-size: 14px !important;
         }
-        
+
         .footer-social-center {
             padding: 20px 0 !important;
         }
-        
+
         .footer-copyright-center {
             font-size: 14px !important;
             padding: 0 15px !important;
             text-align: center !important;
         }
-        
+
         .whatsapp-float {
             bottom: 15px !important;
             right: 15px !important;
         }
-        
+
         .whatsapp-float img {
             width: 50px !important;
             height: 50px !important;
@@ -63,44 +63,47 @@
 
                 </a>
                 <a href="mailto:slough@bestwayrelocation.co.uk" class="footer_contact_link-block w-inline-block"><img
-                        src="../assets/64ae94fa75e1882ff9a4f9fe/in_email_icon.png" loading="lazy"
-                        alt="" />
+                        src="../assets/64ae94fa75e1882ff9a4f9fe/in_email_icon.png" loading="lazy" alt="" />
                     <p class="footer-email">slough@bestwayrelocation.co.uk</p>
 
                 </a>
-                                <a href="https://maps.app.goo.gl/Z78xGMmo6w9FxkB5A?g_st=com.google.maps.preview.copy"
+                <a href="https://maps.app.goo.gl/Z78xGMmo6w9FxkB5A?g_st=com.google.maps.preview.copy"
                     class="footer_contact_link-block w-inline-block"><img
-                        src="../assets/64ae94fa75e1882ff9a4f9fe/in_address_icon.png" loading="lazy"
-                        alt="" />
+                        src="../assets/64ae94fa75e1882ff9a4f9fe/in_address_icon.png" loading="lazy" alt="" />
                     <p class="footer-email">Regus House, 268 Bath Rd, Slough SL1 4DX</p>
                 </a>
-                        <div class="footer-social-center">
-            <a href=" https://youtube.com/@bestwayrelocation?si=vZdF3OBKWdQ_bZ5d" target="_blank"
-                class="in w-inline-block" style="width:35px; margin:5px;"><img
-                    src="../assets/62434fa732124a0fb112aab4/youtube.png" loading="lazy" alt="" class="ink-icon" /></a>
-            <a href="https://www.tiktok.com/@bestway.relocatio?_t=ZN-8vQ07r2vFxP&_r=1" target="_blank"
-                class="in w-inline-block" style="width:35px; margin:5px;"><img
-                    src="../assets/62434fa732124a0fb112aab4/tiktok.png" loading="lazy" alt="" class="ink-icon" /></a>
+                <div class="footer-social-center">
+                    <a href=" https://youtube.com/@bestwayrelocation?si=vZdF3OBKWdQ_bZ5d" target="_blank"
+                        class="in w-inline-block" style="width:35px; margin:5px;"><img
+                            src="../assets/62434fa732124a0fb112aab4/youtube.png" loading="lazy" alt=""
+                            class="ink-icon" /></a>
+                    <a href="https://www.tiktok.com/@bestway.relocatio?_t=ZN-8vQ07r2vFxP&_r=1" target="_blank"
+                        class="in w-inline-block" style="width:35px; margin:5px;"><img
+                            src="../assets/62434fa732124a0fb112aab4/tiktok.png" loading="lazy" alt=""
+                            class="ink-icon" /></a>
 
-            <a href="https://www.instagram.com/bestwayrelocation?igsh=MTE4ajBremx2cjc4NQ%3D%3D&utm_source=qr"
-                target="_blank" class="in w-inline-block" style="width:35px; margin:5px;"><img
-                    src="../assets/62434fa732124a0fb112aab4/insta.png" loading="lazy" alt="" class="ink-icon" /></a>
+                    <a href="https://www.instagram.com/bestwayrelocation?igsh=MTE4ajBremx2cjc4NQ%3D%3D&utm_source=qr"
+                        target="_blank" class="in w-inline-block" style="width:35px; margin:5px;"><img
+                            src="../assets/62434fa732124a0fb112aab4/insta.png" loading="lazy" alt=""
+                            class="ink-icon" /></a>
 
-            <a href="https://www.linkedin.com/company/bestway-relocation-ltd/" target="_blank" class="in w-inline-block"
-                style="width:35px; margin:5px;"><img src="../assets/62434fa732124a0fb112aab4/linkedin.png"
-                    loading="lazy" alt="" class="ink-icon" /></a>
+                    <a href="https://www.linkedin.com/company/bestway-relocation-ltd/" target="_blank"
+                        class="in w-inline-block" style="width:35px; margin:5px;"><img
+                            src="../assets/62434fa732124a0fb112aab4/linkedin.png" loading="lazy" alt=""
+                            class="ink-icon" /></a>
 
-            <a href="https://www.facebook.com/share/1BqSzQU5R2/?mibextid=wwXIfr" target="_blank"
-                class="in w-inline-block" style="width:35px; margin:5px;"><img
-                    src="../assets/62434fa732124a0fb112aab4/facebook.png" loading="lazy" alt="" class="ink-icon" /></a>
-        </div>
+                    <a href="https://www.facebook.com/share/1BqSzQU5R2/?mibextid=wwXIfr" target="_blank"
+                        class="in w-inline-block" style="width:35px; margin:5px;"><img
+                            src="../assets/62434fa732124a0fb112aab4/facebook.png" loading="lazy" alt=""
+                            class="ink-icon" /></a>
+                </div>
             </div>
             <div class="footer-content">
                 <div class="footer-block">
                     <div class="caption-small">COMPANY</div>
                     <a href="../company/packing-supplies.php" class="footer-link">Packing Supplies</a>
                     <a href="../company/storage-solutions.php" class="footer-link">Storage Solutions</a>
-                                        <a href="../company/modern-slavery-statement.php" class="footer-link">Slavery Statement</a>
+                    <a href="../company/modern-slavery-statement.php" class="footer-link">Slavery Statement</a>
                     <a href="../company/environmental-policy.php" class="footer-link">Environmental Policy</a>
                 </div>
 
@@ -108,8 +111,10 @@
                     <div class="caption-small">Key Links</div>
                     <a href="../careers.php" class="footer-link">Careers</a>
                     <a href="../links/mission-statement.php" class="footer-link">Our Mission</a>
-                    <a href="../assets/Privacy_Policy.pdf" target="_blank" aria-current="page" class="footer-link w--current" rel="noopener noreferrer">Privacy Policy</a>
-                                        <a href="../assets/Terms_And_Conditions.pdf" target="_blank" aria-current="page" class="footer-link w--current" rel="noopener noreferrer">Terms & Conditions</a>
+                    <a href="../assets/Privacy_Policy.pdf" target="_blank" aria-current="page"
+                        class="footer-link w--current" rel="noopener noreferrer">Privacy Policy</a>
+                    <a href="../assets/Terms_And_Conditions.pdf" target="_blank" aria-current="page"
+                        class="footer-link w--current" rel="noopener noreferrer">Terms & Conditions</a>
                 </div>
 
                 <div id="w-node-_976c0385-189b-dd15-747d-484ecb5f2dd1-cb5f2da4" class="footer-block">
@@ -161,7 +166,7 @@
                         <div class="footer-link_contact">0179 3379155 <span class="text-span">• Swindon</span>
                         </div>
                     </a>
-                                        <a href="tel:02382026565" class="footer_contact_link-block w-inline-block"><img
+                    <a href="tel:02382026565" class="footer_contact_link-block w-inline-block"><img
                             src="assets/64ae94fa75e1882ff9a4f9fe/64afba6908db128088d1ffa9_call_icn.svg" loading="lazy"
                             alt="" />
                         <div class="footer-link_contact">0238 2026565 <span class="text-span">• Southampton</span></div>
