@@ -80,7 +80,7 @@
 
           <ul class="top-features-list">
             <li class="top-feature-item">
-              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/5.svg" loading="lazy" alt="" />
+              <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/5.svg" loading="lazy" alt="" />
               </div>
               <div class="top-feature-content">
                 <p><strong>Fast, Friendly & Reliable Communication</strong><br>
@@ -91,7 +91,7 @@
             </li>
 
             <li class="top-feature-item">
-              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/6.svg" loading="lazy" alt="" />
+              <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/6.svg" loading="lazy" alt="" />
               </div>
               <div class="top-feature-content">
                 <p><strong>7+ years of UK Relocation Experience</strong><br>
@@ -101,7 +101,7 @@
             </li>
 
             <li class="top-feature-item">
-              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/7.svg" loading="lazy" alt="" />
+              <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/7.svg" loading="lazy" alt="" />
               </div>
               <div class="top-feature-content">
                 <p><strong>Comprehensive Insurance</strong><br>
@@ -112,7 +112,7 @@
             </li>
 
             <li class="top-feature-item">
-              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/9.svg" loading="lazy" alt="" />
+              <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/9.svg" loading="lazy" alt="" />
               </div>
               <div class="top-feature-content">
                 <p><strong>White-Glove Handling for Homes & Offices</strong><br>
@@ -122,7 +122,7 @@
             </li>
 
             <li class="top-feature-item">
-              <div class="top-feature-icon"><img src="assets/62434fa732124a0fb112aab4/8.svg" loading="lazy" alt="" />
+              <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/8.svg" loading="lazy" alt="" />
               </div>
               <div class="top-feature-content">
                 <p><strong>Dedicated Support from Start to Finish</strong><br>
@@ -345,51 +345,51 @@
         <div class="features-wrapper">
           <div class="features-track">
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/21.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/21.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">We handle all appliance connections</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/10.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/10.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Highly trained, friendly professionals</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/11.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/11.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Premium packing materials — included</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/12.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/12.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">TVs, wall art, and shelves — safely removed</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/13.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/13.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Full insurance for complete peace of mind</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/14.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/14.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Secure, monitored storage solutions</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/15.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/15.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Expert care for pianos, antiques, and fragile items</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/16.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/16.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Our team is always smiling and ready to help</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/17.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/17.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">No weight limits — we move it all</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/18.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/18.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Protective covers for floors and furniture</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/19.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/19.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Nationwide coverage — we move you anywhere</div>
             </div>
             <div class="feature-item">
-              <div class="feature-icon"><img src="assets/62434fa732124a0fb112aab4/20.svg" loading="lazy" alt="" /></div>
+              <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/20.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">We care for the environment</div>
             </div>
             <button class="nav-button prev-button">←</button>

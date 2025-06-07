@@ -75,26 +75,26 @@
                 <div class="footer-social-center">
                     <a href=" https://youtube.com/@bestwayrelocation?si=vZdF3OBKWdQ_bZ5d" target="_blank"
                         class="in w-inline-block" style="width:35px; margin:5px;"><img
-                            src="../assets/62434fa732124a0fb112aab4/youtube.png" loading="lazy" alt=""
+                            src="../assets/64ae94fa75e1882ff9a4f9fe/youtube.png" loading="lazy" alt=""
                             class="ink-icon" /></a>
                     <a href="https://www.tiktok.com/@bestway.relocatio?_t=ZN-8vQ07r2vFxP&_r=1" target="_blank"
                         class="in w-inline-block" style="width:35px; margin:5px;"><img
-                            src="../assets/62434fa732124a0fb112aab4/tiktok.png" loading="lazy" alt=""
+                            src="../assets/64ae94fa75e1882ff9a4f9fe/tiktok.png" loading="lazy" alt=""
                             class="ink-icon" /></a>
 
                     <a href="https://www.instagram.com/bestwayrelocation?igsh=MTE4ajBremx2cjc4NQ%3D%3D&utm_source=qr"
                         target="_blank" class="in w-inline-block" style="width:35px; margin:5px;"><img
-                            src="../assets/62434fa732124a0fb112aab4/insta.png" loading="lazy" alt=""
+                            src="../assets/64ae94fa75e1882ff9a4f9fe/insta.png" loading="lazy" alt=""
                             class="ink-icon" /></a>
 
                     <a href="https://www.linkedin.com/company/bestway-relocation-ltd/" target="_blank"
                         class="in w-inline-block" style="width:35px; margin:5px;"><img
-                            src="../assets/62434fa732124a0fb112aab4/linkedin.png" loading="lazy" alt=""
+                            src="../assets/64ae94fa75e1882ff9a4f9fe/linkedin.png" loading="lazy" alt=""
                             class="ink-icon" /></a>
 
                     <a href="https://www.facebook.com/share/1BqSzQU5R2/?mibextid=wwXIfr" target="_blank"
                         class="in w-inline-block" style="width:35px; margin:5px;"><img
-                            src="../assets/62434fa732124a0fb112aab4/facebook.png" loading="lazy" alt=""
+                            src="../assets/64ae94fa75e1882ff9a4f9fe/facebook.png" loading="lazy" alt=""
                             class="ink-icon" /></a>
                 </div>
             </div>
