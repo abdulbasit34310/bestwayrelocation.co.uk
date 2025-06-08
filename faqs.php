@@ -29,29 +29,23 @@
     content="Answers to the most common moving and relocation questions from Bestway Relocation – trusted UK-wide.">
   <meta name="twitter:image" content="https://www.bestwayrelocation.co.uk/assets/images/og-faq-banner.jpg">
 
-  <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet"
-    type="text/css" />
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet" type="text/css" />
   <script
     type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-  <link href="assets/64ae94fa75e1882ff9a4f9fe/Favicon.png" rel="shortcut icon"
-    type="image/x-icon" />
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/Favicon.png" rel="shortcut icon" type="image/x-icon" />
   <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
     rel="apple-touch-icon" />
   <link href="faqs.php" rel="canonical" />
   <script defer src="cdn.jsdelivr.net/npm/%40finsweet/attributes-sliderdots%401/sliderdots.js"></script>
   <?php include 'components/extra.php'; ?>
-
 </head>
 
 <body>
-  <div class="maine-mask next-section">
     <?php include 'components/nav-2.php'; ?>
 
-    <section class="section_our-values">
+    <section class="next-section">
       <div class="content_wrapper">
         <div>
-          <!--<div class="subtitle">FAQs</div>-->
-          <br><br><br>
           <h2 class="heading-2">Frequently Asked Questions</h2>
         </div>
 
@@ -238,9 +232,6 @@
         </div>
       </div>
     </section>
-
-    <div></div>
-  </div>
 
   <?php include 'components/foot-2.php'; ?>
 

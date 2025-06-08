@@ -28,8 +28,9 @@
 </head>
 
 <body class="body">
+  <?php include 'components/nav-2.php'; ?>
   <div class="maine-mask">
-    <?php include 'components/nav-2.php'; ?>
+
     <!-- Completed -->
     <section class="section-8 next-section">
       <div class="w-layout-grid contact-hero">
@@ -390,9 +391,9 @@
               <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/20.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">We care for the environment</div>
             </div>
-            <button class="nav-button prev-button">←</button>
-            <button class="nav-button next-button">→</button>
           </div>
+          <button class="nav-button prev-button">←</button>
+          <button class="nav-button next-button">→</button>
         </div>
       </div>
 

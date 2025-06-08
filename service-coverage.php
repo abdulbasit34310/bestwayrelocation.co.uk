@@ -29,8 +29,7 @@
                 content="Bestway Relocation offers reliable moving services throughout the UK. View our complete area coverage from A to Z.">
         <meta property="twitter:image" content="https://www.bestwayrelocation.co.uk/images/area-coverage-map.jpg">
 
-        <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet"
-                type="text/css" />
+        <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet" type="text/css" />
         <style>
                 @media (min-width:992px) {
                         html.w-mod-js:not(.w-mod-ix) [data-w-id="5319ee58-1ca7-9f4b-9306-46999fdf60b4"] {
@@ -90,10 +89,8 @@
                                 .className += t + "touch")
                 }(window, document);
         </script>
-        <link href="assets/Favicon.png"
-                rel="shortcut icon" type="image/x-icon" />
-        <link href="assets/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
-                rel="apple-touch-icon" />
+        <link href="assets/Favicon.png" rel="shortcut icon" type="image/x-icon" />
+        <link href="assets/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png" rel="apple-touch-icon" />
 
         <style>
                 .alphabet-index ul.alphabet-links {
@@ -176,7 +173,6 @@
 
 <body>
         <?php include 'components/nav-2.php'; ?>
-        S
         <div class="cta_maine next-section">
                 <div class="cta_content">
                         <h2 class="heading-2">Service Coverage</h2>

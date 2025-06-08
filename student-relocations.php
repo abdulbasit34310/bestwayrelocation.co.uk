@@ -5,7 +5,7 @@
     data-wf-site="64ae94fa75e1882ff9a4f9fe">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
     <!-- Meta Title -->
@@ -20,7 +20,8 @@
         content="Student Removals UK, University Moving Services, Student Moving Company, UK Student Movers, Student Storage UK, Best Student Removal Company, Student Packing Services, Student House Moves UK, Nationwide Student Relocation">
 
     <!-- Open Graph Meta Tags for Social Sharing -->
-    <meta property="og:title" content="Student Relocations UK | Nationwide Student Moving Services | Bestway Relocation">
+    <meta property="og:title"
+        content="Student Relocations UK | Nationwide Student Moving Services | Bestway Relocation">
     <meta property="og:description"
         content="Flexible, affordable student removals across the UK. From halls to home, we’ve got your move covered. Get a quote now from Bestway Relocation.">
     <meta property="og:url" content="https://www.bestwayrelocation.co.uk/student-removals-uk">
@@ -29,7 +30,8 @@
 
     <!-- Twitter Card Meta -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Student Relocations UK | Nationwide Student Moving Services | Bestway Relocation">
+    <meta name="twitter:title"
+        content="Student Relocations UK | Nationwide Student Moving Services | Bestway Relocation">
     <meta name="twitter:description"
         content="Bestway Relocation offers expert student moving services nationwide. Affordable, reliable, and built for student life.">
     <meta name="twitter:image" content="https://www.bestwayrelocation.co.uk/images/student-removals-uk.jpg">
@@ -37,25 +39,27 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet"
-        type="text/css" />
-<style>
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/global.css" rel="stylesheet" type="text/css" />
+    <style>
         /* Enhanced FAQ Styles */
         #accordion .card {
             border: none;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             margin-bottom: 16px;
             transition: all 0.3s ease;
         }
+
         #accordion .card:hover {
-            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
         }
+
         #accordion .card-header {
             background: none;
             border: none;
             padding: 0;
         }
+
         #accordion .btn-link {
             width: 100%;
             text-align: left;
@@ -65,11 +69,13 @@
             font-weight: 500;
             position: relative;
         }
+
         #accordion .btn-link:hover,
         #accordion .btn-link:focus {
             color: #FFBF39;
             text-decoration: none;
         }
+
         #accordion .btn-link:after {
             content: '+';
             position: absolute;
@@ -79,29 +85,35 @@
             font-size: 24px;
             transition: all 0.3s ease;
         }
+
         #accordion .btn-link[aria-expanded="true"]:after {
             transform: translateY(-50%) rotate(45deg);
             color: #FFBF39;
         }
+
         #accordion .card-body {
             padding: 0 20px 20px;
             color: #666;
             line-height: 1.6;
         }
+
         .cta_section {
             background: #FBFBFD;
-    padding: 45px 0;
+            padding: 45px 0;
 
         }
+
         .cta_wrapper {
             max-width: 800px;
             margin: 0 auto;
             padding: 0 20px;
         }
+
         .heading-2 {
             text-align: center;
             margin-bottom: 40px;
         }
+
         @media (min-width:992px) {
             html.w-mod-js:not(.w-mod-ix) [data-w-id="5319ee58-1ca7-9f4b-9306-46999fdf60b4"] {
                 background-color: rgb(255, 255, 255);
@@ -161,8 +173,7 @@
                 .className += t + "touch")
         }(window, document);
     </script>
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/Favicon.png" rel="shortcut icon"
-        type="image/x-icon" />
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/Favicon.png" rel="shortcut icon" type="image/x-icon" />
     <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
         rel="apple-touch-icon" />
     <?php include 'components/extra.php'; ?>
@@ -205,10 +216,10 @@
                                 </ul>
                             </div>
                         </div>
-                        <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg"
-                            loading="eager" alt="Student removals UK" class="image-15" />
-                        <img src="assets/64ae94fa75e1882ff9a4f9fe/288.svg"
-                            loading="eager" alt="Student relocation services" class="image-11" />
+                        <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Student removals UK"
+                            class="image-15" />
+                        <img src="assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager"
+                            alt="Student relocation services" class="image-11" />
                     </div>
                     <br><br><br>
                     <h4>Nationwide Student Moving Services</h4>
@@ -302,7 +313,7 @@
                                 aria-expanded="true" aria-controls="collapseOne">
                                 Do you offer discounts for student moves?
                             </button>
-                        </h4>
+                            </h4>
                     </div>
                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                         <div class="card-body">

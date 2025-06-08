@@ -388,6 +388,7 @@
         padding: 20px;
         text-align: center;
         flex-shrink: 0;
+
     }
 
     .feature-icon {
@@ -395,14 +396,16 @@
         height: 80px;
         margin: 0 auto 15px;
         background: transparent;
-        border: 2px solid #FFBF39;
+        border: 2px solid rgb(122 122 122 / 5%);
         border-radius: 15px;
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: 30px;
         transition: all 0.3s ease;
-        color: #FFBF39;
+        color: rgb(122 122 122 / 5%);
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+
     }
 
     .feature-item:hover .feature-icon {
@@ -419,7 +422,7 @@
 
     .nav-button {
         position: absolute;
-        top: 50%;
+        top: 35%;
         transform: translateY(-50%);
         width: 44px;
         height: 44px;

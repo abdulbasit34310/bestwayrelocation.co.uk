@@ -18,7 +18,7 @@
     <meta property="og:description"
         content="Reach out to Bestway Relocation for expert advice and support. Let us help you plan your next move, hassle-free.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.bestwayrelocation.co.uk/contact">
+    <meta property="og:url" content="https://www.bestwayrelocation.co.uk/contact-us">
     <meta property="og:image" content="https://www.bestwayrelocation.co.uk/assets/images/contact-banner.jpg">
 
     <!-- Twitter -->

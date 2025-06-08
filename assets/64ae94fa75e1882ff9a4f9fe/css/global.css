@@ -4469,11 +4469,13 @@ ul {
 }
 
 .content-section_grid {
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
   grid-column-gap: 0px;
   grid-template-rows: minmax(750px, auto);
 }
 
 .content-section_grid.european-freight {
+
   grid-template-rows: minmax(750px, auto);
 }
 
@@ -4749,6 +4751,7 @@ ul {
   display: flex;
   position: relative;
   overflow: hidden;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
 }
 
 .cta_content {
