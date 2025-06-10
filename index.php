@@ -1143,11 +1143,11 @@
       }
 
       .feature-icon {
-        width: 80px;
-        height: 80px;
+        width: 90px;
+        height: 90px;
         margin: 0 auto 15px;
         background: transparent;
-        border: 2px solid rgb(122 122 122 / 5%);
+        border: 3px solid #FFBF39;
         border-radius: 15px;
         display: flex;
         align-items: center;
@@ -1156,7 +1156,7 @@
         transition: all 0.3s ease;
         color: rgb(122 122 122 / 5%);
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
-
+        padding: 9px;
       }
 
       .feature-item:hover .feature-icon {
