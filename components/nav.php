@@ -59,8 +59,10 @@
                                     <a href="../international-relocations.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">International
                                         Relocation</a>
-                                    <a href="../our-services/packing-supplies.php" class="navbar_dropdown_link-item mobile w-dropdown-link">Packing Supplies</a>
-                                    <a href="../our-services/storage-solutions.php" class="navbar_dropdown_link-item mobile w-dropdown-link">Storage Solutions</a>
+                                    <a href="../our-services/packing-supplies.php"
+                                        class="navbar_dropdown_link-item mobile w-dropdown-link">Packing Supplies</a>
+                                    <a href="../our-services/storage-solutions.php"
+                                        class="navbar_dropdown_link-item mobile w-dropdown-link">Storage Solutions</a>
                                 </nav>
                             </div>
 
@@ -114,8 +116,8 @@
                 </nav>
                 <div class="menu-button w-nav-button">
                     <span class="fa-stack" style="font-size: 18px;">
-                        <i class="fas fa-square fa-stack-2x" style="color: #FFBF39;"></i>
-                        <i class="fas fa-bars fa-stack-1x fa-inverse" style="color: #1e1e1e;"></i>
+                        <i class="fas fa-square fa-stack-2x" style="color: #1e1e1e;"></i>
+                        <i class="fas fa-bars fa-stack-1x fa-inverse" style="color: #ffffff;"></i>
                     </span>
                 </div>
             </div>

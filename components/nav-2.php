@@ -117,8 +117,8 @@
                 </nav>
                 <div class="menu-button w-nav-button">
                     <span class="fa-stack" style="font-size: 18px;">
-                        <i class="fas fa-square fa-stack-2x" style="color: #FFBF39;"></i>
-                        <i class="fas fa-bars fa-stack-1x fa-inverse" style="color: #1e1e1e;"></i>
+                        <i class="fas fa-square fa-stack-2x" style="color: #1e1e1e;"></i>
+                        <i class="fas fa-bars fa-stack-1x fa-inverse" style="color: #ffffff;"></i>
                     </span>
                 </div>
             </div>
