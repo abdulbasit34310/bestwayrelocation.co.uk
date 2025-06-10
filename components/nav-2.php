@@ -41,7 +41,7 @@
                                     style="background-color: #FFBF39; color: black; border: 2px solid transparent; text-decoration: none; padding: 10px 15px; display: inline-block;"
                                     onmouseover="this.style.backgroundColor='transparent'; this.style.color='white'; this.style.border='2px solid #FFBF39';"
                                     onmouseout="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid transparent';">
-                                    Request a Quote
+                                    Request a Quote2
                                 </a>
                             </li>
                         </ul>

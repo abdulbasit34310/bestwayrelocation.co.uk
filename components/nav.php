@@ -6,21 +6,6 @@
                 <a href="../index.php" aria-current="page" class="navbar-brand-three w-nav-brand w--current">
                     <img src="../assets/64ae94fa75e1882ff9a4f9fe/Logo.png" loading="lazy" width="212.5" alt="" />
                 </a>
-                <!-- Mobile Only Icons -->
-                <div class="mobile-only-icons">
-                    <a href="tel:08000147676" class="mobile-icon">
-                        <span class="fa-stack" style="font-size: 18px;">
-                            <i class="fas fa-square fa-stack-2x" style="color: #FFBF39;"></i>
-                            <i class="fas fa-phone fa-stack-1x fa-inverse" style="color: #1e1e1e;"></i>
-                        </span>
-                    </a>
-                    <a href="request-a-quote.php" class="mobile-icon">
-                        <span class="fa-stack" style="font-size: 18px;">
-                            <i class="fas fa-square fa-stack-2x" style="color: #FFBF39;"></i>
-                            <i class="fas fa-clipboard-list fa-stack-1x fa-inverse" style="color: #1e1e1e;"></i>
-                        </span>
-                    </a>
-                </div>
                 <nav role="navigation" class="nav-menu-wrapper-three w-nav-menu">
                     <div class="nav-menu-three" style="padding:40px;">
 
@@ -40,7 +25,7 @@
                                     style="background-color: #FFBF39; color: black; border: 2px solid transparent; text-decoration: none; padding: 10px 15px; display: inline-block;"
                                     onmouseover="this.style.backgroundColor='transparent'; this.style.color='white'; this.style.border='2px solid #FFBF39';"
                                     onmouseout="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid transparent';">
-                                    Request a Quote
+                                    Request a Quote1
                                 </a>
                             </li>
                         </ul>
@@ -147,44 +132,5 @@
         </script>
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-        <style>
-            @media screen and (min-width: 992px) {
-                .mobile-only-icons {
-                    display: none !important;
-                }
-            }
-
-            @media screen and (max-width: 991px) {
-                .mobile-only-icons {
-                    display: flex !important;
-                    align-items: center;
-                    gap: 5px;
-                    margin-right: 5px;
-                }
-
-                .fa-stack {
-                    transition: transform 0.3s ease;
-                }
-
-                .mobile-icon:hover .fa-stack,
-                .menu-button:hover .fa-stack {
-                    transform: scale(1.1);
-                }
-
-                .menu-button {
-                    padding: 0 !important;
-                }
-
-                .nav-menu-wrapper-three {
-                    max-height: 80vh !important;
-                    overflow-y: auto !important;
-                }
-
-                .nav-menu-three {
-                    height: auto !important;
-                    overflow-y: visible !important;
-                }
-            }
-        </style>
     </div>
 </div>
