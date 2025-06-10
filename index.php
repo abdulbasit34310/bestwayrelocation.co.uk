@@ -448,7 +448,7 @@
     </section>
 
     <section class="section-2">
-      <div class="content_wrapper">
+      <div class="specs_wrapper">
         <!-- <a href="#" class="lightbox-link w-inline-block w-lightbox">
           <div class="lightbox-image">
             <div data-w-id="de950f8a-b1f9-b752-c3ec-f7352ff1c280" class="custom-cursor">
