@@ -382,7 +382,7 @@
         .navbar-wrapper-three,
         .navbar-brand-three {
             background: #1e1e1e !important;
-            min-height: 73px !important;
+            min-height: 58px !important;
             padding-top: 3% !important;
             padding-bottom: 5% !important;
             overflow: visible !important;
