@@ -392,9 +392,9 @@
               <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/20.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">We care for the environment</div>
             </div>
-            <button class="nav-button prev-button">←</button>
-            <button class="nav-button next-button">→</button>
           </div>
+          <button class="nav-button prev-button">←</button>
+          <button class="nav-button next-button">→</button>
         </div>
       </div>
 
@@ -1147,14 +1147,16 @@
         height: 80px;
         margin: 0 auto 15px;
         background: transparent;
-        border: 2px solid #FFBF39;
+        border: 2px solid rgb(122 122 122 / 5%);
         border-radius: 15px;
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: 30px;
         transition: all 0.3s ease;
-        color: #FFBF39;
+        color: rgb(122 122 122 / 5%);
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+
       }
 
       .feature-item:hover .feature-icon {
@@ -1171,7 +1173,7 @@
 
       .nav-button {
         position: absolute;
-        top: 50%;
+        top: 35%;
         transform: translateY(-50%);
         width: 44px;
         height: 44px;
@@ -1195,11 +1197,11 @@
       }
 
       .prev-button {
-        left: 7px;
+        left: 3px;
       }
 
       .next-button {
-        right: 7px;
+        right: 3px;
       }
     </style>
 
