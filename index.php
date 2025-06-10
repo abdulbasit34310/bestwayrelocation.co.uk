@@ -376,10 +376,10 @@
               <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/16.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Our team is always smiling and ready to help</div>
             </div>
-            <div class="feature-item">
+            <!-- <div class="feature-item">
               <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/17.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">No weight limits — we move it all</div>
-            </div>
+            </div> -->
             <div class="feature-item">
               <div class="feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/18.svg" loading="lazy" alt="" /></div>
               <div class="feature-text">Protective covers for floors and furniture</div>
