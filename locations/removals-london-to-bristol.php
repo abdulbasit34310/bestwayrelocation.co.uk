@@ -38,7 +38,7 @@
               long-distance removals and are dedicated to delivering a smooth, stress-free relocation
               experience—covering everything from packing to furniture assembly.</p>
           </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager"
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager"
             alt="Office relocation service" class="image-15" />
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager"
             alt="Moving office illustration" class="image-11" />
