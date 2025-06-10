@@ -37,11 +37,31 @@
               comprehensive removal services, including house and office moves, expert packing, and secure storage
               solutions. Whether you're relocating locally within Oxfordshire or to another part of the UK, we ensure a
               smooth and stress-free move tailored to your needs.</p>
+            <div style="padding:40px;">
+              <ul role="list" class="nav-menu-block w-list-unstyled">
+                <li>
+                  <a href="tel:08000147676" class="secondary-black-outline-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Call us: 0800 014 7676
+                  </a>
+                </li>
+                <li class="mobile-margin-top-10">
+                  <a href="../request-a-quote.php" class="secondary-black-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Request a Quote
+                  </a>
+                </li>
+              </ul>
+            </div>
           </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg"
-            loading="eager" alt="Buckinghamshire removals service" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg"
-            loading="eager" alt="Removals in Buckinghamshire illustration" class="image-11" />
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Buckinghamshire removals service"
+            class="image-15" />
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
+            alt="Removals in Buckinghamshire illustration" class="image-11" />
         </div>
         <div class="main-content">
           <h2>Why Choose Bestway Relocation in Oxfordshire?</h2>
@@ -57,7 +77,8 @@
           </ul>
 
           <h2>House Removals in Oxfordshire</h2>
-          <p>Whether you're moving from a house, flat, or apartment, our Oxfordshire team is equipped to handle moves of all
+          <p>Whether you're moving from a house, flat, or apartment, our Oxfordshire team is equipped to handle moves of
+            all
             sizes. Our white-glove service ensures all items are packed and transported safely. We provide full packing
             and unpacking support, so you don’t have to lift a finger.</p>
 
