@@ -326,10 +326,7 @@
                                 color: #FFBF39;
                             }
                         </style>
-                        <h2 class="heading-2 yllw">International Moving</h2>
-                        <p>
-                            Global moves made easy
-                        </p>
+                        <h2 class="heading-2 yllw">Office Relocation</h2>
                         <br>
                         <ul class="top-features-list">
                             <li class="top-feature-item">
