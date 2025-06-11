@@ -524,30 +524,7 @@
 
       </div>
     </section>
-
-    <!-- <section class="section_520-height">
-      <div class="w-layout-grid section_520-height_grid">
-        <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="section_520-height_heading">
-          <div>
-            <h1 class="title-small">STORAGE</h1>
-            <p class="paragraph">
-              Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
-              facing a timing gap — we've got you covered with secure, flexible storage solutions.
-              <br /><br />
-              At Bestway Relocation, we make storage simple. No need to juggle different companies or coordinate tricky
-              drop-offs — we'll handle the logistics from start to finish, including collection, storage, and redelivery
-              when you're ready.
-              <br /><br />
-              With our expert team and seamless process, you can store your items with total peace of mind. Let us know
-              what you need, and we'll tailor a storage plan that works for you.
-            </p>
-          </div>
-        </div>
-        <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image storage">
-        </div>
-      </div>
-    </section> -->
-
+    
     <section class="standart-page_content-section paddingLine paddingTop" Style="margin:5%">
       <div class="w-layout-grid content-section_grid">
         <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba94893" class="content-section_text">

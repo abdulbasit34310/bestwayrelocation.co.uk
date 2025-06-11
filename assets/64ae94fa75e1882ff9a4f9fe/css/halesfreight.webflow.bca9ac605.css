@@ -3875,7 +3875,6 @@ ul {
 .contact-hero {
   grid-column-gap: 0px;
   grid-template-rows: auto;
-  margin-left: 60px;
 }
 
 .div-block-18 {
@@ -3890,7 +3889,7 @@ ul {
 }
 
 .div-block-19 {
-  padding: 40px 40px 40px 0px;
+  padding: 40px 40px 20px 40px;
 }
 
 .image-8 {
@@ -4164,7 +4163,8 @@ ul {
 }
 
 .section_520-height {
-  height: 520px;
+  background-color: #FFF;
+  box-shadow: 0 2px 16px rgba(4, 8, 47, .08);
 }
 
 .section_520-height_grid {
@@ -4175,7 +4175,6 @@ ul {
 }
 
 .section_520-height_heading {
-  background-color: #FFBF39;
   align-items: center;
   padding-left: 100px;
   padding-right: 10%;
@@ -4189,16 +4188,28 @@ ul {
   background-size: cover;
 }
 
-.section_520-height_image.pallets {
-  background-image: url("https://uploads-ssl.webflow.com/64ae94fa75e1882ff9a4f9fe/64b68613a3df762ba8d0c14a_Pallets_hero_img.webp");
+.section_520-height_image.house {
+  background-image: url("../../64ae94fa75e1882ff9a4f9fe/house-removals.webp");
 }
 
-.section_520-height_image.sub-pages {
-  background-image: url("https://uploads-ssl.webflow.com/64ae94fa75e1882ff9a4f9fe/64ba44dc957c88e6a162bc78_6X5A9689-min.webp");
+.section_520-height_image.office {
+  background-image: url("../../64ae94fa75e1882ff9a4f9fe/office-removals.webp");
+}
+
+.section_520-height_image.student {
+  background-image: url("../../64ae94fa75e1882ff9a4f9fe/storage.webp");
+}
+
+.section_520-height_image.international {
+  background-image: url("../../64ae94fa75e1882ff9a4f9fe/storage.webp");
+}
+
+.section_520-height_image.packing {
+  background-image: url("../../64ae94fa75e1882ff9a4f9fe/storage.webp");
 }
 
 .section_520-height_image.storage {
-  background-image: url("../../64ae94fa75e1882ff9a4f9fe/storage.jpg");
+  background-image: url("../../64ae94fa75e1882ff9a4f9fe/storage.webp");
 }
 
 .section_520-height_image.full-loads {
@@ -5983,8 +5994,7 @@ ul {
   }
 
   .div-block-19 {
-    margin-top: 24px;
-    padding: 0px 48px;
+    padding: 40px 30px 30px 50px;
   }
 
   .section-8.make-a-payment {
@@ -6039,7 +6049,7 @@ ul {
   }
 
   .section_520-height {
-    height: 460px;
+    /* height: 460px; */
   }
 
   .section_520-height_grid {
@@ -6688,7 +6698,7 @@ ul {
 
   .section_520-height {
     height: auto;
-    padding-top: 56px;
+    /* padding-top: 56px; */
   }
 
   .section_520-height_grid {
@@ -6933,9 +6943,8 @@ ul {
 }
 
 @media screen and (max-width: 479px) {
-
-  .div-block-19 {
-    padding: 0px 30px 0px 30px
+  .div-block-19 { 
+    padding: 30px 30px 20px 30px;
   }
 
   .title-small {

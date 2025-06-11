@@ -71,7 +71,154 @@
           <p>Our secure facilities are monitored, clean, and accessible, giving you full peace of mind. Get your free,
             no-obligation quote today through our online enquiry form at <a
               href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a>.</p>
+
+          <p>
+            Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
+            facing a timing gap — we've got you covered with secure, flexible storage solutions.
+
+            At Bestway Relocation, we make storage simple. No need to juggle different companies or coordinate tricky
+            drop-offs — we'll handle the logistics from start to finish, including collection, storage, and redelivery
+            when you're ready.
+
+            With our expert team and seamless process, you can store your items with total peace of mind. Let us know
+            what you need, and we'll tailor a storage plan that works for you.
+          </p>
+          <!-- <h4>Storage FAQ</h4>
+
+          <h4>What can you store with Bestway Relocation?</h4>
+          <p>We handle nearly everything—from single bulky items to large volumes of boxes and equipment. The only
+            restrictions are items deemed hazardous or illegal.</p>
           <br>
+          <h4>Where are my belongings stored?</h4>
+          <p>We operate multiple storage facilities across southern England, including in London, Southampton, and
+            Oxford. Each site is secure, dry, and purpose-built to ensure maximum safety for your possessions.</p>
+          <br>
+          <h4>How long can I store my items?</h4>
+          <p>Our storage solutions are highly flexible. We offer open-ended storage with simple weekly charges, allowing
+            you to store your belongings for as long as needed—no fixed-term contracts required.</p>
+          <br>
+          <h4>Do you offer collection and delivery?</h4>
+          <p>Absolutely. We can pick up your items directly from your home or office and deliver them to any UK address
+            when you need them. Everything is stored with the highest level of care while in our possession.</p>
+          <br>
+          <h4>How fast can I get my items back?</h4>
+          <p>We usually require 7 days’ notice to retrieve your stored belongings, although we can often arrange
+            delivery within 48 hours depending on availability and location.</p>
+          <br>
+          <h4>What does storage cost?</h4>
+          <p>Our pricing is transparent and competitive. Storage costs include collection and delivery services. Contact
+            us today via <a href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> for a tailored quote
+            based on your specific needs.</p>
+          <br>
+          <h4>Are storage options available for overseas moves?</h4>
+          <p>Yes! Bestway Relocation also provides long-term storage solutions for clients relocating internationally.
+            This is ideal if you need to leave items behind while you’re abroad.</p>
+          <br>
+          <h4>Benefits of Using Storage During a Move</h4>
+          <p>Storage gives you breathing space during what can be a chaotic time. If you're not ready to sort and unpack
+            everything immediately, storing boxes and equipment helps reduce clutter at both ends of your move.</p>
+
+          <p>It allows you time to make smart decisions about what to keep or discard. Our experienced team ensures your
+            belongings are kept in secure, organised facilities throughout the process.</p>
+          <br>
+          <h4>Looking for a Trusted Storage and Removal Company?</h4>
+          <p>With over 7+ years of experience, Bestway Relocation has built a strong reputation for reliable removal and
+            storage solutions. We’ll assess your unique situation and help you determine the most efficient and
+            cost-effective approach. Our team is ready to assist—get your free quote now at <a
+              href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> and experience a smooth, secure
+            move with Bestway Relocation.</p> -->
+        </div>
+      </div>
+      <section class="section_520-height">
+        <div class="w-layout-grid section_520-height_grid">
+          <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
+            <style>
+              .top-features-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+              }
+
+              .top-feature-item {
+                display: flex;
+                align-items: center;
+                margin-bottom: 25px;
+              }
+
+              .top-feature-icon {
+                width: 50px;
+                height: 50px;
+                margin-right: 15px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-shrink: 0;
+              }
+
+              .top-feature-content {
+                flex: 1;
+              }
+
+              .top-feature-title {
+                font-weight: bold;
+                margin-bottom: 5px;
+                color: #000;
+              }
+
+              .top-feature-text {
+                color: #666;
+                line-height: 1.5;
+              }
+
+              .yllw {
+                color: #FFBF39;
+              }
+            </style>
+            <h2 class="heading-2 yllw">Secure Storage Solution</h2>
+            <p>
+              Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
+              facing a timing gap — we've got you covered with secure, flexible storage solutions.
+            </p>
+            <br>
+            <ul class="top-features-list">
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/22.svg" loading="lazy"
+                    alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Great Value</strong> -
+                    Short and long term storage available for homes, businesses, and seasonal items.</p>
+                </div>
+              </li>
+
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/23.svg" loading="lazy"
+                    alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Professional Service</strong> -
+                    24/7 monitored facilities with high security. </p>
+                </div>
+              </li>
+
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/24.svg" loading="lazy"
+                    alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Trust & Care</strong> -
+                    Collection and re-delivery included - ideal during moves or renovations. </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image storage">
+          </div>
+        </div>
+      </section>
+      
+      <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
+        <div class="main-content">
           <h4>Storage FAQ</h4>
 
           <h4>What can you store with Bestway Relocation?</h4>
@@ -117,10 +264,8 @@
               href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> and experience a smooth, secure
             move with Bestway Relocation.</p>
         </div>
-
       </div>
     </div>
-    <br> <br>
   </section>
 
   <?php include '../components/foot.php'; ?>

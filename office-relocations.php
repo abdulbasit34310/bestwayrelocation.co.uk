@@ -281,6 +281,94 @@
                     </p>
                 </div>
             </div>
+            <section class="section_520-height">
+                <div class="w-layout-grid section_520-height_grid">
+                    <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
+                        <style>
+                            .top-features-list {
+                                list-style: none;
+                                padding: 0;
+                                margin: 0;
+                            }
+
+                            .top-feature-item {
+                                display: flex;
+                                align-items: center;
+                                margin-bottom: 25px;
+                            }
+
+                            .top-feature-icon {
+                                width: 50px;
+                                height: 50px;
+                                margin-right: 15px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                flex-shrink: 0;
+                            }
+
+                            .top-feature-content {
+                                flex: 1;
+                            }
+
+                            .top-feature-title {
+                                font-weight: bold;
+                                margin-bottom: 5px;
+                                color: #000;
+                            }
+
+                            .top-feature-text {
+                                color: #666;
+                                line-height: 1.5;
+                            }
+
+                            .yllw {
+                                color: #FFBF39;
+                            }
+                        </style>
+                        <h2 class="heading-2 yllw">International Moving</h2>
+                        <p>
+                            Global moves made easy
+                        </p>
+                        <br>
+                        <ul class="top-features-list">
+                            <li class="top-feature-item">
+                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg"
+                                        loading="lazy" alt="" />
+                                </div>
+                                <div class="top-feature-content">
+                                    <p><strong class="yllw">Door-to-door</strong>
+                                        international moving including export packing, customs clearance, and global
+                                        coordination.</p>
+                                </div>
+                            </li>
+
+                            <li class="top-feature-item">
+                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg"
+                                        loading="lazy" alt="" />
+                                </div>
+                                <div class="top-feature-content">
+                                    <p><strong class="yllw">Partnerships</strong>
+                                        with freight providers and agents in major destination countries.</p>
+                                </div>
+                            </li>
+
+                            <li class="top-feature-item">
+                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg"
+                                        loading="lazy" alt="" />
+                                </div>
+                                <div class="top-feature-content">
+                                    <p><strong class="yllw">Ideal</strong>
+                                        for international buyers, tenants, or companies relocating staff.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893"
+                        class="section_520-height_image office">
+                    </div>
+                </div>
+            </section>
         </div>
     </section>
     <?php include 'components/specialization.php'; ?>

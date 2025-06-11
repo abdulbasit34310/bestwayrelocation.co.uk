@@ -94,9 +94,9 @@
   </script>
 
   <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
-        type="image/x-icon" />
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
-        rel="apple-touch-icon" />
+    type="image/x-icon" />
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
+    rel="apple-touch-icon" />
 
   <?php include 'components/extra.php'; ?>
 </head>
@@ -139,6 +139,7 @@
           <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
           <img src="assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />
         </div>
+
         <div class="main-content">
           <br><br><br>
           <h4>Professional Overseas Shipping from the UK</h4>
@@ -162,24 +163,96 @@
             <li>Successfully helping thousands of clients move worldwide each year</li>
             <li>Comprehensive door-to-door relocation solutions</li>
           </ul>
-          <!--
-                    <h4>Accreditations and Excellence</h4>
-                    <p>Our dedication to providing safe, timely, and competitively priced international removals is
-                        demonstrated
-                        through our accreditations with prestigious organizations such as the FIDI Global Alliance, the
-                        British
-                        Association of Removers (BAR), and the FAIM quality standard. These endorsements reinforce our
-                        commitment to
-                        excellence in every move we handle.</p>
-
-                    <p>At Bestway Relocation, we continually strive to uphold our reputation as one of the UK's finest
-                        international moving companies. When you choose us, you are choosing professionalism,
-                        reliability, and a
-                        relocation partner that genuinely cares about your journey.</p>
-                        -->
         </div>
-
       </div>
+
+      <section class="section_520-height">
+        <div class="w-layout-grid section_520-height_grid">
+          <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
+            <style>
+              .top-features-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+              }
+
+              .top-feature-item {
+                display: flex;
+                align-items: center;
+                margin-bottom: 25px;
+              }
+
+              .top-feature-icon {
+                width: 50px;
+                height: 50px;
+                margin-right: 15px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-shrink: 0;
+              }
+
+              .top-feature-content {
+                flex: 1;
+              }
+
+              .top-feature-title {
+                font-weight: bold;
+                margin-bottom: 5px;
+                color: #000;
+              }
+
+              .top-feature-text {
+                color: #666;
+                line-height: 1.5;
+              }
+
+              .yllw {
+                color: #FFBF39;
+              }
+            </style>
+            <h2 class="heading-2 yllw">International Moving</h2>
+            <p>
+              Global moves made easy
+            </p>
+            <br>
+            <ul class="top-features-list">
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy"
+                    alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Door-to-door</strong>
+                    international moving including export packing, customs clearance, and global coordination.</p>
+                </div>
+              </li>
+
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy"
+                    alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Partnerships</strong>
+                    with freight providers and agents in major destination countries.</p>
+                </div>
+              </li>
+
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy"
+                    alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Ideal</strong>
+                    for international buyers, tenants, or companies relocating staff.</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image storage">
+          </div>
+        </div>
+      </section>
+
       <style>
         /* Mobile Responsive Styles */
         @media screen and (max-width: 767px) {
