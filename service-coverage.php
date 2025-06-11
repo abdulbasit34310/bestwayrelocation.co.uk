@@ -90,10 +90,8 @@
                                 .className += t + "touch")
                 }(window, document);
         </script>
-        <link href="assets/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png"
-                rel="shortcut icon" type="image/x-icon" />
-        <link href="assets/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
-                rel="apple-touch-icon" />
+        <link href="assets/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon" type="image/x-icon" />
+        <link href="assets/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png" rel="apple-touch-icon" />
 
         <style>
                 .alphabet-index ul.alphabet-links {

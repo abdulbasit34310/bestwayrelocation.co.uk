@@ -80,9 +80,9 @@
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Surrey</a>
                                     <a href="../removals-in-buckinghamshire.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Buckinghamshire</a>
-                                    <a href="locations/removals-in-oxfordshire.php"
+                                    <a href="../locations/removals-in-oxfordshire.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Oxfordshire</a>
-                                    <a href="locations/removals-in-hampshire.php"
+                                    <a href="../locations/removals-in-hampshire.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">Hampshire</a>
                                     <a href="../removals-in-eastsussex.php"
                                         class="navbar_dropdown_link-item mobile w-dropdown-link">East
