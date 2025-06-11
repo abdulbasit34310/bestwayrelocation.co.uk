@@ -32,6 +32,16 @@
   <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
     type="text/css" />
   <style>
+    .our-focus-div {
+      background-color: #fff;
+      box-shadow: 0 2px 16px rgba(4, 8, 47, .08);
+      margin-bottom: 50px
+    }
+
+    .yllw {
+      color: #FFBF39;
+    }
+
     @media (min-width:992px) {
       html.w-mod-js:not(.w-mod-ix) [data-w-id="5319ee58-1ca7-9f4b-9306-46999fdf60b4"] {
         background-color: rgb(255, 255, 255);
@@ -94,138 +104,193 @@
 <body>
   <?php include 'components/nav-2.php'; ?>
   <section class="standart-page_content-section next-section">
-
     <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
       <div class="main-content">
-        <div class="main-content">
-          <section class="_340_hero-setion">
-            <div class="w-layout-grid _340_hero-setion_grid">
-              <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2f5-aba9487e" class="_340_hero-setion_heading">
-                <div>
-                  <h2 class="heading-2">Our Focus</h2>
-                  <p>
-                    Bestway Relocation is a trusted leader in nationwide removals, delivering both residential and
-                    commercial moving services with a premium white glove touch. We offer complete end-to-end
-                    relocation solutions that are reliable, cost-effective, and designed to reduce the stress of
-                    moving.
-                    <br /><br />
-                    Our mission is to reshape the UK removals industry by placing transparency, efficiency, and
-                    customer satisfaction at the heart of everything we do.
-                  </p>
-                  <div>
-                    <a data-w-id="49407b29-7d97-79bb-230c-5787fde768e2" style="border-color:rgb(183,157,24)" href="#"
-                      class="main-yellow-outline-cta_download margin-left-20 off w-inline-block">
-                      <div class="main-yellow-outline-cta_download_text">Download</div>
-                      <img src="assets/64ae94fa75e1882ff9a4f9fe/64b14db1a27271e2496d19bd_arrow_icn-1.svg" loading="lazy"
-                        width="14" height="14" alt="" class="download_icon_yello" />
-                      <img src="assets/64ae94fa75e1882ff9a4f9fe/64b14db1fecf02d30dfe34d9_arrow_icn.svg" loading="lazy"
-                        width="14" height="14" alt="" style="display:none;opacity:0"
-                        class="download_icon_yello hover" />
-                    </a>
+
+        <section class="our-focus-div">
+          <div class="w-layout-grid contact-hero">
+            <div id="w-node-_19275dee-4348-c94a-50a9-82db1c1edb1f-aba9487a" class="div-block-19">
+              <style>
+                .top-features-list {
+                  list-style: none;
+                  padding: 0;
+                  margin: 0;
+                }
+
+                .top-feature-item {
+                  display: flex;
+                  align-items: center;
+                  margin-bottom: 25px;
+                }
+
+                .top-feature-icon {
+                  width: 50px;
+                  height: 50px;
+                  margin-right: 15px;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  flex-shrink: 0;
+                }
+
+                .top-feature-content {
+                  flex: 1;
+                }
+
+                .top-feature-title {
+                  font-weight: bold;
+                  margin-bottom: 5px;
+                  color: #000;
+                }
+
+                .top-feature-text {
+                  color: #666;
+                  line-height: 1.5;
+                }
+              </style>
+              <h2 class="heading-2 yllw">Our Focus</h2>
+              <p>
+                Bestway Relocation is a trusted leader in nationwide removals, delivering both residential and
+                commercial moving services with a premium white glove touch. We offer complete end-to-end
+                relocation solutions that are reliable, cost-effective, and designed to reduce the stress of
+                moving.
+              </p>
+              <br>
+              <ul class="top-features-list">
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/22.svg" loading="lazy"
+                      alt="" />
                   </div>
-                </div>
-              </div>
-              <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2fb-aba9487e" class="_340_hero-setion_img departure">
-              </div>
+                  <div class="top-feature-content">
+                    <p><strong class="yllw">Great Value</strong> -
+                      Efficient logistics and a flexible fleet allow us to offer competitive pricing.
+                    </p>
+                  </div>
+                </li>
+
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/23.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p><strong class="yllw">Professional Service</strong> -
+                      Our friendly, trained team ensures every move runs smoothly.
+                    </p>
+                  </div>
+                </li>
+
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/24.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p><strong class="yllw">Trust & Care</strong> -
+                      We treat every move with the care and attention it deserves.
+                    </p>
+                  </div>
+                </li>
+              </ul>
             </div>
-          </section>
 
-          <div class="main-content">
-            <br><br><br>
-
-            <h4>What We Do</h4>
-            <p>
-              At Bestway Relocation, we specialise in delivering high-quality white glove removals — a premium moving
-              experience that focuses on precision, care, and professionalism. With operational hubs in London,
-              Reading, Southampton, and Surrey, our services span the entire UK, ensuring our clients receive the same
-              exceptional service no matter their location.
-            </p>
-            <br>
-            <p>
-              From house removals to office relocations, we also offer secure storage facilities, professional packing
-              materials, and specialist crate hire. Every element of your move is handled with meticulous attention to
-              detail.
-            </p>
-            <br>
-            <h4>Meet the Team</h4>
-            <p>
-              Our success is built on our people. We’ve carefully selected a dedicated team of trained professionals
-              with more than 7+ years of industry experience in residential and commercial removals. Each team member
-              shares a commitment to delivering excellence and exceeding client expectations.
-            </p>
-            <br>
-            <p>
-              Our movers are trained to handle all aspects of relocation, using our custom-designed fleet of vehicles
-              to ensure safe, secure, and efficient transportation of your belongings. Their experience,
-              professionalism, and courtesy are what make us different.
-            </p>
-            <br>
-            <h4>Our Values</h4>
-            <p>
-              Transparency is the foundation of our business. We understand that moving can be overwhelming — that’s
-              why we aim to simplify the process. From upfront pricing with no hidden charges to proactive
-              communication throughout your move, our goal is to make your journey with us as smooth and stress-free
-              as possible.
-            </p>
-            <br>
-            <h4>Our Commitment to Customer Experience</h4>
-            <p>
-              At Bestway Relocation, our clients aren’t just customers — they’re partners in every move we make. From
-              your first enquiry to the final box being unpacked, our team is focused on delivering a seamless,
-              supportive and stress-free experience. We assign dedicated moving specialists to guide you through the
-              process, answer your questions, and adapt to your needs.
-            </p>
-            <br>
-            <p>
-              Whether you’re moving your first flat, your forever home, or a multi-floor corporate office, we apply
-              the same care and attention to detail. Your trust means everything to us, and that’s why we go the extra
-              mile to deliver results that reflect our core values of respect, responsibility and reliability.
-            </p>
-            <br>
-            <h4>Sustainability & Responsible Practices</h4>
-            <p>
-              As a modern relocation company, we believe in doing business responsibly. Bestway Relocation is
-              committed to reducing environmental impact wherever possible. We use recyclable packing materials,
-              reduce empty return trips with smart route planning, and maintain an efficient fleet that meets
-              low-emission standards.
-            </p>
-            <br>
-            <p>
-              We also encourage our clients to donate or recycle unwanted items through our approved charity and reuse
-              partners — making your move not only easier, but more meaningful. Because we believe moving forward
-              shouldn’t come at the planet’s expense.
-            </p>
-            <br>
-            <h4>Where We're Headed</h4>
-            <p>
-              Bestway Relocation is more than a moving company — we're building a better future for the removals
-              industry. With continued investment in technology, training, and customer service, we’re raising the bar
-              for what clients expect when they hire a professional mover.
-            </p>
-            <br>
-            <p>
-              Our goal is to be the UK’s most trusted and recognised name in removals, known for exceptional care,
-              consistency, and innovation. As we grow, we remain grounded in the belief that every move is personal —
-              and every customer deserves the best.
-            </p>
-            <br>
-            <h4>Why Choose Us?</h4>
-            <p>
-              At Bestway Relocation, we don’t believe in one-size-fits-all solutions. We design every move around the
-              specific needs of each customer. Whether you're relocating a family home or an entire office, we tailor
-              every detail of our service to match your timeline, budget, and preferences.
-            </p>
-            <br>
-            <p>
-              Our client-first approach allows us to deliver a truly personalised experience — one where you feel
-              informed, supported, and confident every step of the way. It’s this commitment to excellence that has
-              made us one of the UK’s most trusted moving specialists.
-            </p>
-
+            <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2fb-aba9487e" class="_340_hero-setion_img departure">
+            </div>
           </div>
-        </div>
+        </section>
+
+        <h4>What We Do</h4>
+        <p>
+          At Bestway Relocation, we specialise in delivering high-quality white glove removals — a premium moving
+          experience that focuses on precision, care, and professionalism. With operational hubs in London,
+          Reading, Southampton, and Surrey, our services span the entire UK, ensuring our clients receive the same
+          exceptional service no matter their location.
+        </p>
         <br>
+        <p>
+          From house removals to office relocations, we also offer secure storage facilities, professional packing
+          materials, and specialist crate hire. Every element of your move is handled with meticulous attention to
+          detail.
+        </p>
+        <br>
+        <h4>Meet the Team</h4>
+        <p>
+          Our success is built on our people. We’ve carefully selected a dedicated team of trained professionals
+          with more than 7+ years of industry experience in residential and commercial removals. Each team member
+          shares a commitment to delivering excellence and exceeding client expectations.
+        </p>
+        <br>
+        <p>
+          Our movers are trained to handle all aspects of relocation, using our custom-designed fleet of vehicles
+          to ensure safe, secure, and efficient transportation of your belongings. Their experience,
+          professionalism, and courtesy are what make us different.
+        </p>
+        <br>
+        <h4>Our Values</h4>
+        <p>
+          Transparency is the foundation of our business. We understand that moving can be overwhelming — that’s
+          why we aim to simplify the process. From upfront pricing with no hidden charges to proactive
+          communication throughout your move, our goal is to make your journey with us as smooth and stress-free
+          as possible.
+        </p>
+        <br>
+        <h4>Our Commitment to Customer Experience</h4>
+        <p>
+          At Bestway Relocation, our clients aren’t just customers — they’re partners in every move we make. From
+          your first enquiry to the final box being unpacked, our team is focused on delivering a seamless,
+          supportive and stress-free experience. We assign dedicated moving specialists to guide you through the
+          process, answer your questions, and adapt to your needs.
+        </p>
+        <br>
+        <p>
+          Whether you’re moving your first flat, your forever home, or a multi-floor corporate office, we apply
+          the same care and attention to detail. Your trust means everything to us, and that’s why we go the extra
+          mile to deliver results that reflect our core values of respect, responsibility and reliability.
+        </p>
+        <br>
+        <h4>Sustainability & Responsible Practices</h4>
+        <p>
+          As a modern relocation company, we believe in doing business responsibly. Bestway Relocation is
+          committed to reducing environmental impact wherever possible. We use recyclable packing materials,
+          reduce empty return trips with smart route planning, and maintain an efficient fleet that meets
+          low-emission standards.
+        </p>
+        <br>
+        <p>
+          We also encourage our clients to donate or recycle unwanted items through our approved charity and reuse
+          partners — making your move not only easier, but more meaningful. Because we believe moving forward
+          shouldn’t come at the planet’s expense.
+        </p>
+        <br>
+        <h4>Where We're Headed</h4>
+        <p>
+          Bestway Relocation is more than a moving company — we're building a better future for the removals
+          industry. With continued investment in technology, training, and customer service, we’re raising the bar
+          for what clients expect when they hire a professional mover.
+        </p>
+        <br>
+        <p>
+          Our goal is to be the UK’s most trusted and recognised name in removals, known for exceptional care,
+          consistency, and innovation. As we grow, we remain grounded in the belief that every move is personal —
+          and every customer deserves the best.
+        </p>
+        <br>
+        <h4>Why Choose Us?</h4>
+        <p>
+          At Bestway Relocation, we don’t believe in one-size-fits-all solutions. We design every move around the
+          specific needs of each customer. Whether you're relocating a family home or an entire office, we tailor
+          every detail of our service to match your timeline, budget, and preferences.
+        </p>
+        <br>
+        <p>
+          Our client-first approach allows us to deliver a truly personalised experience — one where you feel
+          informed, supported, and confident every step of the way. It’s this commitment to excellence that has
+          made us one of the UK’s most trusted moving specialists.
+        </p>
+
+
+
       </div>
+      <br>
+
     </div>
     <?php include 'components/specialization.php'; ?>
   </section>
