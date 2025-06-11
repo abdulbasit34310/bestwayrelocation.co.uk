@@ -275,6 +275,8 @@
           </div>
         </div>
       </section>
+      <?php include 'components/secured-insured.php'; ?>
+
       <style>
         /* Mobile Responsive Styles */
         @media screen and (max-width: 767px) {

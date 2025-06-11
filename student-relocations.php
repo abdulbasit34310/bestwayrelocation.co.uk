@@ -395,6 +395,8 @@
             </div>
         </div>
     </section>
+    <?php include 'components/secured-insured.php'; ?>
+
     <?php
     // Include the file where the function is defined
     include 'components/other-services.php';

@@ -249,6 +249,7 @@
           </div>
         </div>
       </section>
+      <?php include 'components/secured-insured.php'; ?>
 
       <style>
         /* Mobile Responsive Styles */
