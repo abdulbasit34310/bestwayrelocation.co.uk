@@ -28,11 +28,11 @@
         <div class="cta_content">
           <h1 class="heading-2">Removals Company in Belgravia</h1>
           <p>Bestway Relocation is proud to serve Belgravia, SW1X, with a full range of professional removal services for both homes and offices. With over 7+ years of industry experience, our highly trained movers are here to make your move smooth, secure, and stress-free. From packing and loading to transportation and unpacking, we handle every aspect of your relocation with precision and care.</p>
-          <div style="padding:40px;">
+          <div style="padding: 30px 0px 0px 0px; " >
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Call us: 0800 014 7676
@@ -40,7 +40,7 @@
                 </li>
                 <li class="mobile-margin-top-10">
                   <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php" class="secondary-black-cta w-button"
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Request a Quote

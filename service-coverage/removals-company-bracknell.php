@@ -37,11 +37,11 @@
               and affordable services tailored to your needs. Whether moving locally or across the UK, our professional
               team is here to make your move seamless and stress-free — from packing and loading to secure transport and
               storage.</p>
-            <div style="padding:40px;">
+            <div style="padding: 30px 0px 0px 0px; " >
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Call us: 0800 014 7676
@@ -49,7 +49,7 @@
                 </li>
                 <li class="mobile-margin-top-10">
                   <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php" class="secondary-black-cta w-button"
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Request a Quote

@@ -27,11 +27,11 @@
         <div class="cta_content">
           <h1 class="heading-2">Removals Company in Leatherhead, Surrey KT22</h1>
           <p>Enjoy top-tier service without the premium price tag. Bestway Relocation provides expert home and office removals in Leatherhead with over 7+ years of experience and a 5-star reputation.</p>
-          <div style="padding:40px;">
+          <div style="padding: 30px 0px 0px 0px; " >
                             <ul role="list" class="nav-menu-block w-list-unstyled">
                                 <li>
                                     <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
-                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                                         onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                                         onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                                         Call us: 0800 014 7676
@@ -39,7 +39,7 @@
                                 </li>
                                 <li class="mobile-margin-top-10">
                                     <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php" class="secondary-black-cta w-button"
-                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                                         onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                                         onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                                         Request a Quote

@@ -29,11 +29,11 @@
           <p>
             Bestway Relocation is your trusted partner for professional removals and storage in Staines, Surrey TW18-19. Whether you’re moving home or relocating your business, our highly trained and experienced team ensures a seamless, stress-free transition. We handle everything from small flats to large commercial premises, offering tailored moving plans to suit your individual needs and preferences.
           </p>
-          <div style="padding:40px;">
+          <div style="padding: 30px 0px 0px 0px; " >
                             <ul role="list" class="nav-menu-block w-list-unstyled">
                                 <li>
                                     <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
-                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                                         onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                                         onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                                         Call us: 0800 014 7676
@@ -41,7 +41,7 @@
                                 </li>
                                 <li class="mobile-margin-top-10">
                                     <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php" class="secondary-black-cta w-button"
-                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                                         onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                                         onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                                         Request a Quote

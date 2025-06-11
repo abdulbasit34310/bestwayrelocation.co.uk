@@ -29,11 +29,11 @@
       <div class="cta_maine">
         <div class="cta_content">
           <h1 class="heading-2">Removals Company in Clapham SW4, London</h1><p>Bestway Relocation is your trusted partner for moving to or from Clapham. With over 7+ years of experience, we provide full-service home and office removals, secure storage, professional packing, and white-glove care. Our dedicated team guarantees a smooth, stress-free relocation tailored to your needs and budget.</p>
-          <div style="padding:40px;">
+          <div style="padding: 30px 0px 0px 0px; " >
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Call us: 0800 014 7676
@@ -41,7 +41,7 @@
                 </li>
                 <li class="mobile-margin-top-10">
                   <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php" class="secondary-black-cta w-button"
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Request a Quote

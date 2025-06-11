@@ -101,7 +101,8 @@
   <?php include 'components/nav-2.php'; ?>
   <section class="standart-page_content-section next-section">
     <div class="content-section_grid european-freight">
-      <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
+      <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" 
+      class="content-section_text european-freight">
 
         <div class="cta_maine">
           <div class="cta_content">
@@ -113,11 +114,11 @@
               organising, and transporting everything safely to your new home can feel overwhelming. That’s where
               Bestway Relocation comes in — we’re here to take that weight off your shoulders.
             </p>
-            <div style="padding:40px;">
+            <div style="padding: 30px 0px 0px 0px; " >
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta "
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Call us: 0800 014 7676
@@ -125,7 +126,7 @@
                 </li>
                 <li class="mobile-margin-top-10">
                   <a href="request-a-quote.php" class="secondary-black-cta "
-                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 200px; text-align: center;"
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
                     onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
                     onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
                     Request a Quote
@@ -265,7 +266,8 @@
                 <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/48.svg" loading="lazy" alt="" />
                 </div>
                 <div class="top-feature-content">
-                  <p>We protect flooring, furniture, and doors—ideal for landlords and developers who want to avoid property damage.
+                  <p>We protect flooring, furniture, and doors—ideal for landlords and developers who want to avoid
+                    property damage.
                 </div>
               </li>
             </ul>
