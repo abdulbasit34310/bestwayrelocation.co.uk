@@ -333,33 +333,29 @@
                         <br>
                         <ul class="top-features-list">
                             <li class="top-feature-item">
-                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg"
+                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/46.svg"
                                         loading="lazy" alt="" />
                                 </div>
                                 <div class="top-feature-content">
-                                    <p><strong class="yllw">Door-to-door</strong>
-                                        international moving including export packing, customs clearance, and global
-                                        coordination.</p>
+                                    <p>We relocate entire offices, IT systems, furniture, and archives with care and efficiency.</p>
                                 </div>
                             </li>
 
                             <li class="top-feature-item">
-                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg"
+                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/49.svg"
                                         loading="lazy" alt="" />
                                 </div>
                                 <div class="top-feature-content">
-                                    <p><strong class="yllw">Partnerships</strong>
-                                        with freight providers and agents in major destination countries.</p>
+                                    <p>Moves can be scheduled during off-peak hours to avoid disruption.</p>
                                 </div>
                             </li>
 
                             <li class="top-feature-item">
-                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg"
+                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/50.svg"
                                         loading="lazy" alt="" />
                                 </div>
                                 <div class="top-feature-content">
-                                    <p><strong class="yllw">Ideal</strong>
-                                        for international buyers, tenants, or companies relocating staff.</p>
+                                    <p>Secure handling of confidential documents and tech equipment.</p>
                                 </div>
                             </li>
                         </ul>
