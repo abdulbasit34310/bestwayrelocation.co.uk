@@ -93,10 +93,10 @@
     }(window, document);
   </script>
 
-  <!-- <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
         type="image/x-icon" />
     <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
-        rel="apple-touch-icon" /> -->
+        rel="apple-touch-icon" />
 
   <?php include 'components/extra.php'; ?>
 </head>
