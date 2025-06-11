@@ -101,8 +101,7 @@
   <?php include 'components/nav-2.php'; ?>
   <section class="standart-page_content-section next-section">
     <div class="content-section_grid european-freight">
-      <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" 
-      class="content-section_text european-freight">
+      <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
 
         <div class="cta_maine">
           <div class="cta_content">
@@ -114,7 +113,7 @@
               organising, and transporting everything safely to your new home can feel overwhelming. That’s where
               Bestway Relocation comes in — we’re here to take that weight off your shoulders.
             </p>
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -701,7 +700,13 @@
           </div>
         </div>
       </section>
+      <?php
+      // Include the file where the function is defined
+      include 'components/other-services.php';
 
+      // Now call the function with the desired sections
+      renderInternationalServicesBanner(['packing', 'storage', 'home']);
+      ?>
       <?php include 'components/specialization.php'; ?>
 
 

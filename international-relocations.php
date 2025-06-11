@@ -115,7 +115,7 @@
               students embark on journeys across the globe. At Bestway Relocation, we are committed to
               making your
               overseas move smooth, stress-free, and affordable.</p>
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -218,8 +218,7 @@
             <br>
             <ul class="top-features-list">
               <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy"
-                    alt="" />
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy" alt="" />
                 </div>
                 <div class="top-feature-content">
                   <p><strong class="yllw">Door-to-door</strong>
@@ -228,8 +227,7 @@
               </li>
 
               <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy"
-                    alt="" />
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy" alt="" />
                 </div>
                 <div class="top-feature-content">
                   <p><strong class="yllw">Partnerships</strong>
@@ -238,8 +236,7 @@
               </li>
 
               <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy"
-                    alt="" />
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/29.svg" loading="lazy" alt="" />
                 </div>
                 <div class="top-feature-content">
                   <p><strong class="yllw">Ideal</strong>
@@ -681,6 +678,13 @@
           </div>
         </div>
       </section>
+      <?php
+      // Include the file where the function is defined
+      include 'components/other-services.php';
+
+      // Now call the function with the desired sections
+      renderInternationalServicesBanner(['packing', 'storage', 'home']);
+      ?>
       <?php include 'components/specialization.php'; ?>
     </div>
   </section>

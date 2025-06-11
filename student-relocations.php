@@ -196,7 +196,7 @@
                             removals across the UK. We specialise in flexible, budget-friendly moves tailored to
                             student life — so you can focus on your studies while we handle the logistics.
                         </p>
-                        <div style="padding: 30px 0px 0px 0px; " >
+                        <div style="padding: 30px 0px 0px 0px; ">
                             <ul role="list" class="nav-menu-block w-list-unstyled">
                                 <li>
                                     <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -395,7 +395,13 @@
             </div>
         </div>
     </section>
+    <?php
+    // Include the file where the function is defined
+    include 'components/other-services.php';
 
+    // Now call the function with the desired sections
+    renderInternationalServicesBanner(['packing', 'storage', 'home']);
+    ?>
     <?php include 'components/foot-2.php'; ?>
 
     <script src="d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c88852.js?site=64ae94fa75e1882ff9a4f9fe"

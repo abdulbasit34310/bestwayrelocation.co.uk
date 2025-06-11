@@ -122,7 +122,7 @@
                             team stays productive throughout the transition.
                         </p>
 
-                        <div style="padding: 30px 0px 0px 0px; " >
+                        <div style="padding: 30px 0px 0px 0px; ">
                             <ul role="list" class="nav-menu-block w-list-unstyled">
                                 <li>
                                     <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -334,7 +334,8 @@
                                         loading="lazy" alt="" />
                                 </div>
                                 <div class="top-feature-content">
-                                    <p>We relocate entire offices, IT systems, furniture, and archives with care and efficiency.</p>
+                                    <p>We relocate entire offices, IT systems, furniture, and archives with care and
+                                        efficiency.</p>
                                 </div>
                             </li>
 
@@ -364,6 +365,13 @@
             </section>
         </div>
     </section>
+    <?php
+    // Include the file where the function is defined
+    include 'components/other-services.php';
+
+    // Now call the function with the desired sections
+    renderInternationalServicesBanner(['packing', 'storage', 'home']);
+    ?>
     <?php include 'components/specialization.php'; ?>
     <?php include 'components/foot-2.php'; ?>
 
