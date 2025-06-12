@@ -31,8 +31,6 @@
     <meta name="twitter:image"
         content="https://www.Bestwayrelocation.co.uk/wp-content/uploads/2021/05/removals-in-berkshire.jpg" />
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
         type="text/css" />
     <style>

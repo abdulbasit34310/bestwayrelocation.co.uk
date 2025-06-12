@@ -66,90 +66,95 @@
         </div>
 
         <div class="main-content">
-          <h2>About Us</h2>
-          <p>Bestway Relocation is a removals and storage company based in Hampshire, offering top-tier services to
-            individuals, families, and businesses. With years of experience, we have earned a reputation as a reliable
-            partner for every stage of your move. Our team is committed to ensuring your relocation is smooth, timely,
-            and stress-free.</p>
+          <div class="text-content">
+            <h2>About Us</h2>
+            <p>Bestway Relocation is a removals and storage company based in Hampshire, offering top-tier services to
+              individuals, families, and businesses. With years of experience, we have earned a reputation as a reliable
+              partner for every stage of your move. Our team is committed to ensuring your relocation is smooth, timely,
+              and stress-free.</p>
 
-          <h2>Why Choose Us?</h2>
-          <p>Choosing the right removal company is vital. Bestway Relocation leads the Hampshire removals scene with a
-            comprehensive service range and an unwavering commitment to customer satisfaction. We offer:</p>
-          <ul class="rich-text">
-            <li>Complete removal services for homes and offices</li>
-            <li>Experienced and trained movers</li>
-            <li>Transparent pricing with no hidden fees</li>
-            <li>Flexible scheduling that works around you</li>
-            <li>Free home surveys or DIY video assessments</li>
-          </ul>
-          <p>We know Hampshire like the back of our hand, ensuring efficient and timely moves throughout the city and
-            surrounding towns.</p>
+            <h2>Why Choose Us?</h2>
+            <p>Choosing the right removal company is vital. Bestway Relocation leads the Hampshire removals scene with a
+              comprehensive service range and an unwavering commitment to customer satisfaction. We offer:</p>
+            <ul class="rich-text">
+              <li>Complete removal services for homes and offices</li>
+              <li>Experienced and trained movers</li>
+              <li>Transparent pricing with no hidden fees</li>
+              <li>Flexible scheduling that works around you</li>
+              <li>Free home surveys or DIY video assessments</li>
+            </ul>
+            <p>We know Hampshire like the back of our hand, ensuring efficient and timely moves throughout the city and
+              surrounding towns.</p>
 
-          <h2>Comprehensive Moving Services</h2>
-          <p>Our full-service approach includes everything you need:</p>
-          <ul class="rich-text">
-            <li><strong>House Removals</strong> – Smooth, efficient moves locally or across the UK</li>
-            <li><strong>Office Relocation</strong> – Minimised disruption with tailored business relocations</li>
-            <li><strong>Packing & Unpacking</strong> – Full packing service using quality materials</li>
-            <li><strong>Secure Transport</strong> – Modern vehicle fleet and trained drivers</li>
-            <li><strong>Specialised Item Handling</strong> – From antiques to heavy furniture</li>
-          </ul>
-          <p>We also offer unpacking services to help you settle quickly and get organised in your new home or office.
-          </p>
+            <h2>Comprehensive Moving Services</h2>
+            <p>Our full-service approach includes everything you need:</p>
+            <ul class="rich-text">
+              <li><strong>House Removals</strong> – Smooth, efficient moves locally or across the UK</li>
+              <li><strong>Office Relocation</strong> – Minimised disruption with tailored business relocations</li>
+              <li><strong>Packing & Unpacking</strong> – Full packing service using quality materials</li>
+              <li><strong>Secure Transport</strong> – Modern vehicle fleet and trained drivers</li>
+              <li><strong>Specialised Item Handling</strong> – From antiques to heavy furniture</li>
+            </ul>
+            <p>We also offer unpacking services to help you settle quickly and get organised in your new home or office.
+            </p>
 
-          <h2>Storage Solutions in Hampshire</h2>
-          <p>If you need extra space during a move, we provide secure short- and long-term storage options. Our
-            facilities accommodate both domestic and commercial needs with flexible pricing and access options to suit
-            your timeline.</p>
+            <h2>Storage Solutions in Hampshire</h2>
+            <p>If you need extra space during a move, we provide secure short- and long-term storage options. Our
+              facilities accommodate both domestic and commercial needs with flexible pricing and access options to suit
+              your timeline.</p>
 
-          <h2>Fully Insured for Peace of Mind</h2>
-          <p>We provide comprehensive insurance that covers damage, loss, or theft during the move. With Bestway
-            Relocation, your possessions are protected every step of the way.</p>
+            <h2>Fully Insured for Peace of Mind</h2>
+            <p>We provide comprehensive insurance that covers damage, loss, or theft during the move. With Bestway
+              Relocation, your possessions are protected every step of the way.</p>
 
-          <h2>Before Your Move in Hampshire</h2>
-          <p>Planning is essential for a smooth transition. We recommend starting with decluttering to reduce load size
-            and costs. Sort items by room or type, label boxes clearly, and pack essentials separately. Here are more
-            helpful tips:</p>
-          <ul class="rich-text">
-            <li>Create a moving checklist</li>
-            <li>Start packing early</li>
-            <li>Use colour-coded box labels</li>
-            <li>Keep important documents with you</li>
-            <li>Arrange utilities and change of address ahead of time</li>
-          </ul>
+            <h2>Before Your Move in Hampshire</h2>
+            <p>Planning is essential for a smooth transition. We recommend starting with decluttering to reduce load
+              size
+              and costs. Sort items by room or type, label boxes clearly, and pack essentials separately. Here are more
+              helpful tips:</p>
+            <ul class="rich-text">
+              <li>Create a moving checklist</li>
+              <li>Start packing early</li>
+              <li>Use colour-coded box labels</li>
+              <li>Keep important documents with you</li>
+              <li>Arrange utilities and change of address ahead of time</li>
+            </ul>
 
-          <h2>Tailored Moving Experience</h2>
-          <p>No two moves are the same. We personalise every move—from packing to transport and storage—ensuring your
-            specific needs are met. Whether it's antiques, large furniture, or unique scheduling, we tailor our approach
-            to suit your lifestyle and deadlines.</p>
+            <h2>Tailored Moving Experience</h2>
+            <p>No two moves are the same. We personalise every move—from packing to transport and storage—ensuring your
+              specific needs are met. Whether it's antiques, large furniture, or unique scheduling, we tailor our
+              approach
+              to suit your lifestyle and deadlines.</p>
 
-          <h2>Meet the Team</h2>
-          <p>Our skilled, courteous, and background-checked movers make every move smooth and secure. Trained in
-            handling everything from fragile items to large office setups, they bring professionalism and care to every
-            job.</p>
+            <h2>Meet the Team</h2>
+            <p>Our skilled, courteous, and background-checked movers make every move smooth and secure. Trained in
+              handling everything from fragile items to large office setups, they bring professionalism and care to
+              every
+              job.</p>
 
-          <h2>Specialist Services</h2>
-          <p>From pianos and fine art to evening or weekend relocations, our specialist services ensure you get custom
-            care. We use the latest equipment and techniques to handle unique and valuable items safely.</p>
+            <h2>Specialist Services</h2>
+            <p>From pianos and fine art to evening or weekend relocations, our specialist services ensure you get custom
+              care. We use the latest equipment and techniques to handle unique and valuable items safely.</p>
 
-          <h2>Areas We Cover</h2>
-          <p>We serve all of Hampshire and nearby areas including Ocean Village, Shirley, Portswood, and beyond.
-            Whether you're moving locally or long-distance, we’re here to help.</p>
+            <h2>Areas We Cover</h2>
+            <p>We serve all of Hampshire and nearby areas including Ocean Village, Shirley, Portswood, and beyond.
+              Whether you're moving locally or long-distance, we’re here to help.</p>
 
-          <h2>Moving to Hampshire?</h2>
-          <p>Hampshire is a vibrant port city known for its maritime heritage, green parks, thriving economy, and
-            excellent transport links. Whether you're drawn to its waterfront living, historic sites, or modern city
-            vibe, it’s a fantastic place to live and work.</p>
+            <h2>Moving to Hampshire?</h2>
+            <p>Hampshire is a vibrant port city known for its maritime heritage, green parks, thriving economy, and
+              excellent transport links. Whether you're drawn to its waterfront living, historic sites, or modern city
+              vibe, it’s a fantastic place to live and work.</p>
 
-          <h2>Get a Free Quote</h2>
-          <p>Start with a free pre-move survey—either via video or home visit. We’ll assess your needs and provide a
-            clear, competitive quote with no hidden fees.</p>
+            <h2>Get a Free Quote</h2>
+            <p>Start with a free pre-move survey—either via video or home visit. We’ll assess your needs and provide a
+              clear, competitive quote with no hidden fees.</p>
 
-          <h2>Contact Bestway Relocation Hampshire</h2>
-          <p>We’re available Monday to Saturday to answer your questions and plan your move. Visit <a
-              href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> or call us for your tailored
-            removal service.</p>
-          <p>Service Hours: Mon - Sat: 8AM – 6PM | Sunday: Closed</p>
+            <h2>Contact Bestway Relocation Hampshire</h2>
+            <p>We’re available Monday to Saturday to answer your questions and plan your move. Visit <a
+                href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> or call us for your tailored
+              removal service.</p>
+            <p>Service Hours: Mon - Sat: 8AM – 6PM | Sunday: Closed</p>
+          </div>
           <!-- How Can We Help? -->
           <section class="section_520-height">
             <div class="w-layout-grid section_520-height_grid">
