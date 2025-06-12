@@ -29,6 +29,7 @@
   <section class="standart-page_content-section">
     <div class="content-section_grid european-freight">
       <div class="content-section_text european-freight">
+
         <div class="cta_maine">
           <div class="cta_content">
             <h1>Premier Removals Company in Maidenhead</h1>
@@ -60,7 +61,8 @@
           </div>
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
-        <div class="main-content">
+        
+          <div class="main-content">
           <br /><br /><br />
           <h3>About Bestway Relocation in Maidenhead</h3>
           <p>Bestway Relocation is your reliable white-glove moving company in Maidenhead, ready to assist with every

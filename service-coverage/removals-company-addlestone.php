@@ -60,7 +60,8 @@
           </div>
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
-        <div class="main-content">
+        
+          <div class="main-content">
           <br /><br /><br />
           <h4>About Our Removal Company</h4>
           <p>We are your trusted local and long-distance moving partner in Addlestone. From full house removals to

@@ -30,6 +30,7 @@
   <section class="standart-page_content-section next-section">
     <div class="content-section_grid european-freight">
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
+
         <div class="cta_maine">
           <div class="cta_content">
             <h2 class="heading-2">Packing Supplies & Expert Tips for a Smooth Move</h2>
@@ -141,10 +142,8 @@
               href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> to shop now and get everything
             delivered next day across the UK.</p>
         </div>
-
       </div>
     </div>
-    <br> <br>
   </section>
 
   <?php include '../components/foot.php'; ?>
