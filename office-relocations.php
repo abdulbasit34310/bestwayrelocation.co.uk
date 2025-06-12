@@ -151,7 +151,7 @@
                 </div>
 
                 <div class="main-content">
-                    <br> <br>
+
                     <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
                         async>
                         </script>
@@ -161,134 +161,148 @@
                         <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
                             rel="noopener">Trustpilot</a>
                     </div>
-                    <br>
-                    <h4>Why Businesses Trust Bestway Relocation</h4>
-                    <p>
-                        Whether you're expanding into a larger space, moving across town, or relocating your head office
-                        to a new
-                        city — we deliver expert coordination and end-to-end management for a smooth, successful move.
-                        Office relocation is more than just moving boxes. It's about ensuring your team can get back to
-                        work
-                        quickly, with no loss of equipment, productivity, or momentum. We take care of every detail —
-                        from
-                        disassembling workstations to reinstalling them exactly how you want in your new space.
-                    </p>
-                    <br>
-                    <p>
-                        We’ve worked with businesses of all sizes and sectors — from small start-ups to large corporate
-                        HQs. No
-                        matter the complexity, we tailor every move to meet your exact business needs and timeframe.
-                    </p>
-                    <!--  -->
-                    <br />
-                    <h4>Fully Insured & Backed by 7+ years of Experience</h4>
-                    <p>
-                        With over 7+ years of experience in commercial moving, our team has handled thousands of
-                        successful office
-                        relocations across the UK. We’re fully insured with Goods in Transit and Public Liability
-                        coverage for your
-                        peace of mind.
-                    </p>
-                    <br>
-                    <p>
-                        From tech firms and marketing agencies to finance teams and government departments — our
-                        professional movers
-                        are trained to handle sensitive equipment, confidential materials, and complex logistics.
-                    </p>
+                    <div class="text-content">
 
-                    <br />
-                    <h4>Custom Planning for Every Business</h4>
-                    <p>
-                        Every business has different needs — so we begin with a full consultation. We assess the size of
-                        your
-                        office, your schedule, your layout needs, and any special equipment or access requirements. Then
-                        we create a
-                        custom plan and assign the right people, vehicles, and packing materials to make your move
-                        seamless.
-                    </p>
+                        <h4>Why Businesses Trust Bestway Relocation</h4>
+                        <p>
+                            Whether you're expanding into a larger space, moving across town, or relocating your head
+                            office
+                            to a new
+                            city — we deliver expert coordination and end-to-end management for a smooth, successful
+                            move.
+                            Office relocation is more than just moving boxes. It's about ensuring your team can get back
+                            to
+                            work
+                            quickly, with no loss of equipment, productivity, or momentum. We take care of every detail
+                            —
+                            from
+                            disassembling workstations to reinstalling them exactly how you want in your new space.
+                        </p>
+                        <br>
+                        <p>
+                            We’ve worked with businesses of all sizes and sectors — from small start-ups to large
+                            corporate
+                            HQs. No
+                            matter the complexity, we tailor every move to meet your exact business needs and timeframe.
+                        </p>
+                        <!--  -->
+                        <br />
+                        <h4>Fully Insured & Backed by 7+ years of Experience</h4>
+                        <p>
+                            With over 7+ years of experience in commercial moving, our team has handled thousands of
+                            successful office
+                            relocations across the UK. We’re fully insured with Goods in Transit and Public Liability
+                            coverage for your
+                            peace of mind.
+                        </p>
+                        <br>
+                        <p>
+                            From tech firms and marketing agencies to finance teams and government departments — our
+                            professional movers
+                            are trained to handle sensitive equipment, confidential materials, and complex logistics.
+                        </p>
 
-                    <br />
-                    <h4>Additional Services That Make a Difference</h4>
-                    <p>
-                        We don’t just move — we manage the whole process. Need heavy-duty packing crates? Done. Looking
-                        for
-                        temporary storage while your new space is prepped? No problem. From dismantling office furniture
-                        to setting
-                        it back up on the other side, we offer complete flexibility to meet your needs.
-                    </p>
-                    <br>
-                    <p>
-                        - High-quality packing materials and crates included
                         <br />
-                        - Secure short- and long-term business storage
-                        <br />
-                        - Out-of-hours and weekend relocation options
-                        <br />
-                        - Disassembly and reassembly of furniture and IT setups
-                    </p>
+                        <h4>Custom Planning for Every Business</h4>
+                        <p>
+                            Every business has different needs — so we begin with a full consultation. We assess the
+                            size of
+                            your
+                            office, your schedule, your layout needs, and any special equipment or access requirements.
+                            Then
+                            we create a
+                            custom plan and assign the right people, vehicles, and packing materials to make your move
+                            seamless.
+                        </p>
 
-                    <br />
-                    <!--  -->
+                        <br />
+                        <h4>Additional Services That Make a Difference</h4>
+                        <p>
+                            We don’t just move — we manage the whole process. Need heavy-duty packing crates? Done.
+                            Looking
+                            for
+                            temporary storage while your new space is prepped? No problem. From dismantling office
+                            furniture
+                            to setting
+                            it back up on the other side, we offer complete flexibility to meet your needs.
+                        </p>
+                        <br>
+                        <p>
+                            - High-quality packing materials and crates included
+                            <br />
+                            - Secure short- and long-term business storage
+                            <br />
+                            - Out-of-hours and weekend relocation options
+                            <br />
+                            - Disassembly and reassembly of furniture and IT setups
+                        </p>
 
-                    <h4>What We Move</h4>
-                    <p>We relocate full offices, department floors, and co-working spaces — and everything inside them:
-                    </p>
-                    <br>
-                    <p>
-                        - Office desks, chairs, and boardroom furniture
                         <br />
-                        - Monitors, computers, servers, and printers
+                        <!--  -->
+
+                        <h4>What We Move</h4>
+                        <p>We relocate full offices, department floors, and co-working spaces — and everything inside
+                            them:
+                        </p>
+                        <br>
+                        <p>
+                            - Office desks, chairs, and boardroom furniture
+                            <br />
+                            - Monitors, computers, servers, and printers
+                            <br />
+                            - Filing cabinets, safes, and documents
+                            <br />
+                            - Specialist equipment, lab gear, and medical machinery
+                        </p>
                         <br />
-                        - Filing cabinets, safes, and documents
-                        <br />
-                        - Specialist equipment, lab gear, and medical machinery
-                    </p>
-                    <br />
-                    <!-- <ul class="rich-text">
+                        <!-- <ul class="rich-text">
                 <li>Office desks, chairs, and boardroom furniture</li>
                 <li>Monitors, computers, servers, and printers</li>
                 <li>Filing cabinets, safes, and documents</li>
                 <li>Specialist equipment, lab gear, and medical machinery</li>
               </ul> -->
-                    <p>We’re equipped to handle both standard and specialist environments — including labs, studios,
-                        clinics, and
-                        more.</p>
-                    <br />
-
-                    <!--  -->
-
-                    <h4>The Bestway Promise</h4>
-                    <p>
-                        - Detailed planning from start to finish — we handle the logistics so you can stay focused
+                        <p>We’re equipped to handle both standard and specialist environments — including labs, studios,
+                            clinics, and
+                            more.</p>
                         <br />
-                        - Transparent pricing and clear communication — no surprises
-                        <br />
-                        - Trained, uniformed movers who treat your workspace and equipment with care
-                        <br />
-                        - Flexible timing to suit your business hours
-                    </p>
-                    <br />
-                    <!--  -->
-                    <h4>Let’s Get Your Office Move Started</h4>
-                    <p>
-                        Every business relocation is unique. That’s why we recommend speaking with one of our commercial
-                        moving
-                        consultants to create a plan that fits you perfectly.
-                    </p>
-                    <p>
-                        Call us today on <strong>0800 014 7676</strong> for a free, no-obligation quote — or get in
-                        touch via our
-                        contact page to start planning your move with confidence.
-                    </p>
 
-                    <br />
-                    <h4>Safety, Hygiene & Compliance</h4>
-                    <p>
-                        We prioritise a safe environment for your staff and ours. Bestway Relocation adheres to all
-                        health and
-                        safety regulations, including the latest government guidance on workplace hygiene and COVID-19
-                        compliance.
-                    </p>
+                        <!--  -->
+
+                        <h4>The Bestway Promise</h4>
+                        <p>
+                            - Detailed planning from start to finish — we handle the logistics so you can stay focused
+                            <br />
+                            - Transparent pricing and clear communication — no surprises
+                            <br />
+                            - Trained, uniformed movers who treat your workspace and equipment with care
+                            <br />
+                            - Flexible timing to suit your business hours
+                        </p>
+                        <br />
+                        <!--  -->
+                        <h4>Let’s Get Your Office Move Started</h4>
+                        <p>
+                            Every business relocation is unique. That’s why we recommend speaking with one of our
+                            commercial
+                            moving
+                            consultants to create a plan that fits you perfectly.
+                        </p>
+                        <p>
+                            Call us today on <strong>0800 014 7676</strong> for a free, no-obligation quote — or get in
+                            touch via our
+                            contact page to start planning your move with confidence.
+                        </p>
+
+                        <br />
+                        <h4>Safety, Hygiene & Compliance</h4>
+                        <p>
+                            We prioritise a safe environment for your staff and ours. Bestway Relocation adheres to all
+                            health and
+                            safety regulations, including the latest government guidance on workplace hygiene and
+                            COVID-19
+                            compliance.
+                        </p>
+                    </div>
                     <section class="section_520-height">
                         <div class="w-layout-grid section_520-height_grid">
                             <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
@@ -373,7 +387,7 @@
                         </div>
                     </section>
                 </div>
-                
+
                 <?php include 'components/secured-insured.php'; ?>
 
                 <?php

@@ -63,15 +63,17 @@
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />
         </div>
         <div class="main-content">
-                    <br> <br>
-          <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
-          </script>
-          <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
-            data-businessunit-id="6821caa829e62a5ce00ea469" data-style-height="52px" data-style-width="100%">
-            <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
-              rel="noopener">Trustpilot</a>
-          </div>
-          <br>
+                             
+                    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
+                        async>
+                        </script>
+                    <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
+                        data-businessunit-id="6821caa829e62a5ce00ea469" data-style-height="52px"
+                        data-style-width="100%">
+                        <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
+                            rel="noopener">Trustpilot</a>
+                    </div>
+                    
           <h4>How We Use Your Data</h4>
           <p>We collect and store personal data to provide essential service updates and communications, as well as
             marketing information that may be of interest. You will always be asked to provide consent before receiving

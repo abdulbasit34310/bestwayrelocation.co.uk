@@ -142,7 +142,7 @@
         </div>
 
         <div class="main-content">
-          <br> <br>
+
           <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
           </script>
           <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
@@ -150,28 +150,30 @@
             <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
               rel="noopener">Trustpilot</a>
           </div>
-          <br>
-          <h4>Professional Overseas Shipping from the UK</h4>
-          <p>Bestway Relocation has refined its international relocation services to become one of the UK's
-            most trusted
-            names in overseas shipping. Our passion for delivering outstanding service has positioned us as
-            specialists
-            in international removals and global shipping.</p>
-          <br>
-          <h4>Comprehensive Moving Services</h4>
-          <p>Our experienced movers and packers are well-equipped to manage every aspect of your international
-            move.
-            Whether you are shipping excess baggage, relocating furniture, transporting an entire household,
-            or moving
-            vehicles, our all-inclusive shipping services have you covered.</p>
-          <br>
-          <h4>Why Choose Bestway Relocation?</h4>
-          <ul class="rich-text">
-            <li>The UK’s premier choice for international removals and shipping services</li>
-            <li>Specialists in overseas relocations for over seven years</li>
-            <li>Successfully helping thousands of clients move worldwide each year</li>
-            <li>Comprehensive door-to-door relocation solutions</li>
-          </ul>
+          <div class="text-content">
+
+            <h4>Professional Overseas Shipping from the UK</h4>
+            <p>Bestway Relocation has refined its international relocation services to become one of the UK's
+              most trusted
+              names in overseas shipping. Our passion for delivering outstanding service has positioned us as
+              specialists
+              in international removals and global shipping.</p>
+            <br>
+            <h4>Comprehensive Moving Services</h4>
+            <p>Our experienced movers and packers are well-equipped to manage every aspect of your international
+              move.
+              Whether you are shipping excess baggage, relocating furniture, transporting an entire household,
+              or moving
+              vehicles, our all-inclusive shipping services have you covered.</p>
+            <br>
+            <h4>Why Choose Bestway Relocation?</h4>
+            <ul class="rich-text">
+              <li>The UK’s premier choice for international removals and shipping services</li>
+              <li>Specialists in overseas relocations for over seven years</li>
+              <li>Successfully helping thousands of clients move worldwide each year</li>
+              <li>Comprehensive door-to-door relocation solutions</li>
+            </ul>
+          </div>
           <section class="section_520-height">
             <div class="w-layout-grid section_520-height_grid">
               <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">

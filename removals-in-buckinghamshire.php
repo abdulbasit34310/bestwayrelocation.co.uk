@@ -103,148 +103,158 @@
   <section class="standart-page_content-section next-section">
     <div class="content-section_grid european-freight">
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
-        <div class="main-content">
 
-          <div class="cta_maine">
-            <div class="cta_content">
-              <h2 class="heading-2">Professional Removals in Buckinghamshire – Stress-Free Every Step</h2>
-              <p>
-                Whether you're moving your home or office in Buckinghamshire, Bestway Relocation delivers a smooth and
-                reliable service. Our experienced team ensures your move is handled with care, precision, and minimal
-                disruption — so you can settle into your new space with confidence.
-              </p>
-              <div style="padding: 30px 0px 0px 0px; ">
-                <ul role="list" class="nav-menu-block w-list-unstyled">
-                  <li>
-                    <a href="tel:08000147676" class="secondary-black-outline-cta "
-                      style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                      onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                      onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                      Call us: 0800 014 7676
-                    </a>
-                  </li>
-                  <li class="mobile-margin-top-10">
-                    <a href="request-a-quote.php" class="secondary-black-cta "
-                      style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                      onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                      onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                      Request a Quote
-                    </a>
-                  </li>
-                </ul>
-              </div>
+
+        <div class="cta_maine">
+          <div class="cta_content">
+            <h2 class="heading-2">Professional Removals in Buckinghamshire – Stress-Free Every Step</h2>
+            <p>
+              Whether you're moving your home or office in Buckinghamshire, Bestway Relocation delivers a smooth and
+              reliable service. Our experienced team ensures your move is handled with care, precision, and minimal
+              disruption — so you can settle into your new space with confidence.
+            </p>
+            <div style="padding: 30px 0px 0px 0px; ">
+              <ul role="list" class="nav-menu-block w-list-unstyled">
+                <li>
+                  <a href="tel:08000147676" class="secondary-black-outline-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Call us: 0800 014 7676
+                  </a>
+                </li>
+                <li class="mobile-margin-top-10">
+                  <a href="request-a-quote.php" class="secondary-black-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Request a Quote
+                  </a>
+                </li>
+              </ul>
             </div>
-            <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Buckinghamshire removals service"
-              class="image-15" />
-            <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
-              alt="Removals in Buckinghamshire illustration" class="image-11" />
           </div>
+          <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Buckinghamshire removals service"
+            class="image-15" />
+          <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
+            alt="Removals in Buckinghamshire illustration" class="image-11" />
+        </div>
+        <div class="main-content">
+          <div class="text-content">
 
-          <h2>Home and Office Moves in and Around Buckinghamshire</h2>
-          <p>Looking for a trusted and experienced moving company in Buckinghamshire? Bestway Relocation offers
-            reliable,
-            high-quality moving and packing services for both residents and businesses. Whether you're relocating to a
-            new home or transferring your office space, our expert team ensures a seamless experience from start to
-            finish.</p>
+            <h2>Home and Office Moves in and Around Buckinghamshire</h2>
+            <p>Looking for a trusted and experienced moving company in Buckinghamshire? Bestway Relocation offers
+              reliable,
+              high-quality moving and packing services for both residents and businesses. Whether you're relocating to a
+              new home or transferring your office space, our expert team ensures a seamless experience from start to
+              finish.</p>
 
-          <h2>The Trusted Buckinghamshire Moving Company</h2>
-          <p>Bestway Relocation provides a fully personalised service for every move. Our experienced team handles
-            everything from packing and crate hire to loading and unloading — always with care and professionalism. With
-            years of experience in Buckinghamshire and surrounding areas, we know how to get the job done efficiently,
-            with
-            minimal disruption to your routine.</p>
+            <h2>The Trusted Buckinghamshire Moving Company</h2>
+            <p>Bestway Relocation provides a fully personalised service for every move. Our experienced team handles
+              everything from packing and crate hire to loading and unloading — always with care and professionalism.
+              With
+              years of experience in Buckinghamshire and surrounding areas, we know how to get the job done efficiently,
+              with
+              minimal disruption to your routine.</p>
 
-          <h2>Transparent Pricing</h2>
-          <p>The cost of your move depends on several factors, such as:</p>
-          <ul class="rich-text">
-            <li>Distance between locations</li>
-            <li>Volume and size of items</li>
-            <li>Whether furniture needs to be disassembled and reassembled</li>
-          </ul>
-          <p>For an accurate quote tailored to your move, <a
-              href="https://www.bestwayrelocation.co.uk/contact-us.php">contact us today</a>. We’ll provide a
-            no-obligation
-            estimate with no hidden charges.</p>
+            <h2>Transparent Pricing</h2>
+            <p>The cost of your move depends on several factors, such as:</p>
+            <ul class="rich-text">
+              <li>Distance between locations</li>
+              <li>Volume and size of items</li>
+              <li>Whether furniture needs to be disassembled and reassembled</li>
+            </ul>
+            <p>For an accurate quote tailored to your move, <a
+                href="https://www.bestwayrelocation.co.uk/contact-us.php">contact us today</a>. We’ll provide a
+              no-obligation
+              estimate with no hidden charges.</p>
 
-          <h2>Buying and Renting in Buckinghamshire</h2>
-          <p>The average property price in Buckinghamshire is around £293,564 — lower than the UK average, making it an
-            appealing choice for first-time buyers and growing families.</p>
+            <h2>Buying and Renting in Buckinghamshire</h2>
+            <p>The average property price in Buckinghamshire is around £293,564 — lower than the UK average, making it
+              an
+              appealing choice for first-time buyers and growing families.</p>
 
-          <h5>Typical Property Prices</h5>
-          <ul class="rich-text">
-            <li>Detached: £521,412</li>
-            <li>Semi-detached: £348,912</li>
-            <li>Terraced: £311,621</li>
-            <li>Flats: £190,530</li>
-          </ul>
+            <h5>Typical Property Prices</h5>
+            <ul class="rich-text">
+              <li>Detached: £521,412</li>
+              <li>Semi-detached: £348,912</li>
+              <li>Terraced: £311,621</li>
+              <li>Flats: £190,530</li>
+            </ul>
 
-          <h5>Average Rental Costs</h5>
-          <ul class="rich-text">
-            <li>One bedroom: £810/month</li>
-            <li>Two bedrooms: £908/month</li>
-            <li>Three bedrooms: £1,309/month</li>
-          </ul>
+            <h5>Average Rental Costs</h5>
+            <ul class="rich-text">
+              <li>One bedroom: £810/month</li>
+              <li>Two bedrooms: £908/month</li>
+              <li>Three bedrooms: £1,309/month</li>
+            </ul>
 
-          <h2>Crime Rates in Buckinghamshire</h2>
-          <p>While Buckinghamshire remains a safe and family-friendly town, like all urban areas it does experience
-            incidents
-            of anti-social behaviour and shoplifting, especially in central zones. Always check with local authorities
-            or neighbourhood statistics when choosing your new area.</p>
+            <h2>Crime Rates in Buckinghamshire</h2>
+            <p>While Buckinghamshire remains a safe and family-friendly town, like all urban areas it does experience
+              incidents
+              of anti-social behaviour and shoplifting, especially in central zones. Always check with local authorities
+              or neighbourhood statistics when choosing your new area.</p>
 
-          <h2>Education in Buckinghamshire</h2>
-          <p>Buckinghamshire boasts 54 schools and colleges, including 8 rated as ‘Outstanding’ by Ofsted. It’s also
-            home to
-            Buckinghamshire College, and campuses of both Buckinghamshire New University and the University of
-            Bedfordshire.
-          </p>
+            <h2>Education in Buckinghamshire</h2>
+            <p>Buckinghamshire boasts 54 schools and colleges, including 8 rated as ‘Outstanding’ by Ofsted. It’s also
+              home to
+              Buckinghamshire College, and campuses of both Buckinghamshire New University and the University of
+              Bedfordshire.
+            </p>
 
-          <h2>Transport and Commuting</h2>
-          <p>Buckinghamshire offers excellent transport links, making it ideal for commuters. Regular bus and rail
-            services
-            connect it to Luton, Oxford, Milton Keynes, and Central London.</p>
-          <ul class="rich-text">
-            <li>Train to London Marylebone: approx. 1 hour</li>
-            <li>Access to M1, M25, and M40 motorways</li>
-            <li>Luton and Heathrow Airports: within an hour’s drive</li>
-          </ul>
-          <p>Local cycling infrastructure is also expanding, promoting sustainable travel around the town.</p>
+            <h2>Transport and Commuting</h2>
+            <p>Buckinghamshire offers excellent transport links, making it ideal for commuters. Regular bus and rail
+              services
+              connect it to Luton, Oxford, Milton Keynes, and Central London.</p>
+            <ul class="rich-text">
+              <li>Train to London Marylebone: approx. 1 hour</li>
+              <li>Access to M1, M25, and M40 motorways</li>
+              <li>Luton and Heathrow Airports: within an hour’s drive</li>
+            </ul>
+            <p>Local cycling infrastructure is also expanding, promoting sustainable travel around the town.</p>
 
-          <h2>Employment Opportunities</h2>
-          <p>Buckinghamshire has transitioned from a market town to a modern hub for sectors like sales, IT, finance,
-            healthcare, and education. The Arla Dairy plant and other local employers provide diverse career options.
-          </p>
+            <h2>Employment Opportunities</h2>
+            <p>Buckinghamshire has transitioned from a market town to a modern hub for sectors like sales, IT, finance,
+              healthcare, and education. The Arla Dairy plant and other local employers provide diverse career options.
+            </p>
 
-          <h2>Leisure and Lifestyle in Buckinghamshire</h2>
-          <h5>Nightlife and Social Scene</h5>
-          <p>Enjoy a mix of pubs, bars, international restaurants, and entertainment venues like theatres, cinemas, and
-            bowling alleys. Fitness centres and golf courses are also popular with locals.</p>
+            <h2>Leisure and Lifestyle in Buckinghamshire</h2>
+            <h5>Nightlife and Social Scene</h5>
+            <p>Enjoy a mix of pubs, bars, international restaurants, and entertainment venues like theatres, cinemas,
+              and
+              bowling alleys. Fitness centres and golf courses are also popular with locals.</p>
 
 
 
-          <h5>Shopping</h5>
-          <p>Key retail destinations include Friars Square, Hale Leys, and Buckinghamshire Shopping Park. Don’t miss the
-            general market (Weds, Fri & Sat) and “Foodie Friday” with artisan food vendors every week in Market Square.
-          </p>
+            <h5>Shopping</h5>
+            <p>Key retail destinations include Friars Square, Hale Leys, and Buckinghamshire Shopping Park. Don’t miss
+              the
+              general market (Weds, Fri & Sat) and “Foodie Friday” with artisan food vendors every week in Market
+              Square.
+            </p>
 
-          <h5>Things to See and Do</h5>
-          <ul class="rich-text">
-            <li><strong>Roald Dahl Children’s Gallery</strong>: A literary-themed interactive museum for children</li>
-            <li><strong>Buckinghamshire Waterside Theatre</strong>: Home to musicals, opera, and West End shows</li>
-            <li><strong>Buckinghamshire County Museum</strong>: Celebrating local heritage and culture</li>
-            <li><strong>King’s Head Inn</strong>: One of the oldest public houses in southern England</li>
-          </ul>
+            <h5>Things to See and Do</h5>
+            <ul class="rich-text">
+              <li><strong>Roald Dahl Children’s Gallery</strong>: A literary-themed interactive museum for children</li>
+              <li><strong>Buckinghamshire Waterside Theatre</strong>: Home to musicals, opera, and West End shows</li>
+              <li><strong>Buckinghamshire County Museum</strong>: Celebrating local heritage and culture</li>
+              <li><strong>King’s Head Inn</strong>: One of the oldest public houses in southern England</li>
+            </ul>
 
-          <p><strong>Start your Buckinghamshire move the right way —</strong> with Bestway Relocation, your trusted
-            moving
-            experts. <a href="https://www.bestwayrelocation.co.uk/contact-us.php">Contact us</a> now for a hassle-free,
-            professional moving experience.</p>
+            <p><strong>Start your Buckinghamshire move the right way —</strong> with Bestway Relocation, your trusted
+              moving
+              experts. <a href="https://www.bestwayrelocation.co.uk/contact-us.php">Contact us</a> now for a
+              hassle-free,
+              professional moving experience.</p>
 
-          <h2>Contact Our Friendly Team</h2>
-          <p>Our customer support specialists are here to guide you through every step of your Buckinghamshire move. Let
-            us
-            know your requirements and get a detailed, transparent quote today. Whether via phone, email, or our contact
-            form — we’re ready to help.</p>
-
+            <h2>Contact Our Friendly Team</h2>
+            <p>Our customer support specialists are here to guide you through every step of your Buckinghamshire move.
+              Let
+              us
+              know your requirements and get a detailed, transparent quote today. Whether via phone, email, or our
+              contact
+              form — we’re ready to help.</p>
+          </div>
           <section class="standart-page_content-section">
             <div class="w-layout-grid content-section_grid">
               <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f" class="content-section_image pallets">
@@ -290,8 +300,8 @@
           <section class="cta_section">
             <div class="cta_wrapper">
               <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-                          <br>
-            <div id="accordion">
+              <br>
+              <div id="accordion">
                 <div class="card">
                   <div class="card-header" id="headingOne">
                     <h5 class="mb-0">

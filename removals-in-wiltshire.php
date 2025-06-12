@@ -151,100 +151,115 @@
                 </div>
 
                 <div class="main-content">
-                    <h2>Home and Office Moves Across Wiltshire</h2>
-                    <p>Looking for a reliable removals company in Wiltshire? Bestway Relocation offers comprehensive
-                        moving and packing services tailored for homeowners and businesses alike. From flats and family
-                        homes to corporate relocations, we ensure your move is smooth and secure.</p>
+                    <div class="text-content">
 
-                    <h2>The Trusted Moving Company in Wiltshire</h2>
-                    <p>Our Wiltshire team delivers fully personalised moving plans to suit your schedule, budget, and
-                        property type. With years of local expertise, we offer end-to-end services — including full
-                        packing, furniture disassembly and reassembly, white goods handling, and transport — for a
-                        hassle-free experience.</p>
+                        <h2>Home and Office Moves Across Wiltshire</h2>
+                        <p>Looking for a reliable removals company in Wiltshire? Bestway Relocation offers comprehensive
+                            moving and packing services tailored for homeowners and businesses alike. From flats and
+                            family
+                            homes to corporate relocations, we ensure your move is smooth and secure.</p>
 
-                    <h2>Transparent Pricing</h2>
-                    <p>The cost of your Wiltshire move depends on several factors, including:</p>
-                    <ul class="rich-text">
-                        <li>Travel distance between properties</li>
-                        <li>Volume and complexity of items</li>
-                        <li>Furniture disassembly or specialist item handling</li>
-                    </ul>
-                    <p>To receive a custom quote, <a href="https://www.bestwayrelocation.co.uk/contact-us.php">contact
-                            us</a> today. We offer clear, no-obligation pricing with no hidden fees.</p>
+                        <h2>The Trusted Moving Company in Wiltshire</h2>
+                        <p>Our Wiltshire team delivers fully personalised moving plans to suit your schedule, budget,
+                            and
+                            property type. With years of local expertise, we offer end-to-end services — including full
+                            packing, furniture disassembly and reassembly, white goods handling, and transport — for a
+                            hassle-free experience.</p>
 
-                    <h2>Talk to Our Wiltshire Team</h2>
-                    <p>Our friendly support team is here to guide you through every step of your Wiltshire move. Let us
-                        know your needs and get a quick, transparent estimate — we’re ready to help via our contact form
-                        or online chat.</p>
+                        <h2>Transparent Pricing</h2>
+                        <p>The cost of your Wiltshire move depends on several factors, including:</p>
+                        <ul class="rich-text">
+                            <li>Travel distance between properties</li>
+                            <li>Volume and complexity of items</li>
+                            <li>Furniture disassembly or specialist item handling</li>
+                        </ul>
+                        <p>To receive a custom quote, <a
+                                href="https://www.bestwayrelocation.co.uk/contact-us.php">contact
+                                us</a> today. We offer clear, no-obligation pricing with no hidden fees.</p>
 
-                    <h2>Property Market in Wiltshire</h2>
-                    <p>Wiltshire offers affordable and appealing housing options for families and professionals. The
-                        average property price is around £271,000, making it a great choice for first-time buyers.</p>
-                    <br>
-                    <h5>Average Property Prices</h5>
-                    <ul class="rich-text">
-                        <li>Detached: £451,200</li>
-                        <li>Semi-detached: £313,500</li>
-                        <li>Terraced: £267,800</li>
-                        <li>Flats: £169,400</li>
-                    </ul>
+                        <h2>Talk to Our Wiltshire Team</h2>
+                        <p>Our friendly support team is here to guide you through every step of your Wiltshire move. Let
+                            us
+                            know your needs and get a quick, transparent estimate — we’re ready to help via our contact
+                            form
+                            or online chat.</p>
 
-                    <h5>Average Rent Costs</h5>
-                    <ul class="rich-text">
-                        <li>One bedroom: £750/month</li>
-                        <li>Two bedrooms: £950/month</li>
-                        <li>Three bedrooms: £1,250/month</li>
-                    </ul>
+                        <h2>Property Market in Wiltshire</h2>
+                        <p>Wiltshire offers affordable and appealing housing options for families and professionals. The
+                            average property price is around £271,000, making it a great choice for first-time buyers.
+                        </p>
+                        <br>
+                        <h5>Average Property Prices</h5>
+                        <ul class="rich-text">
+                            <li>Detached: £451,200</li>
+                            <li>Semi-detached: £313,500</li>
+                            <li>Terraced: £267,800</li>
+                            <li>Flats: £169,400</li>
+                        </ul>
 
-                    <h2>Safety and Crime in Wiltshire</h2>
-                    <p>Wiltshire is a generally safe place to live, though some central areas may see minor incidents.
-                        We
-                        recommend checking local neighbourhood statistics and staying informed via community safety
-                        boards.</p>
+                        <h5>Average Rent Costs</h5>
+                        <ul class="rich-text">
+                            <li>One bedroom: £750/month</li>
+                            <li>Two bedrooms: £950/month</li>
+                            <li>Three bedrooms: £1,250/month</li>
+                        </ul>
 
-                    <h2>Wiltshire’s Schools and Education</h2>
-                    <p>Wiltshire is home to over 60 schools, including several ‘Outstanding’ Ofsted-rated institutions.
-                        With access to colleges and proximity to Oxford and Bath universities, Wiltshire offers great
-                        educational variety.</p>
+                        <h2>Safety and Crime in Wiltshire</h2>
+                        <p>Wiltshire is a generally safe place to live, though some central areas may see minor
+                            incidents.
+                            We
+                            recommend checking local neighbourhood statistics and staying informed via community safety
+                            boards.</p>
 
-                    <h2>Transport and Commuting from Wiltshire</h2>
-                    <p>Wiltshire is a top commuter town with excellent travel connections:</p>
-                    <ul class="rich-text">
-                        <li>Train to London Paddington: approx. 55 minutes</li>
-                        <li>Easy access to M4 motorway</li>
-                        <li>Close to Bristol and Heathrow airports</li>
-                    </ul>
-                    <p>The town also supports cycling and public transport infrastructure for local travel.</p>
+                        <h2>Wiltshire’s Schools and Education</h2>
+                        <p>Wiltshire is home to over 60 schools, including several ‘Outstanding’ Ofsted-rated
+                            institutions.
+                            With access to colleges and proximity to Oxford and Bath universities, Wiltshire offers
+                            great
+                            educational variety.</p>
 
-                    <h2>Employment in Wiltshire</h2>
-                    <p>Wiltshire is a major hub for logistics, finance, IT, and manufacturing. Companies like
-                        Nationwide,
-                        Intel, and Zurich Insurance operate from here, creating a dynamic job market for professionals
-                        and graduates.</p>
+                        <h2>Transport and Commuting from Wiltshire</h2>
+                        <p>Wiltshire is a top commuter town with excellent travel connections:</p>
+                        <ul class="rich-text">
+                            <li>Train to London Paddington: approx. 55 minutes</li>
+                            <li>Easy access to M4 motorway</li>
+                            <li>Close to Bristol and Heathrow airports</li>
+                        </ul>
+                        <p>The town also supports cycling and public transport infrastructure for local travel.</p>
 
-                    <h2>Leisure and Lifestyle in Wiltshire</h2>
-                    <h5>Nightlife & Dining</h5>
-                    <p>Wiltshire features a wide mix of restaurants, cocktail bars, and entertainment venues. The Wyvern
-                        Theatre and MECA music hall host regular performances and events.</p>
+                        <h2>Employment in Wiltshire</h2>
+                        <p>Wiltshire is a major hub for logistics, finance, IT, and manufacturing. Companies like
+                            Nationwide,
+                            Intel, and Zurich Insurance operate from here, creating a dynamic job market for
+                            professionals
+                            and graduates.</p>
 
-                    <h5>Shopping</h5>
-                    <p>Major retail centres include The Brunel and Greenbridge Retail Park. Wiltshire Designer Outlet is
-                        also a popular destination for fashion and lifestyle brands.</p>
+                        <h2>Leisure and Lifestyle in Wiltshire</h2>
+                        <h5>Nightlife & Dining</h5>
+                        <p>Wiltshire features a wide mix of restaurants, cocktail bars, and entertainment venues. The
+                            Wyvern
+                            Theatre and MECA music hall host regular performances and events.</p>
 
-                    <h5>Things to See & Do</h5>
-                    <ul class="rich-text">
-                        <li><strong>Lydiard Park</strong> – Scenic country park with historic manor house</li>
-                        <li><strong>STEAM Museum</strong> – Celebrating Wiltshire’s railway heritage</li>
-                        <li><strong>Coate Water Country Park</strong> – Nature trails and lake-side picnics</li>
-                        <li><strong>Wiltshire Arts Centre</strong> – Cultural hub for theatre and comedy</li>
-                    </ul>
+                        <h5>Shopping</h5>
+                        <p>Major retail centres include The Brunel and Greenbridge Retail Park. Wiltshire Designer
+                            Outlet is
+                            also a popular destination for fashion and lifestyle brands.</p>
 
-                    <p><strong>Make your move in Wiltshire seamless —</strong> choose Bestway Relocation for stress-free
-                        removals tailored to you.
-                        <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php">Request your
-                            quote now</a>
-                    </p>
+                        <h5>Things to See & Do</h5>
+                        <ul class="rich-text">
+                            <li><strong>Lydiard Park</strong> – Scenic country park with historic manor house</li>
+                            <li><strong>STEAM Museum</strong> – Celebrating Wiltshire’s railway heritage</li>
+                            <li><strong>Coate Water Country Park</strong> – Nature trails and lake-side picnics</li>
+                            <li><strong>Wiltshire Arts Centre</strong> – Cultural hub for theatre and comedy</li>
+                        </ul>
 
+                        <p><strong>Make your move in Wiltshire seamless —</strong> choose Bestway Relocation for
+                            stress-free
+                            removals tailored to you.
+                            <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php">Request your
+                                quote now</a>
+                        </p>
+                    </div>
                     <section class="standart-page_content-section">
                         <div class="w-layout-grid content-section_grid">
                             <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f"
@@ -300,8 +315,8 @@
                         <div class="cta_wrapper">
                             <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1>
                             <br><br>
-                                        <br>
-            <div id="accordion">
+                            <br>
+                            <div id="accordion">
 
                                 <div class="card">
                                     <div class="card-header" id="headingOne">

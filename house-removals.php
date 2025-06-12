@@ -139,7 +139,6 @@
         </div>
 
         <div class="main-content">
-          <br> <br>
           <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
           </script>
           <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
@@ -147,579 +146,583 @@
             <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
               rel="noopener">Trustpilot</a>
           </div>
-          <br>
-          <h4>An exceptional home relocation service</h4>
-          <p>
-            We are proud to be recognised as one of the UK’s leading house removal companies — and we intend to keep it
-            that way. Whether you're a young couple moving into your first home or a growing family upsizing, our team
-            delivers the same exceptional level of care and service to every move, big or small.
-          </p>
-          <br>
-          <p>
-            Our flexible approach means we adapt to your schedule and needs. We understand the unpredictable nature of
-            house moves — especially when chains or delays are involved — and we’re always prepared to be there when you
-            need us most. Our goal is to take the pressure off, giving you peace of mind every step of the way.
-          </p>
+          <div class="text-content">
 
-          <br />
-          <h4>Regardless of the task, the same unmatched excellence</h4>
-          <p>
-            We know how important your belongings are to you — that’s why we treat every item with the same respect and
-            care we’d give our own. From delicate heirlooms to bulky furniture, your possessions are always in safe
-            hands.
-          </p>
-          <br />
-          <p>
-            Bestway Relocation offers a full professional packing service to prepare your furniture and household items
-            for a secure move. We’ll handle everything from wrapping and boxing to loading and transportation — and we
-            can even help unpack once you’ve arrived.
-          </p>
-          <br />
-          <p>
-            If you’re not ready to move all your items in right away — whether you’re downsizing, redecorating, or
-            waiting on deliveries — we also offer flexible storage solutions. Short-term or long-term, we’ve got space
-            to keep your things secure.
-          </p>
-          <br />
-          <p>
-            If you're looking for a removals company that genuinely cares about your move, your home, and your
-            experience — speak to Bestway Relocation today. Our helpful team is on hand to answer your questions and
-            provide a free, no-obligation quote. Let’s make your next move the smoothest one yet.
-          </p>
+            <h4>An exceptional home relocation service</h4>
+            <p>
+              We are proud to be recognised as one of the UK’s leading house removal companies — and we intend to keep
+              it
+              that way. Whether you're a young couple moving into your first home or a growing family upsizing, our team
+              delivers the same exceptional level of care and service to every move, big or small.
+            </p>
+            <br>
+            <p>
+              Our flexible approach means we adapt to your schedule and needs. We understand the unpredictable nature of
+              house moves — especially when chains or delays are involved — and we’re always prepared to be there when
+              you
+              need us most. Our goal is to take the pressure off, giving you peace of mind every step of the way.
+            </p>
 
-          <br />
-          <h4>Feedback from our customers</h4>
-          <!-- <p>
+            <br />
+            <h4>Regardless of the task, the same unmatched excellence</h4>
+            <p>
+              We know how important your belongings are to you — that’s why we treat every item with the same respect
+              and
+              care we’d give our own. From delicate heirlooms to bulky furniture, your possessions are always in safe
+              hands.
+            </p>
+            <br />
+            <p>
+              Bestway Relocation offers a full professional packing service to prepare your furniture and household
+              items
+              for a secure move. We’ll handle everything from wrapping and boxing to loading and transportation — and we
+              can even help unpack once you’ve arrived.
+            </p>
+            <br />
+            <p>
+              If you’re not ready to move all your items in right away — whether you’re downsizing, redecorating, or
+              waiting on deliveries — we also offer flexible storage solutions. Short-term or long-term, we’ve got space
+              to keep your things secure.
+            </p>
+            <br />
+            <p>
+              If you're looking for a removals company that genuinely cares about your move, your home, and your
+              experience — speak to Bestway Relocation today. Our helpful team is on hand to answer your questions and
+              provide a free, no-obligation quote. Let’s make your next move the smoothest one yet.
+            </p>
+
+            <br />
+            <h4>Feedback from our customers</h4>
+            <!-- <p>
                 With over 400 glowing reviews on Trustpilot and an average rating of 4.9 out of 5, our customers agree: Bestway Relocation delivers a smooth, reliable moving experience. We’re known for professionalism, friendliness, and going the extra mile.
               </p>
               <br> -->
-          <p>
-            Say goodbye to unreliable removal companies. With Bestway Relocation, you’re in safe, capable hands. Our
-            experienced movers are here to make your transition effortless — no hidden fees, no last-minute surprises,
-            just great service. Get a head start on your move today. <a
-              href="https://www.bestwayrelocation.co.uk/contact-us.php">Contact Bestway Relocation</a> and let us know
-            how we can help.
-          </p>
+            <p>
+              Say goodbye to unreliable removal companies. With Bestway Relocation, you’re in safe, capable hands. Our
+              experienced movers are here to make your transition effortless — no hidden fees, no last-minute surprises,
+              just great service. Get a head start on your move today. <a
+                href="https://www.bestwayrelocation.co.uk/contact-us.php">Contact Bestway Relocation</a> and let us know
+              how we can help.
+            </p>
+          </div>
+          <section class="section_520-height">
+            <div class="w-layout-grid section_520-height_grid">
+              <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
+                <style>
+                  .top-features-list {
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+                  }
 
-        </div>
+                  .top-feature-item {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 25px;
+                  }
 
-        <section class="section_520-height">
-          <div class="w-layout-grid section_520-height_grid">
-            <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
-              <style>
+                  .top-feature-icon {
+                    width: 50px;
+                    height: 50px;
+                    margin-right: 15px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-shrink: 0;
+                  }
+
+                  .top-feature-content {
+                    flex: 1;
+                  }
+
+                  .top-feature-title {
+                    font-weight: bold;
+                    margin-bottom: 5px;
+                    color: #000;
+                  }
+
+                  .top-feature-text {
+                    color: #666;
+                    line-height: 1.5;
+                  }
+
+                  .yllw {
+                    color: #FFBF39;
+                  }
+                </style>
+                <h2 class="heading-2 yllw">House Removals</h2>
+                <br>
+                <ul class="top-features-list">
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/46.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <p>We offer full-service house removals including packing, disassembly, loading, transport, and
+                        setup
+                        at the new home.
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/47.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <p>Every move includes a personal coordinator to
+                        ensure everything goes smoothly.
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/48.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <p>We protect flooring, furniture, and doors—ideal for landlords and developers who want to avoid
+                        property damage.
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image house">
+              </div>
+            </div>
+          </section>
+
+          <section class="packages-section">
+            <style>
+              /* Mobile Responsive Styles */
+              @media screen and (max-width: 767px) {
+                .specs_wrapper {
+                  padding: 0 15px;
+                }
+
+                .grid-8 {
+                  display: block !important;
+                }
+
+                .div-block-25 {
+                  margin-bottom: 30px;
+                }
+
+                .form {
+                  padding: 20px;
+                }
+
+                .div-block-23 {
+                  display: block !important;
+                }
+
+                .div-block-23>div {
+                  margin-bottom: 15px;
+                }
+
+                .text-field {
+                  width: 100% !important;
+                }
+
+                .submit-button {
+                  width: 100%;
+                }
+
                 .top-features-list {
-                  list-style: none;
-                  padding: 0;
-                  margin: 0;
+                  margin-bottom: 30px;
                 }
 
-                .top-feature-item {
-                  display: flex;
-                  align-items: center;
-                  margin-bottom: 25px;
+                .image-10 {
+                  max-width: 100%;
+                  height: auto;
                 }
 
-                .top-feature-icon {
-                  width: 50px;
-                  height: 50px;
-                  margin-right: 15px;
-                  display: flex;
-                  align-items: center;
-                  justify-content: center;
-                  flex-shrink: 0;
+                .w-layout-grid {
+                  display: block !important;
                 }
 
-                .top-feature-content {
-                  flex: 1;
+                .features_item {
+                  margin-bottom: 30px;
                 }
 
-                .top-feature-title {
-                  font-weight: bold;
-                  margin-bottom: 5px;
-                  color: #000;
+                .content-section_image {
+                  height: 250px !important;
+                  /* margin-bottom: 30px; */
                 }
 
-                .top-feature-text {
-                  color: #666;
+                .heading-2 {
+                  font-size: 24px !important;
+                  line-height: 1.3;
+                }
+
+                .body-2 {
+                  font-size: 16px;
                   line-height: 1.5;
                 }
 
-                .yllw {
-                  color: #FFBF39;
+                /* Package Section Mobile Styles */
+                .packages-section {}
+
+                .packages-grid {
+                  grid-template-columns: 1fr;
+                  padding: 0 15px;
                 }
-              </style>
-              <h2 class="heading-2 yllw">House Removals</h2>
-              <br>
-              <ul class="top-features-list">
-                <li class="top-feature-item">
-                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/46.svg" loading="lazy"
-                      alt="" />
-                  </div>
-                  <div class="top-feature-content">
-                    <p>We offer full-service house removals including packing, disassembly, loading, transport, and
-                      setup
-                      at the new home.
-                  </div>
-                </li>
 
-                <li class="top-feature-item">
-                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/47.svg" loading="lazy"
-                      alt="" />
-                  </div>
-                  <div class="top-feature-content">
-                    <p>Every move includes a personal coordinator to
-                      ensure everything goes smoothly.
-                  </div>
-                </li>
+                .package-card {
+                  margin-bottom: 30px;
+                  padding: 25px;
+                }
 
-                <li class="top-feature-item">
-                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/48.svg" loading="lazy"
-                      alt="" />
-                  </div>
-                  <div class="top-feature-content">
-                    <p>We protect flooring, furniture, and doors—ideal for landlords and developers who want to avoid
-                      property damage.
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image house">
-            </div>
-          </div>
-        </section>
+                .package-card.popular {
+                  transform: none;
+                }
 
-        <section class="packages-section">
-          <style>
-            /* Mobile Responsive Styles */
-            @media screen and (max-width: 767px) {
-              .specs_wrapper {
-                padding: 0 15px;
+                .package-price {
+                  font-size: 36px;
+                }
+
+                .package-price span {
+                  font-size: 20px;
+                }
+
+                .package-list {
+                  margin-bottom: 20px;
+                }
+
+                .package-list li {
+                  font-size: 14px;
+                  padding: 0px 0 12px 36px;
+                }
+
+                /* Features Section Mobile Styles */
+                .features-section {
+                  padding: 40px 0;
+                }
+
+                .features-container {
+                  padding: 0 15px;
+                }
+
+                .features-title {
+                  font-size: 24px;
+                  margin-bottom: 30px;
+                }
+
+                .feature-item {
+                  width: 220px;
+                  padding: 15px;
+                }
+
+                .feature-icon {
+                  width: 60px;
+                  height: 60px;
+                  font-size: 24px;
+                }
+
+                .feature-text {
+                  font-size: 13px;
+                }
+
+                /* Client Logos Mobile Styles */
+                .client-logos-section {
+                  padding: 40px 0;
+                }
+
+                .client-logos-title {
+                  font-size: 24px;
+                  margin-bottom: 30px;
+                }
+
+                .client-logo {
+                  min-width: 150px;
+                  height: 80px;
+                  margin: 0 15px;
+                }
+
+                .client-logo img {
+                  max-width: 120px;
+                  max-height: 60px;
+                }
               }
 
-              .grid-8 {
-                display: block !important;
+              /* Tablet Responsive Styles */
+              @media screen and (min-width: 768px) and (max-width: 991px) {
+                .grid-8 {
+                  grid-template-columns: 1fr !important;
+                }
+
+                .div-block-25 {
+                  margin-bottom: 40px;
+                }
+
+                .features_item {
+                  margin-bottom: 30px;
+                }
+
+                /* Package Section Tablet Styles */
+                .packages-grid {
+                  grid-template-columns: repeat(2, 1fr);
+                  gap: 20px;
+                }
+
+                .package-card.popular {
+                  transform: scale(1.02);
+                }
+
+                /* Features Section Tablet Styles */
+                .features-container {
+                  padding: 0 30px;
+                }
+
+                .features-track {
+                  gap: 20px;
+                }
+
+                .feature-item {
+                  width: 250px;
+                }
+
+                /* Client Logos Tablet Styles */
+                .client-logos-container {
+                  padding: 0 30px;
+                }
+
+                .client-logo {
+                  min-width: 180px;
+                  margin: 0 20px;
+                }
               }
 
-              .div-block-25 {
-                margin-bottom: 30px;
+              .packages-section {
+                margin-bottom: 40px;
+                background: #FBFBFD;
+                align-self: center;
               }
-
-              .form {
-                padding: 20px;
-              }
-
-              .div-block-23 {
-                display: block !important;
-              }
-
-              .div-block-23>div {
-                margin-bottom: 15px;
-              }
-
-              .text-field {
-                width: 100% !important;
-              }
-
-              .submit-button {
-                width: 100%;
-              }
-
-              .top-features-list {
-                margin-bottom: 30px;
-              }
-
-              .image-10 {
-                max-width: 100%;
-                height: auto;
-              }
-
-              .w-layout-grid {
-                display: block !important;
-              }
-
-              .features_item {
-                margin-bottom: 30px;
-              }
-
-              .content-section_image {
-                height: 250px !important;
-                /* margin-bottom: 30px; */
-              }
-
-              .heading-2 {
-                font-size: 24px !important;
-                line-height: 1.3;
-              }
-
-              .body-2 {
-                font-size: 16px;
-                line-height: 1.5;
-              }
-
-              /* Package Section Mobile Styles */
-              .packages-section {}
 
               .packages-grid {
-                grid-template-columns: 1fr;
-                padding: 0 15px;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 30px;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 0 20px;
               }
 
               .package-card {
-                margin-bottom: 30px;
-                padding: 25px;
+                background: #fff;
+                border-radius: 20px;
+                padding: 30px;
+                position: relative;
+                transition: all 0.3s ease;
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+              }
+
+              .package-card:hover {
+                transform: translateY(-10px);
+                box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
               }
 
               .package-card.popular {
-                transform: none;
+                background: linear-gradient(135deg, #000 0%, #333 100%);
+                color: white;
+                transform: scale(1.05);
+              }
+
+              .popular-tag {
+                position: absolute;
+                top: -15px;
+                right: 20px;
+                background: #FFBF39;
+                color: #000;
+                padding: 5px 15px;
+                border-radius: 20px;
+                font-size: 14px;
+                font-weight: 600;
+              }
+
+              .package-header {
+                text-align: center;
+                padding-bottom: 30px;
+                border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+              }
+
+              .popular .package-header {
+                border-bottom-color: rgba(255, 255, 255, 0.2);
+              }
+
+              .package-name {
+                font-size: 24px;
+                font-weight: 700;
               }
 
               .package-price {
-                font-size: 36px;
+                font-size: 48px;
+                font-weight: 800;
+                margin-bottom: 10px;
               }
 
               .package-price span {
-                font-size: 20px;
+                font-size: 24px;
+                font-weight: 600;
               }
 
               .package-list {
-                margin-bottom: 20px;
+                list-style: none;
+                padding: 0;
+                margin: 0 0 30px 0;
               }
 
               .package-list li {
-                font-size: 14px;
-                padding: 0px 0 12px 36px;
+                padding: 12px 0 12px 35px;
+                position: relative;
+                font-size: 16px;
+                line-height: 1.4;
               }
 
-              /* Features Section Mobile Styles */
-              .features-section {
-                padding: 40px 0;
+              .package-list li:before {
+                content: "✓";
+                position: absolute;
+                left: 0;
+                color: #FFBF39;
+                font-weight: bold;
+                font-size: 18px;
               }
 
-              .features-container {
-                padding: 0 15px;
+              .popular .package-list li:before {
+                color: #FFBF39;
               }
 
-              .features-title {
-                font-size: 24px;
-                margin-bottom: 30px;
+              .package-list li.inactive {
+                opacity: 0.5;
               }
 
-              .feature-item {
-                width: 220px;
-                padding: 15px;
+              .package-list li.inactive:before {
+                content: "×";
+                color: rgba(0, 0, 0, 0.3);
               }
 
-              .feature-icon {
-                width: 60px;
-                height: 60px;
-                font-size: 24px;
+              .popular .package-list li.inactive:before {
+                color: rgba(255, 255, 255, 0.3);
               }
 
-              .feature-text {
-                font-size: 13px;
+              .get-plan-button {
+                display: block;
+                padding: 10px 15px;
+                background: #000;
+                color: #fff;
+                text-align: center;
+                border-radius: 30px;
+                text-decoration: none;
+                font-weight: 600;
+                transition: all 0.3s ease;
               }
 
-              /* Client Logos Mobile Styles */
-              .client-logos-section {
-                padding: 40px 0;
+              .get-plan-button:hover {
+                background: #FFBF39;
+                color: #000;
               }
 
-              .client-logos-title {
-                font-size: 24px;
-                margin-bottom: 30px;
+              .popular .get-plan-button {
+                background: #FFBF39;
+                color: #000;
               }
 
-              .client-logo {
-                min-width: 150px;
-                height: 80px;
-                margin: 0 15px;
+              .popular .get-plan-button:hover {
+                background: #fff;
               }
 
-              .client-logo img {
-                max-width: 120px;
-                max-height: 60px;
-              }
-            }
-
-            /* Tablet Responsive Styles */
-            @media screen and (min-width: 768px) and (max-width: 991px) {
-              .grid-8 {
-                grid-template-columns: 1fr !important;
+              @media screen and (max-width: 991px) {
+                .packages-grid {
+                  grid-template-columns: repeat(2, 1fr);
+                }
               }
 
-              .div-block-25 {
-                margin-bottom: 40px;
+              @media screen and (max-width: 767px) {
+                .packages-grid {
+                  grid-template-columns: 1fr;
+                }
+
+                .package-card.popular {
+                  transform: scale(1);
+                }
               }
+            </style>
+            <div class="specs_wrapper">
+              <h2 class="heading-2 text-center" style="margin-bottom: 80px; text-align: center;">Our Packages</h2>
 
-              .features_item {
-                margin-bottom: 30px;
-              }
-
-              /* Package Section Tablet Styles */
-              .packages-grid {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 20px;
-              }
-
-              .package-card.popular {
-                transform: scale(1.02);
-              }
-
-              /* Features Section Tablet Styles */
-              .features-container {
-                padding: 0 30px;
-              }
-
-              .features-track {
-                gap: 20px;
-              }
-
-              .feature-item {
-                width: 250px;
-              }
-
-              /* Client Logos Tablet Styles */
-              .client-logos-container {
-                padding: 0 30px;
-              }
-
-              .client-logo {
-                min-width: 180px;
-                margin: 0 20px;
-              }
-            }
-
-            .packages-section {
-              margin-bottom: 40px;
-              background: #FBFBFD;
-              align-self: center;
-            }
-
-            .packages-grid {
-              display: grid;
-              grid-template-columns: repeat(3, 1fr);
-              gap: 30px;
-              max-width: 1200px;
-              margin: 0 auto;
-              padding: 0 20px;
-            }
-
-            .package-card {
-              background: #fff;
-              border-radius: 20px;
-              padding: 30px;
-              position: relative;
-              transition: all 0.3s ease;
-              box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
-            }
-
-            .package-card:hover {
-              transform: translateY(-10px);
-              box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            }
-
-            .package-card.popular {
-              background: linear-gradient(135deg, #000 0%, #333 100%);
-              color: white;
-              transform: scale(1.05);
-            }
-
-            .popular-tag {
-              position: absolute;
-              top: -15px;
-              right: 20px;
-              background: #FFBF39;
-              color: #000;
-              padding: 5px 15px;
-              border-radius: 20px;
-              font-size: 14px;
-              font-weight: 600;
-            }
-
-            .package-header {
-              text-align: center;
-              padding-bottom: 30px;
-              border-bottom: 2px solid rgba(0, 0, 0, 0.1);
-              margin-bottom: 30px;
-            }
-
-            .popular .package-header {
-              border-bottom-color: rgba(255, 255, 255, 0.2);
-            }
-
-            .package-name {
-              font-size: 24px;
-              font-weight: 700;
-            }
-
-            .package-price {
-              font-size: 48px;
-              font-weight: 800;
-              margin-bottom: 10px;
-            }
-
-            .package-price span {
-              font-size: 24px;
-              font-weight: 600;
-            }
-
-            .package-list {
-              list-style: none;
-              padding: 0;
-              margin: 0 0 30px 0;
-            }
-
-            .package-list li {
-              padding: 12px 0 12px 35px;
-              position: relative;
-              font-size: 16px;
-              line-height: 1.4;
-            }
-
-            .package-list li:before {
-              content: "✓";
-              position: absolute;
-              left: 0;
-              color: #FFBF39;
-              font-weight: bold;
-              font-size: 18px;
-            }
-
-            .popular .package-list li:before {
-              color: #FFBF39;
-            }
-
-            .package-list li.inactive {
-              opacity: 0.5;
-            }
-
-            .package-list li.inactive:before {
-              content: "×";
-              color: rgba(0, 0, 0, 0.3);
-            }
-
-            .popular .package-list li.inactive:before {
-              color: rgba(255, 255, 255, 0.3);
-            }
-
-            .get-plan-button {
-              display: block;
-              padding: 10px 15px;
-              background: #000;
-              color: #fff;
-              text-align: center;
-              border-radius: 30px;
-              text-decoration: none;
-              font-weight: 600;
-              transition: all 0.3s ease;
-            }
-
-            .get-plan-button:hover {
-              background: #FFBF39;
-              color: #000;
-            }
-
-            .popular .get-plan-button {
-              background: #FFBF39;
-              color: #000;
-            }
-
-            .popular .get-plan-button:hover {
-              background: #fff;
-            }
-
-            @media screen and (max-width: 991px) {
-              .packages-grid {
-                grid-template-columns: repeat(2, 1fr);
-              }
-            }
-
-            @media screen and (max-width: 767px) {
-              .packages-grid {
-                grid-template-columns: 1fr;
-              }
-
-              .package-card.popular {
-                transform: scale(1);
-              }
-            }
-          </style>
-          <div class="specs_wrapper">
-            <h2 class="heading-2 text-center" style="margin-bottom: 80px; text-align: center;">Our Packages</h2>
-
-            <div class="packages-grid">
-              <!-- Standard Package -->
-              <div class="package-card">
-                <div class="package-header">
-                  <div class="package-name">Standard</div>
-                  <!-- <div class="package-price"><span>£</span>299</div> -->
+              <div class="packages-grid">
+                <!-- Standard Package -->
+                <div class="package-card">
+                  <div class="package-header">
+                    <div class="package-name">Standard</div>
+                    <!-- <div class="package-price"><span>£</span>299</div> -->
+                  </div>
+                  <ul class="package-list">
+                    <li>All furniture is dismantled and reassembled</li>
+                    <li>All hanging clothes packed into wardrobe boxes</li>
+                    <li>Furniture and floor protectors provided</li>
+                    <li>Insurance included up to £50,000 (T&Cs applies)</li>
+                    <li class="inactive">Packing materials provided</li>
+                    <li class="inactive">Full packing service included</li>
+                    <li class="inactive">We organise your home ready for the move</li>
+                    <li class="inactive">Unpacking service tailored to your needs</li>
+                    <li class="inactive">All rubbish removed from the property</li>
+                    <li class="inactive">We organise your new home as you like it</li>
+                  </ul>
+                  <div style="text-align: center;">
+                    <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
+                  </div>
                 </div>
-                <ul class="package-list">
-                  <li>All furniture is dismantled and reassembled</li>
-                  <li>All hanging clothes packed into wardrobe boxes</li>
-                  <li>Furniture and floor protectors provided</li>
-                  <li>Insurance included up to £50,000 (T&Cs applies)</li>
-                  <li class="inactive">Packing materials provided</li>
-                  <li class="inactive">Full packing service included</li>
-                  <li class="inactive">We organise your home ready for the move</li>
-                  <li class="inactive">Unpacking service tailored to your needs</li>
-                  <li class="inactive">All rubbish removed from the property</li>
-                  <li class="inactive">We organise your new home as you like it</li>
-                </ul>
-                <div style="text-align: center;">
-                  <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
-                </div>
-              </div>
 
-              <!-- Premium Package -->
-              <div class="package-card popular">
-                <div class="popular-tag">Most Popular</div>
-                <div class="package-header">
-                  <div class="package-name">Premium</div>
-                  <!-- <div class="package-price"><span>£</span>499</div> -->
+                <!-- Premium Package -->
+                <div class="package-card popular">
+                  <div class="popular-tag">Most Popular</div>
+                  <div class="package-header">
+                    <div class="package-name">Premium</div>
+                    <!-- <div class="package-price"><span>£</span>499</div> -->
+                  </div>
+                  <ul class="package-list">
+                    <li>All furniture is dismantled and reassembled</li>
+                    <li>All hanging clothes packed into wardrobe boxes</li>
+                    <li>Furniture and floor protectors provided</li>
+                    <li>Insurance included up to £50,000 (T&Cs applies)</li>
+                    <li>Packing materials provided</li>
+                    <li>Full packing service included</li>
+                    <li>We organise your home ready for the move</li>
+                    <li class="inactive">Unpacking service tailored to your needs</li>
+                    <li class="inactive">All rubbish removed from the property</li>
+                    <li class="inactive">We organise your new home as you like it</li>
+                  </ul>
+                  <div style="text-align: center;">
+                    <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
+                  </div>
                 </div>
-                <ul class="package-list">
-                  <li>All furniture is dismantled and reassembled</li>
-                  <li>All hanging clothes packed into wardrobe boxes</li>
-                  <li>Furniture and floor protectors provided</li>
-                  <li>Insurance included up to £50,000 (T&Cs applies)</li>
-                  <li>Packing materials provided</li>
-                  <li>Full packing service included</li>
-                  <li>We organise your home ready for the move</li>
-                  <li class="inactive">Unpacking service tailored to your needs</li>
-                  <li class="inactive">All rubbish removed from the property</li>
-                  <li class="inactive">We organise your new home as you like it</li>
-                </ul>
-                <div style="text-align: center;">
-                  <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
-                </div>
-              </div>
 
-              <!-- Elite Package -->
-              <div class="package-card">
-                <div class="package-header">
-                  <div class="package-name">Elite</div>
-                  <!-- <div class="package-price"><span>£</span>699</div> -->
-                </div>
-                <ul class="package-list">
-                  <li>All furniture is dismantled and reassembled</li>
-                  <li>All hanging clothes packed into wardrobe boxes</li>
-                  <li>Furniture and floor protectors provided</li>
-                  <li>Insurance included up to £50,000 (T&Cs applies)</li>
-                  <li>Packing materials provided</li>
-                  <li>Full packing service included</li>
-                  <li>We organise your home ready for the move</li>
-                  <li>Unpacking service tailored to your needs</li>
-                  <li>All rubbish removed from the property</li>
-                  <li>We organise your new home as you like it</li>
-                </ul>
-                <div style="text-align: center;">
-                  <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
+                <!-- Elite Package -->
+                <div class="package-card">
+                  <div class="package-header">
+                    <div class="package-name">Elite</div>
+                    <!-- <div class="package-price"><span>£</span>699</div> -->
+                  </div>
+                  <ul class="package-list">
+                    <li>All furniture is dismantled and reassembled</li>
+                    <li>All hanging clothes packed into wardrobe boxes</li>
+                    <li>Furniture and floor protectors provided</li>
+                    <li>Insurance included up to £50,000 (T&Cs applies)</li>
+                    <li>Packing materials provided</li>
+                    <li>Full packing service included</li>
+                    <li>We organise your home ready for the move</li>
+                    <li>Unpacking service tailored to your needs</li>
+                    <li>All rubbish removed from the property</li>
+                    <li>We organise your new home as you like it</li>
+                  </ul>
+                  <div style="text-align: center;">
+                    <a href="request-a-quote.php" class="get-plan-button" style="display: inline-block;">Get Started</a>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        </section>
+          </section>
+        </div>
 
         <?php include 'components/secured-insured.php'; ?>
 

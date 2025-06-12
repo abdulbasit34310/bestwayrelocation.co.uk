@@ -132,7 +132,6 @@
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
         <div class="main-content">
           <h4 class="main-content-heading h2 fw-bold text-center mx-auto mb-3 w-lg-75">Careers</h4>
-
           <p>
             Looking for more than just a job? At Bestway Relocation, we’re always on the lookout for ambitious,
             talented, and driven individuals who want to grow with a company that’s making waves in the removals

@@ -30,7 +30,7 @@
   <section class="standart-page_content-section next-section">
     <div class="content-section_grid european-freight">
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
-        
+
         <div class="cta_maine">
           <div class="cta_content">
             <h2 class="heading-2">Reliable UK Storage and Removal Services</h2>
@@ -63,7 +63,7 @@
         </div>
 
         <div class="main-content">
-          <br> <br>
+
           <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
           </script>
           <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
@@ -71,30 +71,31 @@
             <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
               rel="noopener">Trustpilot</a>
           </div>
-          <br>
-          <h4>Flexible Storage Solutions Across the UK</h4>
-          <p>Purchasing storage can take the stress out of your relocation. At Bestway Relocation, our professional
-            transport and logistics team can collect and store your belongings from anywhere in the UK. Whether for
-            short-term convenience or long-term needs, we’ve got you covered.</p>
+          <div class="text-content">
 
-          <p>Our secure facilities are monitored, clean, and accessible, giving you full peace of mind. Get your free,
-            no-obligation quote today through our online enquiry form at <a
-              href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a>.</p>
+            <h4>Flexible Storage Solutions Across the UK</h4>
+            <p>Purchasing storage can take the stress out of your relocation. At Bestway Relocation, our professional
+              transport and logistics team can collect and store your belongings from anywhere in the UK. Whether for
+              short-term convenience or long-term needs, we’ve got you covered.</p>
 
-          <p>
-            Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
-            facing a timing gap — we've got you covered with secure, flexible storage solutions.
+            <p>Our secure facilities are monitored, clean, and accessible, giving you full peace of mind. Get your free,
+              no-obligation quote today through our online enquiry form at <a
+                href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a>.</p>
 
-            At Bestway Relocation, we make storage simple. No need to juggle different companies or coordinate tricky
-            drop-offs — we'll handle the logistics from start to finish, including collection, storage, and redelivery
-            when you're ready.
+            <p>
+              Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
+              facing a timing gap — we've got you covered with secure, flexible storage solutions.
 
-            With our expert team and seamless process, you can store your items with total peace of mind. Let us know
-            what you need, and we'll tailor a storage plan that works for you.
-            Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
-            facing a timing gap — we've got you covered with secure, flexible storage solutions.
-          </p>
+              At Bestway Relocation, we make storage simple. No need to juggle different companies or coordinate tricky
+              drop-offs — we'll handle the logistics from start to finish, including collection, storage, and redelivery
+              when you're ready.
 
+              With our expert team and seamless process, you can store your items with total peace of mind. Let us know
+              what you need, and we'll tailor a storage plan that works for you.
+              Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
+              facing a timing gap — we've got you covered with secure, flexible storage solutions.
+            </p>
+          </div>
           <section class="section_520-height">
             <div class="w-layout-grid section_520-height_grid">
               <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">

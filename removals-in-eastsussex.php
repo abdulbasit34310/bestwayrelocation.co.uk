@@ -113,136 +113,156 @@
             <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c"
                 class="content-section_text european-freight">
 
-                <div class="main-content">
 
-                    <div class="cta_maine">
-                        <div class="cta_content">
-                            <h2 class="heading-2">Professional Removals in East Sussex – Stress-Free Every Step</h2>
-                            <p>Whether you're moving your home or office in East Sussex, Bestway Relocation provides
-                                seamless and professional moving solutions. Our experienced team ensures every item is
-                                handled with precision and care — so you can settle into your new space confidently and
-                                without stress.</p>
-                            <div style="padding: 30px 0px 0px 0px; ">
-                                <ul role="list" class="nav-menu-block w-list-unstyled">
-                                    <li>
-                                        <a href="tel:08000147676" class="secondary-black-outline-cta "
-                                            style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                                            onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                                            onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                                            Call us: 0800 014 7676
-                                        </a>
-                                    </li>
-                                    <li class="mobile-margin-top-10">
-                                        <a href="request-a-quote.php" class="secondary-black-cta "
-                                            style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                                            onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                                            onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                                            Request a Quote
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
+                <div class="cta_maine">
+                    <div class="cta_content">
+                        <h2 class="heading-2">Professional Removals in East Sussex – Stress-Free Every Step</h2>
+                        <p>Whether you're moving your home or office in East Sussex, Bestway Relocation provides
+                            seamless and professional moving solutions. Our experienced team ensures every item is
+                            handled with precision and care — so you can settle into your new space confidently and
+                            without stress.</p>
+                        <div style="padding: 30px 0px 0px 0px; ">
+                            <ul role="list" class="nav-menu-block w-list-unstyled">
+                                <li>
+                                    <a href="tel:08000147676" class="secondary-black-outline-cta "
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                                        onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                                        onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                                        Call us: 0800 014 7676
+                                    </a>
+                                </li>
+                                <li class="mobile-margin-top-10">
+                                    <a href="request-a-quote.php" class="secondary-black-cta "
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                                        onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                                        onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                                        Request a Quote
+                                    </a>
+                                </li>
+                            </ul>
                         </div>
-                        <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager"
-                            alt="Buckinghamshire removals service" class="image-15" />
-                        <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg"
-                            loading="eager" alt="Removals in Buckinghamshire illustration" class="image-11" />
                     </div>
+                    <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager"
+                        alt="Buckinghamshire removals service" class="image-15" />
+                    <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
+                        alt="Removals in Buckinghamshire illustration" class="image-11" />
+                </div>
 
-                    <h2>Home and Office Moves Across East Sussex and Sussex</h2>
-                    <p>Searching for a trusted removal company in East Sussex? Bestway Relocation offers reliable and
-                        comprehensive services for residential and commercial clients. Whether relocating to a new home
-                        or setting up a new workspace, we manage your move with professionalism from start to finish.
-                    </p>
+                <div class="main-content">
+                    <div class="text-content">
 
-                    <h2>Your Trusted Moving Experts in East Sussex</h2>
-                    <p>Every move is unique — and so is our approach. We offer personalised moving plans to ensure your
-                        experience is smooth and stress-free. From crate hire and packing to safe loading and unloading,
-                        our East Sussex-based team delivers with care, speed, and precision.</p>
+                        <h2>Home and Office Moves Across East Sussex and Sussex</h2>
+                        <p>Searching for a trusted removal company in East Sussex? Bestway Relocation offers reliable
+                            and
+                            comprehensive services for residential and commercial clients. Whether relocating to a new
+                            home
+                            or setting up a new workspace, we manage your move with professionalism from start to
+                            finish.
+                        </p>
 
-                    <h2>Transparent and Fair Pricing</h2>
-                    <p>Your moving cost depends on various factors such as:</p>
-                    <ul class="rich-text">
-                        <li>Distance between properties</li>
-                        <li>Total volume and size of items</li>
-                        <li>Complexity (e.g., furniture disassembly and reassembly)</li>
-                    </ul>
-                    <p>For a tailored, no-obligation quote, <a
-                            href="https://www.bestwayrelocation.co.uk/contact-us.php">get in touch today</a>. We
-                        guarantee
-                        no hidden fees — only honest and upfront pricing.</p>
+                        <h2>Your Trusted Moving Experts in East Sussex</h2>
+                        <p>Every move is unique — and so is our approach. We offer personalised moving plans to ensure
+                            your
+                            experience is smooth and stress-free. From crate hire and packing to safe loading and
+                            unloading,
+                            our East Sussex-based team delivers with care, speed, and precision.</p>
 
-                    <h2>Speak With Our Friendly East Sussex Team</h2>
-                    <p>Our dedicated customer support specialists are here to help. Share your moving needs and receive
-                        a customised, transparent quote — whether online, by phone, or via email. We’re always ready to
-                        assist.</p>
+                        <h2>Transparent and Fair Pricing</h2>
+                        <p>Your moving cost depends on various factors such as:</p>
+                        <ul class="rich-text">
+                            <li>Distance between properties</li>
+                            <li>Total volume and size of items</li>
+                            <li>Complexity (e.g., furniture disassembly and reassembly)</li>
+                        </ul>
+                        <p>For a tailored, no-obligation quote, <a
+                                href="https://www.bestwayrelocation.co.uk/contact-us.php">get in touch today</a>. We
+                            guarantee
+                            no hidden fees — only honest and upfront pricing.</p>
 
-                    <h2>Living in East Sussex – Property Market Overview</h2>
-                    <p>East Sussex’s average property price stands at approximately £444,000, reflecting its popularity
-                        among young professionals, families, and retirees alike.</p>
+                        <h2>Speak With Our Friendly East Sussex Team</h2>
+                        <p>Our dedicated customer support specialists are here to help. Share your moving needs and
+                            receive
+                            a customised, transparent quote — whether online, by phone, or via email. We’re always ready
+                            to
+                            assist.</p>
 
-                    <h5>Typical Property Prices</h5>
-                    <ul class="rich-text">
-                        <li>Detached: £732,000</li>
-                        <li>Semi-detached: £520,000</li>
-                        <li>Terraced: £460,000</li>
-                        <li>Flats: £330,000</li>
-                    </ul>
+                        <h2>Living in East Sussex – Property Market Overview</h2>
+                        <p>East Sussex’s average property price stands at approximately £444,000, reflecting its
+                            popularity
+                            among young professionals, families, and retirees alike.</p>
 
-                    <h5>Average Rental Costs</h5>
-                    <ul class="rich-text">
-                        <li>One bedroom: £1,200/month</li>
-                        <li>Two bedrooms: £1,600/month</li>
-                        <li>Three bedrooms: £2,100/month</li>
-                    </ul>
+                        <h5>Typical Property Prices</h5>
+                        <ul class="rich-text">
+                            <li>Detached: £732,000</li>
+                            <li>Semi-detached: £520,000</li>
+                            <li>Terraced: £460,000</li>
+                            <li>Flats: £330,000</li>
+                        </ul>
 
-                    <h2>East Sussex Safety and Crime Awareness</h2>
-                    <p>East Sussex is considered a vibrant and safe coastal city. Like most urban centres, petty crimes
-                        and
-                        anti-social incidents may occur in high-footfall areas. Checking local statistics is recommended
-                        when choosing your neighbourhood.</p>
+                        <h5>Average Rental Costs</h5>
+                        <ul class="rich-text">
+                            <li>One bedroom: £1,200/month</li>
+                            <li>Two bedrooms: £1,600/month</li>
+                            <li>Three bedrooms: £2,100/month</li>
+                        </ul>
 
-                    <h2>East Sussex Education and Schools</h2>
-                    <p>East Sussex offers outstanding educational options with over 60 schools and colleges, including
-                        top-rated primary and secondary schools. The University of East Sussex and University of Sussex
-                        attract students from around the world.</p>
+                        <h2>East Sussex Safety and Crime Awareness</h2>
+                        <p>East Sussex is considered a vibrant and safe coastal city. Like most urban centres, petty
+                            crimes
+                            and
+                            anti-social incidents may occur in high-footfall areas. Checking local statistics is
+                            recommended
+                            when choosing your neighbourhood.</p>
 
-                    <h2>Transport and Commuting in East Sussex</h2>
-                    <p>East Sussex boasts excellent transport connections:</p>
-                    <ul class="rich-text">
-                        <li>Direct trains to London Victoria: approx. 1 hour</li>
-                        <li>Convenient road access to A27, A23, and M23</li>
-                        <li>Close proximity to Gatwick Airport (approx. 30 mins)</li>
-                    </ul>
-                    <p>The city also supports eco-friendly commuting through its extensive cycling lanes and bus
-                        network.</p>
+                        <h2>East Sussex Education and Schools</h2>
+                        <p>East Sussex offers outstanding educational options with over 60 schools and colleges,
+                            including
+                            top-rated primary and secondary schools. The University of East Sussex and University of
+                            Sussex
+                            attract students from around the world.</p>
 
-                    <h2>Employment in East Sussex</h2>
-                    <p>East Sussex thrives as a hub for creative industries, tech startups, finance, education, and
-                        hospitality. Employers such as American Express, East Sussex & Sussex University Hospitals, and
-                        digital agencies offer a dynamic job market.</p>
+                        <h2>Transport and Commuting in East Sussex</h2>
+                        <p>East Sussex boasts excellent transport connections:</p>
+                        <ul class="rich-text">
+                            <li>Direct trains to London Victoria: approx. 1 hour</li>
+                            <li>Convenient road access to A27, A23, and M23</li>
+                            <li>Close proximity to Gatwick Airport (approx. 30 mins)</li>
+                        </ul>
+                        <p>The city also supports eco-friendly commuting through its extensive cycling lanes and bus
+                            network.</p>
 
-                    <h2>Lifestyle and Things to Do in East Sussex</h2>
-                    <h5>Nightlife and Dining</h5>
-                    <p>East Sussex’s nightlife is electric — from seafront clubs to indie bars, music venues, and comedy
-                        clubs. The Lanes and North Laine districts offer diverse dining, from street food to fine
-                        dining.</p>
-                    <br>
-                    <h5>Shopping</h5>
-                    <p>Explore Churchill Square Shopping Centre, The Lanes for boutique fashion, and weekly markets for
-                        local crafts and produce.</p>
-                    <br>
-                    <h5>Attractions and Entertainment</h5>
-                    <ul class="rich-text">
-                        <li><strong>East Sussex Pier</strong> – Iconic seafront funfair and arcade</li>
-                        <li><strong>Royal Pavilion</strong> – Exotic 19th-century palace</li>
-                        <li><strong>East Sussex Dome</strong> – Events venue for concerts and performances</li>
-                        <li><strong>i360 Tower</strong> – Stunning panoramic views of the coast</li>
-                    </ul>
+                        <h2>Employment in East Sussex</h2>
+                        <p>East Sussex thrives as a hub for creative industries, tech startups, finance, education, and
+                            hospitality. Employers such as American Express, East Sussex & Sussex University Hospitals,
+                            and
+                            digital agencies offer a dynamic job market.</p>
 
-                    <p><strong>Start your East Sussex move with confidence</strong> — Bestway Relocation ensures your
-                        relocation is professional, affordable, and fully supported. <a
-                            href="https://www.bestwayrelocation.co.uk/contact-us.php">Get your free quote today</a>.</p>
+                        <h2>Lifestyle and Things to Do in East Sussex</h2>
+                        <h5>Nightlife and Dining</h5>
+                        <p>East Sussex’s nightlife is electric — from seafront clubs to indie bars, music venues, and
+                            comedy
+                            clubs. The Lanes and North Laine districts offer diverse dining, from street food to fine
+                            dining.</p>
+                        <br>
+                        <h5>Shopping</h5>
+                        <p>Explore Churchill Square Shopping Centre, The Lanes for boutique fashion, and weekly markets
+                            for
+                            local crafts and produce.</p>
+                        <br>
+                        <h5>Attractions and Entertainment</h5>
+                        <ul class="rich-text">
+                            <li><strong>East Sussex Pier</strong> – Iconic seafront funfair and arcade</li>
+                            <li><strong>Royal Pavilion</strong> – Exotic 19th-century palace</li>
+                            <li><strong>East Sussex Dome</strong> – Events venue for concerts and performances</li>
+                            <li><strong>i360 Tower</strong> – Stunning panoramic views of the coast</li>
+                        </ul>
+
+                        <p><strong>Start your East Sussex move with confidence</strong> — Bestway Relocation ensures
+                            your
+                            relocation is professional, affordable, and fully supported. <a
+                                href="https://www.bestwayrelocation.co.uk/contact-us.php">Get your free quote today</a>.
+                        </p>
+                    </div>
                     <!-- Div -->
                     <section class="standart-page_content-section">
                         <div class="w-layout-grid content-section_grid">
@@ -295,8 +315,8 @@
                     <section class="cta_section">
                         <div class="cta_wrapper">
                             <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-                                        <br>
-            <div id="accordion">
+                            <br>
+                            <div id="accordion">
 
                                 <div class="card">
                                     <div class="card-header" id="headingOne">

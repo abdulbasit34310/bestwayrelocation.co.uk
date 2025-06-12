@@ -44,7 +44,7 @@
 <body>
     <?php include 'components/nav-2.php'; ?>
 
-    <section class="next-section" style="background-color: #fbfbfd;">
+    <section class="next-section">
         <div class="w-layout-grid contact-hero">
             <div id="w-node-_19275dee-4348-c94a-50a9-82db1c1edb1f-aba9487a" style="padding: 32px 32px 0px 32px;">
                 <div>

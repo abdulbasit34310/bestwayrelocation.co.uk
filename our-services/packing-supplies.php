@@ -65,7 +65,7 @@
         </div>
 
         <div class="main-content">
-          <br> <br>
+
           <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
           </script>
           <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
@@ -73,74 +73,82 @@
             <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
               rel="noopener">Trustpilot</a>
           </div>
-          <br>
-          <h4>Moving Boxes Delivered to Your Door</h4>
-          <p>Don’t stress about last-minute packing errands. Our online shop offers a full range of moving
-            supplies—including durable cardboard and plastic boxes, bubble wrap, packing tape, wardrobe boxes, and more.
-            All orders placed before 3 PM (Monday to Friday) qualify for next-day delivery.</p>
+          <div class="text-content">
 
-          <p>Our cardboard boxes are eco-friendly, recyclable, and available in multiple sizes with listed weight
-            capacities. We also offer specialised boxes for wardrobes and books, ensuring your clothes and literary
-            treasures are protected during transit.</p>
+            <h4>Moving Boxes Delivered to Your Door</h4>
+            <p>Don’t stress about last-minute packing errands. Our online shop offers a full range of moving
+              supplies—including durable cardboard and plastic boxes, bubble wrap, packing tape, wardrobe boxes, and
+              more.
+              All orders placed before 3 PM (Monday to Friday) qualify for next-day delivery.</p>
 
-          <p>Need extras? We’ve got furniture covers, protective blankets, shrink wrap, and every type of tape
-            imaginable—conveniently delivered to your home.</p>
-          <br>
-          <h4>Pro Packing Tips from the Experts</h4>
-          <br>
-          <h4>How to Choose the Right Boxes</h4>
-          <p>Use a mix of small, medium, and large boxes. Small boxes are ideal for delicate or heavy items, while large
-            ones are perfect for lightweight but bulky items like linens or clothing. Always ensure boxes are
-            structurally sound and not overfilled.</p>
-          <br>
-          <h4>Label by Room & Contents</h4>
-          <p>Clearly label every box—not just the top, but the sides too. Include both the destination room and a few
-            key items inside for easy identification during unpacking.</p>
-          <br>
-          <h4>Secure All Sides with Tape</h4>
-          <p>Seal both the top and bottom of every box with strong tape. This ensures structural integrity and prevents
-            accidents during the move.</p>
-          <br>
-          <h4>Donate What You Don't Need</h4>
-          <p>Lighten your load by donating unwanted items to local charities or non-profits. It simplifies your move and
-            benefits others in need.</p>
-          <br>
-          <h4>Use Storage to Save Space</h4>
-          <p>Need a flexible moving timeline or downsizing your space? Bestway Relocation offers secure and affordable
-            storage options across the UK. Get a free quote at <a
-              href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a>.</p>
-          <br>
-          <h4>Wrap Fragile Items with Care</h4>
-          <p>Wrap breakables in newspaper, scarves, socks, or rags. Use padding between fragile items like plates or
-            glassware to avoid scratches and breakage.</p>
-          <br>
-          <h4>Use Laundry Baskets for Plants</h4>
-          <p>A clever trick—short, wide laundry baskets with handles make great carriers for transporting household
-            plants safely and without the need for extra boxes.</p>
-          <br>
-          <h4>Protect Hanging Clothes with Bin Bags</h4>
-          <p>Cover groups of hanging clothes with bin bags to keep them clean and together. Use rubber bands to hold
-            hangers in place for added security.</p>
-          <br>
-          <h4>Keep Furniture Parts Together</h4>
-          <p>If disassembling furniture, place small screws and pieces into a plastic bag and tape it securely to the
-            item to prevent loss or confusion.</p>
-          <br>
-          <h4>Keep Children and Pets Out of Chaos</h4>
-          <p>On moving day, reduce stress by arranging childcare or pet care. A calm environment ensures efficiency and
-            safety during the move.</p>
-          <br>
-          <h4>Measure Furniture and Doorways</h4>
-          <p>Measure large items like sofas ahead of time to avoid moving-day headaches. Compare those dimensions with
-            doorways and staircases to ensure smooth transitions.</p>
-          <br>
-          <h4>Prepare an Essentials Box</h4>
-          <p>Create a clearly labelled “Open First” box with your immediate necessities: documents, toiletries, cleaning
-            supplies, a change of clothes, snacks, and tools. Keep it with you on the day of the move.</p>
+            <p>Our cardboard boxes are eco-friendly, recyclable, and available in multiple sizes with listed weight
+              capacities. We also offer specialised boxes for wardrobes and books, ensuring your clothes and literary
+              treasures are protected during transit.</p>
 
-          <p>Need reliable packing supplies fast? Visit <a
-              href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> to shop now and get everything
-            delivered next day across the UK.</p>
+            <p>Need extras? We’ve got furniture covers, protective blankets, shrink wrap, and every type of tape
+              imaginable—conveniently delivered to your home.</p>
+            <br>
+            <h4>Pro Packing Tips from the Experts</h4>
+            <br>
+            <h4>How to Choose the Right Boxes</h4>
+            <p>Use a mix of small, medium, and large boxes. Small boxes are ideal for delicate or heavy items, while
+              large
+              ones are perfect for lightweight but bulky items like linens or clothing. Always ensure boxes are
+              structurally sound and not overfilled.</p>
+            <br>
+            <h4>Label by Room & Contents</h4>
+            <p>Clearly label every box—not just the top, but the sides too. Include both the destination room and a few
+              key items inside for easy identification during unpacking.</p>
+            <br>
+            <h4>Secure All Sides with Tape</h4>
+            <p>Seal both the top and bottom of every box with strong tape. This ensures structural integrity and
+              prevents
+              accidents during the move.</p>
+            <br>
+            <h4>Donate What You Don't Need</h4>
+            <p>Lighten your load by donating unwanted items to local charities or non-profits. It simplifies your move
+              and
+              benefits others in need.</p>
+            <br>
+            <h4>Use Storage to Save Space</h4>
+            <p>Need a flexible moving timeline or downsizing your space? Bestway Relocation offers secure and affordable
+              storage options across the UK. Get a free quote at <a
+                href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a>.</p>
+            <br>
+            <h4>Wrap Fragile Items with Care</h4>
+            <p>Wrap breakables in newspaper, scarves, socks, or rags. Use padding between fragile items like plates or
+              glassware to avoid scratches and breakage.</p>
+            <br>
+            <h4>Use Laundry Baskets for Plants</h4>
+            <p>A clever trick—short, wide laundry baskets with handles make great carriers for transporting household
+              plants safely and without the need for extra boxes.</p>
+            <br>
+            <h4>Protect Hanging Clothes with Bin Bags</h4>
+            <p>Cover groups of hanging clothes with bin bags to keep them clean and together. Use rubber bands to hold
+              hangers in place for added security.</p>
+            <br>
+            <h4>Keep Furniture Parts Together</h4>
+            <p>If disassembling furniture, place small screws and pieces into a plastic bag and tape it securely to the
+              item to prevent loss or confusion.</p>
+            <br>
+            <h4>Keep Children and Pets Out of Chaos</h4>
+            <p>On moving day, reduce stress by arranging childcare or pet care. A calm environment ensures efficiency
+              and
+              safety during the move.</p>
+            <br>
+            <h4>Measure Furniture and Doorways</h4>
+            <p>Measure large items like sofas ahead of time to avoid moving-day headaches. Compare those dimensions with
+              doorways and staircases to ensure smooth transitions.</p>
+            <br>
+            <h4>Prepare an Essentials Box</h4>
+            <p>Create a clearly labelled “Open First” box with your immediate necessities: documents, toiletries,
+              cleaning
+              supplies, a change of clothes, snacks, and tools. Keep it with you on the day of the move.</p>
+
+            <p>Need reliable packing supplies fast? Visit <a
+                href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> to shop now and get everything
+              delivered next day across the UK.</p>
+          </div>
         </div>
       </div>
     </div>

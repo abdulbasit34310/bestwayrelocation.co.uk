@@ -101,153 +101,155 @@
         <div class="content-section_grid european-freight">
             <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c"
                 class="content-section_text european-freight">
-                <div class="main-content">
-                    <div class="cta_maine">
-                        <div class="cta_content">
-                            <h2 class="heading-2">Expert Removals in Berkshire – Homes & Offices</h2>
-                            <p>
-                                Moving in or out of Berkshire? Bestway Relocation provides fast, secure, and
-                                professional removal services for both residential and commercial clients. With
-                                deep knowledge of the Berkshire area, we make your relocation seamless from
-                                start to finish — with minimal disruption and maximum care.
-                            </p>
-                            <div style="padding: 30px 0px 0px 0px; ">
-                                <ul role="list" class="nav-menu-block w-list-unstyled">
-                                    <li>
-                                        <a href="tel:08000147676" class="secondary-black-outline-cta "
-                                            style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                                            onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                                            onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                                            Call us: 0800 014 7676
-                                        </a>
-                                    </li>
-                                    <li class="mobile-margin-top-10">
-                                        <a href="request-a-quote.php" class="secondary-black-cta "
-                                            style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                                            onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                                            onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                                            Request a Quote
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
+                <div class="cta_maine">
+                    <div class="cta_content">
+                        <h2 class="heading-2">Expert Removals in Berkshire – Homes & Offices</h2>
+                        <p>
+                            Moving in or out of Berkshire? Bestway Relocation provides fast, secure, and
+                            professional removal services for both residential and commercial clients. With
+                            deep knowledge of the Berkshire area, we make your relocation seamless from
+                            start to finish — with minimal disruption and maximum care.
+                        </p>
+                        <div style="padding: 30px 0px 0px 0px; ">
+                            <ul role="list" class="nav-menu-block w-list-unstyled">
+                                <li>
+                                    <a href="tel:08000147676" class="secondary-black-outline-cta "
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                                        onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                                        onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                                        Call us: 0800 014 7676
+                                    </a>
+                                </li>
+                                <li class="mobile-margin-top-10">
+                                    <a href="request-a-quote.php" class="secondary-black-cta "
+                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                                        onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                                        onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                                        Request a Quote
+                                    </a>
+                                </li>
+                            </ul>
                         </div>
-                        <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager"
-                            alt="Berkshire removals service" class="image-15" />
-                        <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg"
-                            loading="eager" alt="Removals in Berkshire illustration" class="image-11" />
                     </div>
+                    <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Berkshire removals service"
+                        class="image-15" />
+                    <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
+                        alt="Removals in Berkshire illustration" class="image-11" />
+                </div>
 
-                    <h2>Expert House and Office Relocation Across Berkshire</h2>
-                    <p>Bestway Relocation is a trusted, high-quality removals company based in Berkshire. We
-                        offer bespoke packing, relocation, and secure storage services for residential and
-                        commercial clients throughout the region. Whether you're moving house, relocating your
-                        office, or require a local flat move — we’ve got you covered with end-to-end support.
-                    </p>
+                <div class="main-content">
+                    <div class="text-content">
 
-                    <h2>Why Choose Bestway Relocation in Berkshire?</h2>
-                    <p>With years of hands-on experience, our Berkshire removals team is known for
-                        professionalism, punctuality, and care. From start to finish, we tailor every move to
-                        suit your needs — ensuring no detail is overlooked. Our customer-first approach
-                        guarantees clear communication, transparent pricing, and top-rated service every step of
-                        the way.</p>
+                        <h2>Expert House and Office Relocation Across Berkshire</h2>
+                        <p>Bestway Relocation is a trusted, high-quality removals company based in Berkshire. We
+                            offer bespoke packing, relocation, and secure storage services for residential and
+                            commercial clients throughout the region. Whether you're moving house, relocating your
+                            office, or require a local flat move — we’ve got you covered with end-to-end support.
+                        </p>
 
-                    <h2>Removal Costs in Berkshire</h2>
-                    <p>Moving costs in Berkshire depend on:</p>
-                    <ul class="rich-text">
-                        <li>Distance between properties</li>
-                        <li>Volume and type of items moved</li>
-                        <li>Furniture disassembly/reassembly needs</li>
-                        <li>Accessibility to both properties</li>
-                        <li>Additional services such as packing, storage or special handling</li>
-                    </ul>
-                    <p>Request a personalised quote for your Berkshire relocation by <a
-                            href="https://www.bestwayrelocation.co.uk/contact-us.php">getting in touch with
-                            us</a> today.</p>
+                        <h2>Why Choose Bestway Relocation in Berkshire?</h2>
+                        <p>With years of hands-on experience, our Berkshire removals team is known for
+                            professionalism, punctuality, and care. From start to finish, we tailor every move to
+                            suit your needs — ensuring no detail is overlooked. Our customer-first approach
+                            guarantees clear communication, transparent pricing, and top-rated service every step of
+                            the way.</p>
 
-                    <h2>Berkshire Property Market Overview</h2>
-                    <p>Berkshire offers more affordability than London with strong commuter links. It’s ideal
-                        for families and professionals looking for space, schools, and value.</p>
+                        <h2>Removal Costs in Berkshire</h2>
+                        <p>Moving costs in Berkshire depend on:</p>
+                        <ul class="rich-text">
+                            <li>Distance between properties</li>
+                            <li>Volume and type of items moved</li>
+                            <li>Furniture disassembly/reassembly needs</li>
+                            <li>Accessibility to both properties</li>
+                            <li>Additional services such as packing, storage or special handling</li>
+                        </ul>
+                        <p>Request a personalised quote for your Berkshire relocation by <a
+                                href="https://www.bestwayrelocation.co.uk/contact-us.php">getting in touch with
+                                us</a> today.</p>
 
-                    <h4>Average Monthly Rental Prices</h4>
-                    <ul class="rich-text">
-                        <li>1-bedroom: £785</li>
-                        <li>2-bedrooms: £1,173</li>
-                        <li>3-bedrooms: £1,335</li>
-                    </ul>
+                        <h2>Berkshire Property Market Overview</h2>
+                        <p>Berkshire offers more affordability than London with strong commuter links. It’s ideal
+                            for families and professionals looking for space, schools, and value.</p>
 
-                    <h4>Property Purchase Prices</h4>
-                    <ul class="rich-text">
-                        <li>Detached: £539,717</li>
-                        <li>Semi-detached: £434,557</li>
-                        <li>Terraced: £353,123</li>
-                        <li>Flats: £239,717</li>
-                    </ul>
+                        <h4>Average Monthly Rental Prices</h4>
+                        <ul class="rich-text">
+                            <li>1-bedroom: £785</li>
+                            <li>2-bedrooms: £1,173</li>
+                            <li>3-bedrooms: £1,335</li>
+                        </ul>
 
-                    <h4>Berkshire Housing Cost Comparison</h4>
-                    <p>This is how housing prices in Berkshire compare with other cities around the UK for the
-                        cost of purchasing a two-bedroom property.</p>
-                    <ul class="rich-text">
-                        <li>London: 175% more expensive</li>
-                        <li>Oxford: 29% more expensive</li>
-                        <li>Brighton: 43% more expensive</li>
-                        <li>Manchester: 15% cheaper</li>
-                    </ul>
+                        <h4>Property Purchase Prices</h4>
+                        <ul class="rich-text">
+                            <li>Detached: £539,717</li>
+                            <li>Semi-detached: £434,557</li>
+                            <li>Terraced: £353,123</li>
+                            <li>Flats: £239,717</li>
+                        </ul>
 
-                    <h2>Getting Around and Commuting to Berkshire</h2>
-                    <p>One of the best reasons to move to Berkshire is because of its excellent transport links
-                        to London. The National Rail has trains every 10 minutes from <a
-                            href="https://www.nationalrail.co.uk/stations_destinations/RDG.aspx">Berkshire
-                            station</a> to Paddington and Waterloo Stations in London. Berkshire also benefits
-                        from being just 16 miles from Heathrow Airport and having easy access to the M4
-                        motorway.</p>
-                    <ul class="rich-text">
-                        <li>London Paddington Station: 45 miles / 23 mins by train</li>
-                        <li>Oxford: 25 miles / 22 mins by train</li>
-                        <li>Southampton: 47 miles / 48 mins by train</li>
-                        <li>Swindon: 40 miles / 26 mins by train</li>
-                    </ul>
+                        <h4>Berkshire Housing Cost Comparison</h4>
+                        <p>This is how housing prices in Berkshire compare with other cities around the UK for the
+                            cost of purchasing a two-bedroom property.</p>
+                        <ul class="rich-text">
+                            <li>London: 175% more expensive</li>
+                            <li>Oxford: 29% more expensive</li>
+                            <li>Brighton: 43% more expensive</li>
+                            <li>Manchester: 15% cheaper</li>
+                        </ul>
 
-                    <h2>Education in Berkshire</h2>
-                    <p>Berkshire has no shortage of top-rated schools with a wide range of opportunities between
-                        state, private, and independent institutions that are often ranked in the top 100 of the
-                        UK. The <a href="http://www.berkshire.ac.uk/">University of Berkshire</a> is ranked
-                        among the top 250 universities globally and is particularly renowned for its research
-                        output and industry partnerships.</p>
-                    <p>The university boasts 17,000+ students studying everything from agriculture to art to
-                        real estate. Its award-winning Whiteknights campus is a hub for innovation, creativity,
-                        and cultural life in the town. The student union, societies, and events ensure an
-                        enriching student experience throughout the academic year.</p>
+                        <h2>Getting Around and Commuting to Berkshire</h2>
+                        <p>One of the best reasons to move to Berkshire is because of its excellent transport links
+                            to London. The National Rail has trains every 10 minutes from <a
+                                href="https://www.nationalrail.co.uk/stations_destinations/RDG.aspx">Berkshire
+                                station</a> to Paddington and Waterloo Stations in London. Berkshire also benefits
+                            from being just 16 miles from Heathrow Airport and having easy access to the M4
+                            motorway.</p>
+                        <ul class="rich-text">
+                            <li>London Paddington Station: 45 miles / 23 mins by train</li>
+                            <li>Oxford: 25 miles / 22 mins by train</li>
+                            <li>Southampton: 47 miles / 48 mins by train</li>
+                            <li>Swindon: 40 miles / 26 mins by train</li>
+                        </ul>
 
-                    <h2>Things to Do in Berkshire</h2>
-                    <ul class="rich-text">
-                        <li><strong>Berkshire Abbey Ruins:</strong> 900-year-old historic site</li>
-                        <li><strong>Berkshire Museum:</strong> Explore local heritage</li>
-                        <li><strong>The Oracle:</strong> Premier shopping destination with riverside dining</li>
-                        <li><strong>Prospect Park:</strong> Expansive green space with walking trails and
-                            playgrounds</li>
-                        <li><strong>The Berkshire Festival:</strong> One of the UK’s largest and oldest annual
-                            music festivals</li>
-                        <li><strong>Madejski Stadium:</strong> Home of Berkshire Football Club and venue for
-                            events</li>
-                        <li><strong>Basildon Park:</strong> National Trust-owned historic mansion and parkland
-                            just outside Berkshire</li>
-                    </ul>
+                        <h2>Education in Berkshire</h2>
+                        <p>Berkshire has no shortage of top-rated schools with a wide range of opportunities between
+                            state, private, and independent institutions that are often ranked in the top 100 of the
+                            UK. The <a href="http://www.berkshire.ac.uk/">University of Berkshire</a> is ranked
+                            among the top 250 universities globally and is particularly renowned for its research
+                            output and industry partnerships.</p>
+                        <p>The university boasts 17,000+ students studying everything from agriculture to art to
+                            real estate. Its award-winning Whiteknights campus is a hub for innovation, creativity,
+                            and cultural life in the town. The student union, societies, and events ensure an
+                            enriching student experience throughout the academic year.</p>
 
-                    <h2>Local Economy and Job Market</h2>
-                    <p>Berkshire is part of the Thames Valley tech corridor, home to major companies like
-                        Microsoft, Oracle, and Ericsson. The region offers a booming job market in technology,
-                        pharmaceuticals, education, and finance. The average salary in Berkshire exceeds the
-                        national average, making it attractive for both young professionals and families alike.
-                    </p>
+                        <h2>Things to Do in Berkshire</h2>
+                        <ul class="rich-text">
+                            <li><strong>Berkshire Abbey Ruins:</strong> 900-year-old historic site</li>
+                            <li><strong>Berkshire Museum:</strong> Explore local heritage</li>
+                            <li><strong>The Oracle:</strong> Premier shopping destination with riverside dining</li>
+                            <li><strong>Prospect Park:</strong> Expansive green space with walking trails and
+                                playgrounds</li>
+                            <li><strong>The Berkshire Festival:</strong> One of the UK’s largest and oldest annual
+                                music festivals</li>
+                            <li><strong>Madejski Stadium:</strong> Home of Berkshire Football Club and venue for
+                                events</li>
+                            <li><strong>Basildon Park:</strong> National Trust-owned historic mansion and parkland
+                                just outside Berkshire</li>
+                        </ul>
 
-                    <h2>Contact Bestway Relocation in Berkshire</h2>
-                    <p>Looking for reliable removals in Berkshire? Contact our team for a no-obligation quote
-                        tailored to your move. We’re happy to guide you through the process, offer expert
-                        packing tips, and provide everything you need for a stress-free transition.</p>
-                    <p><a href="https://www.bestwayrelocation.co.uk/contact-us.php">Get in touch with Bestway
-                            Relocation</a> and experience a better way to move.</p>
+                        <h2>Local Economy and Job Market</h2>
+                        <p>Berkshire is part of the Thames Valley tech corridor, home to major companies like
+                            Microsoft, Oracle, and Ericsson. The region offers a booming job market in technology,
+                            pharmaceuticals, education, and finance. The average salary in Berkshire exceeds the
+                            national average, making it attractive for both young professionals and families alike.
+                        </p>
 
+                        <h2>Contact Bestway Relocation in Berkshire</h2>
+                        <p>Looking for reliable removals in Berkshire? Contact our team for a no-obligation quote
+                            tailored to your move. We’re happy to guide you through the process, offer expert
+                            packing tips, and provide everything you need for a stress-free transition.</p>
+                        <p><a href="https://www.bestwayrelocation.co.uk/contact-us.php">Get in touch with Bestway
+                                Relocation</a> and experience a better way to move.</p>
+                    </div>
                     <section class="standart-page_content-section">
                         <div class="w-layout-grid content-section_grid">
                             <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f"
@@ -314,8 +316,8 @@
                     <section class="cta_section">
                         <div class="cta_wrapper">
                             <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-                                        <br>
-            <div id="accordion">
+                            <br>
+                            <div id="accordion">
                                 <div class="card">
                                     <div class="card-header" id="headingOne">
                                         <h5 class="mb-0">

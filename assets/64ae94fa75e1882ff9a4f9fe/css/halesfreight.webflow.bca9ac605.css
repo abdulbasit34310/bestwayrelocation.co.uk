@@ -286,6 +286,14 @@ html.w-mod-touch * {
   background-attachment: scroll !important;
 }
 
+.main-content {
+  padding: 40px 0px;
+}
+
+.text-content {
+  padding: 0px 0px 40px 0px;
+}
+
 .w-block {
   display: block;
 }
@@ -4265,7 +4273,7 @@ ul {
 
 .section_520-height {
   border-radius: 6px;
-  margin: 0px 0px 40px 0px;
+  /* margin: 40px 0px 0px 0px; */
   background-color: #FFF;
   box-shadow: 0px 0px 55px rgba(4, 8, 47, .08)
 }
@@ -4616,7 +4624,6 @@ ul {
   box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.05);
   grid-column-gap: 0px;
   grid-template-rows: minmax(750px, auto);
-  margin: 40px 0px 0px 0px;
 }
 
 .content-section_grid.european-freight {
