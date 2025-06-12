@@ -64,7 +64,15 @@
         </div>
 
         <div class="main-content">
-          <br> <br> <br>
+                    <br> <br>
+          <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
+          </script>
+          <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
+            data-businessunit-id="6821caa829e62a5ce00ea469" data-style-height="52px" data-style-width="100%">
+            <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
+              rel="noopener">Trustpilot</a>
+          </div>
+          <br>
           <h4>Our Mission</h4>
           <p>To be the UK's leading provider of premium, white glove relocation services by doing everything better—more
             efficiently, more carefully, and more intelligently. We are dedicated to setting new standards of service

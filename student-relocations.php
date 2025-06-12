@@ -187,6 +187,7 @@
         <div class="content-section_grid european-freight">
             <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c"
                 class="content-section_text european-freight">
+
                 <div class="cta_maine">
                     <div class="cta_content">
                         <h2 class="heading-2">Affordable & Flexible Nationwide Services</h2>
@@ -222,84 +223,95 @@
                     <img src="assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="Student relocation services"
                         class="image-11" />
                 </div>
-                <br><br><br>
-                <h4>Nationwide Student Moving Services</h4>
-                <p>At Bestway Relocation, we make moving between terms, campuses, or cities simple and affordable
-                    for students across the UK. From Brighton and Birmingham to Manchester, Edinburgh, and beyond —
-                    our team is ready to move your essentials safely and efficiently.</p>
-                <br>
-                <h4>Trusted by Students Across the UK</h4>
-                <p>We provide nationwide student removals with flexible scheduling, short-notice availability, and
-                    even shared-load options for multiple students moving to the same area. Our team handles
-                    everything from electronics and books to kitchenware, instruments, and furniture.</p>
-                <br>
-                <h4>Why Students Choose Bestway</h4>
-                <ul class="rich-text">
-                    <li>Affordable student pricing and group discounts</li>
-                    <li>Part-load or full-service moving available</li>
-                    <li>Secure short-term and long-term storage</li>
-                    <li>Professional packing options for fragile items</li>
-                    <li>Fully insured service with flexible scheduling</li>
-                </ul>
 
-                <p>Whether you're studying at Oxford, Leeds, London, Glasgow, or any other UK institution — we make
-                    your move stress-free, efficient, and cost-effective. <strong>Book your nationwide student move
-                        today —</strong> and let Bestway Relocation take the
-                    weight off your shoulders. <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php"">Get your
+                <div class="main-content">
+                    <br> <br>
+                    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
+                        async>
+                        </script>
+                    <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
+                        data-businessunit-id="6821caa829e62a5ce00ea469" data-style-height="52px"
+                        data-style-width="100%">
+                        <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
+                            rel="noopener">Trustpilot</a>
+                    </div>
+                    <br>
+                    <h4>Nationwide Student Moving Services</h4>
+                    <p>At Bestway Relocation, we make moving between terms, campuses, or cities simple and affordable
+                        for students across the UK. From Brighton and Birmingham to Manchester, Edinburgh, and beyond —
+                        our team is ready to move your essentials safely and efficiently.</p>
+                    <br>
+                    <h4>Trusted by Students Across the UK</h4>
+                    <p>We provide nationwide student removals with flexible scheduling, short-notice availability, and
+                        even shared-load options for multiple students moving to the same area. Our team handles
+                        everything from electronics and books to kitchenware, instruments, and furniture.</p>
+                    <br>
+                    <h4>Why Students Choose Bestway</h4>
+                    <ul class="rich-text">
+                        <li>Affordable student pricing and group discounts</li>
+                        <li>Part-load or full-service moving available</li>
+                        <li>Secure short-term and long-term storage</li>
+                        <li>Professional packing options for fragile items</li>
+                        <li>Fully insured service with flexible scheduling</li>
+                    </ul>
+
+                    <p>Whether you're studying at Oxford, Leeds, London, Glasgow, or any other UK institution — we make
+                        your move stress-free, efficient, and cost-effective. <strong>Book your nationwide student move
+                            today —</strong> and let Bestway Relocation take the
+                        weight off your shoulders. <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php"">Get your
                             free quote</a>.</p>
          
-            </div>
+            </div>      
         </div>
-    </section>
+        </div>
+            <section class=" standart-page_content-section">
+                            <div class="w-layout-grid content-section_grid">
+                                <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f"
+                                    class="content-section_image pallets"></div>
+                                <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f"
+                                    class="content-section_text">
+                                    <div class="rich-text w-richtext">
+                                        <h4 class="heading-2">Nationwide Student Relocations UK</h4>
+                                        <div class="text-white">
+                                            <p>Bestway Relocation offers fast, flexible, and affordable student removals
+                                                across the UK —
+                                                from Brighton to Birmingham, Manchester to London, and everywhere in
+                                                between. Whether you’re
+                                                moving into student halls, between rental flats, or back home for the
+                                                holidays, we make
+                                                every relocation smooth and stress-free.</p>
 
-    <section class=" standart-page_content-section">
-                        <div class="w-layout-grid content-section_grid">
-                            <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f"
-                                class="content-section_image pallets"></div>
-                            <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f"
-                                class="content-section_text">
-                                <div class="rich-text w-richtext">
-                                    <h4 class="heading-2">Nationwide Student Relocations UK</h4>
-                                    <div class="text-white">
-                                        <p>Bestway Relocation offers fast, flexible, and affordable student removals
-                                            across the UK —
-                                            from Brighton to Birmingham, Manchester to London, and everywhere in
-                                            between. Whether you’re
-                                            moving into student halls, between rental flats, or back home for the
-                                            holidays, we make
-                                            every relocation smooth and stress-free.</p>
+                                            <p>We understand that student life moves quickly — with term dates, exams,
+                                                and limited transport
+                                                options to consider. That’s why we’ve built our student removals service
+                                                to suit your
+                                                lifestyle. We offer part-loads, flexible scheduling, packing assistance,
+                                                and even temporary
+                                                storage between tenancies.</p>
 
-                                        <p>We understand that student life moves quickly — with term dates, exams,
-                                            and limited transport
-                                            options to consider. That’s why we’ve built our student removals service
-                                            to suit your
-                                            lifestyle. We offer part-loads, flexible scheduling, packing assistance,
-                                            and even temporary
-                                            storage between tenancies.</p>
+                                            <p>Our team carefully handles books, electronics, clothes, instruments, and
+                                                furniture with the
+                                                same level of care we offer on full-scale house moves. Need to share
+                                                transport with a
+                                                friend? We offer group student move discounts too.</p>
 
-                                        <p>Our team carefully handles books, electronics, clothes, instruments, and
-                                            furniture with the
-                                            same level of care we offer on full-scale house moves. Need to share
-                                            transport with a
-                                            friend? We offer group student move discounts too.</p>
+                                            <p>From top UK universities like Oxford, Cambridge, Leeds, Edinburgh,
+                                                Glasgow, Sheffield, and
+                                                more — we’ve helped students nationwide relocate with ease. We’re fully
+                                                insured,
+                                                student-budget friendly, and always ready to help with last-minute
+                                                bookings.</p>
 
-                                        <p>From top UK universities like Oxford, Cambridge, Leeds, Edinburgh,
-                                            Glasgow, Sheffield, and
-                                            more — we’ve helped students nationwide relocate with ease. We’re fully
-                                            insured,
-                                            student-budget friendly, and always ready to help with last-minute
-                                            bookings.</p>
-
-                                        <p>Focus on your studies and leave the moving to us — Bestway Relocation is
-                                            your go-to partner
-                                            for trusted student removals across the UK.</p>
+                                            <p>Focus on your studies and leave the moving to us — Bestway Relocation is
+                                                your go-to partner
+                                                for trusted student removals across the UK.</p>
+                                        </div>
                                     </div>
+                                    <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php"
+                                        class="grey-outline-button_white-bg margin-top-28 ">Get your student
+                                        moving quote</a>
                                 </div>
-                                <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php"
-                                    class="grey-outline-button_white-bg margin-top-28 ">Get your student
-                                    moving quote</a>
                             </div>
-                        </div>
     </section>
 
     <section class="cta_section">
@@ -404,6 +416,8 @@
     // Now call the function with the desired sections
     renderInternationalServicesBanner(['packing', 'storage', 'home']);
     ?>
+    </section>
+
     <?php include 'components/foot-2.php'; ?>
 
     <script src="d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c88852.js?site=64ae94fa75e1882ff9a4f9fe"

@@ -38,7 +38,7 @@
               and next-day delivery throughout the UK.</p>
             <!-- <p><a href="https://www.bestwayrelocation.co.uk">CLICK HERE TO SHOP PACKING BOXES ONLINE NOW</a></p> -->
 
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -63,9 +63,16 @@
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />
         </div>
 
-
         <div class="main-content">
-          <br> <br> <br>
+          <br> <br>
+          <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
+          </script>
+          <div class="trustpilot-widget" data-locale="en-GB" data-template-id="56278e9abfbbba0bdcd568bc"
+            data-businessunit-id="6821caa829e62a5ce00ea469" data-style-height="52px" data-style-width="100%">
+            <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
+              rel="noopener">Trustpilot</a>
+          </div>
+          <br>
           <h4>Moving Boxes Delivered to Your Door</h4>
           <p>Don’t stress about last-minute packing errands. Our online shop offers a full range of moving
             supplies—including durable cardboard and plastic boxes, bubble wrap, packing tape, wardrobe boxes, and more.
