@@ -99,6 +99,7 @@
         }
 
         .cta_section {
+            align-self: center;
             background: #FBFBFD;
             padding: 45px 0;
 
@@ -261,10 +262,7 @@
                         weight off your shoulders. <a href="https://www.bestwayrelocation.co.uk/request-a-quote.php"">Get your
                             free quote</a>.</p>
          
-            </div>      
-        </div>
-        </div>
-            <section class=" standart-page_content-section">
+                       <section class=" standart-page_content-section">
                             <div class="w-layout-grid content-section_grid">
                                 <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f"
                                     class="content-section_image pallets"></div>
@@ -313,7 +311,6 @@
                                 </div>
                             </div>
     </section>
-
     <section class="cta_section">
         <div class="cta_wrapper">
             <h2 class="heading-2"><b>Student Relocations FAQs</b></h2>
@@ -407,6 +404,9 @@
             </div>
         </div>
     </section>
+    </div>
+
+
     <?php include 'components/secured-insured.php'; ?>
 
     <?php
@@ -416,6 +416,8 @@
     // Now call the function with the desired sections
     renderInternationalServicesBanner(['packing', 'storage', 'home']);
     ?>
+    </div>
+    </div>
     </section>
 
     <?php include 'components/foot-2.php'; ?>

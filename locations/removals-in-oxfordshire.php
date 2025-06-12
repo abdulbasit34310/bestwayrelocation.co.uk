@@ -37,7 +37,7 @@
               comprehensive removal services, including house and office moves, expert packing, and secure storage
               solutions. Whether you're relocating locally within Oxfordshire or to another part of the UK, we ensure a
               smooth and stress-free move tailored to your needs.</p>
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -63,6 +63,7 @@
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
             alt="Removals in Buckinghamshire illustration" class="image-11" />
         </div>
+
         <div class="main-content">
           <h2>Why Choose Bestway Relocation in Oxfordshire?</h2>
           <p>With over 7+ years of industry experience, Bestway Relocation has built a solid reputation for dependable
@@ -117,6 +118,92 @@
             plan that suits your budget and timeline. Let us take the stress out of your Oxfordshire relocation.</p>
           <p>Website: <a href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a></p>
           <p>Service Hours: Monday to Saturday, 8 AM – 6 PM | Sunday: Closed</p>
+          <!-- How Can We Help? -->
+          <section class="section_520-height">
+            <div class="w-layout-grid section_520-height_grid">
+              <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19"
+                style="background-color: #FFBF39; border-bottom-left-radius: 6px; border-top-left-radius: 6px;">
+                <style>
+                  .top-features-list {
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+                  }
+
+                  .top-feature-item {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 25px;
+                  }
+
+                  .top-feature-icon {
+                    width: 50px;
+                    height: 50px;
+                    margin-right: 15px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-shrink: 0;
+                  }
+
+                  .top-feature-content {
+                    flex: 1;
+                  }
+
+                  .top-feature-title {
+                    font-weight: bold;
+                    margin-bottom: 5px;
+                    color: #000;
+                  }
+
+                  .top-feature-text {
+                    color: #666;
+                    line-height: 1.5;
+                  }
+                </style>
+                <h2 class="heading-2">How can we help?</h2>
+                <br>
+                <ul class="top-features-list">
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/26.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <p>09:00 AM - 08:00 PM (Mon - Fri)</p>
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/53.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <a href="mailto:oxfordshire@bestwayrelocation.co.uk" style="text-decoration: none">
+                        <p>oxfordshire@bestwayrelocation.co.uk</p>
+                      </a>
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/54.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <a href="tel:01865957032" style="text-decoration: none">
+                        <p>0186 5957032</p>
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d310.33003144883725!2d-0.6317916!3d51.5198157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487664cc12c0361d%3A0xf3c36628b2dae0ef!2sRegus%20-%20Slough%20Bath%20Road!5e0!3m2!1sen!2s!4v1749202786860!5m2!1sen!2s"
+                  style="border:0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+            </div>
+          </section>
         </div>
       </div>
     </div>

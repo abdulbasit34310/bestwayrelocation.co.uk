@@ -30,6 +30,7 @@
   <section class="standart-page_content-section next-section">
     <div class="content-section_grid european-freight">
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
+
         <div class="cta_maine">
           <div class="cta_content">
             <h2 class="heading-2">Hampshire Removals</h2>
@@ -37,7 +38,7 @@
               professional services to suit your needs. Bestway Relocation is a proud member of industry standards
               groups like Checkatrade and CMM, delivering high-quality moving services in Hampshire and nearby areas.
             </p>
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -63,6 +64,7 @@
           <img src="../assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
             alt="Removals in Buckinghamshire illustration" class="image-11" />
         </div>
+
         <div class="main-content">
           <h2>About Us</h2>
           <p>Bestway Relocation is a removals and storage company based in Hampshire, offering top-tier services to
@@ -148,6 +150,92 @@
               href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> or call us for your tailored
             removal service.</p>
           <p>Service Hours: Mon - Sat: 8AM – 6PM | Sunday: Closed</p>
+          <!-- How Can We Help? -->
+          <section class="section_520-height">
+            <div class="w-layout-grid section_520-height_grid">
+              <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19"
+                style="background-color: #FFBF39; border-bottom-left-radius: 6px; border-top-left-radius: 6px;">
+                <style>
+                  .top-features-list {
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+                  }
+
+                  .top-feature-item {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 25px;
+                  }
+
+                  .top-feature-icon {
+                    width: 50px;
+                    height: 50px;
+                    margin-right: 15px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-shrink: 0;
+                  }
+
+                  .top-feature-content {
+                    flex: 1;
+                  }
+
+                  .top-feature-title {
+                    font-weight: bold;
+                    margin-bottom: 5px;
+                    color: #000;
+                  }
+
+                  .top-feature-text {
+                    color: #666;
+                    line-height: 1.5;
+                  }
+                </style>
+                <h2 class="heading-2">How can we help?</h2>
+                <br>
+                <ul class="top-features-list">
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/26.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <p>09:00 AM - 08:00 PM (Mon - Fri)</p>
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/53.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <a href="mailto:hampshire@bestwayrelocation.co.uk" style="text-decoration: none">
+                        <p>hampshire@bestwayrelocation.co.uk</p>
+                      </a>
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/54.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <a href="tel:02382026565" style="text-decoration: none">
+                        <p>0238 2026565</p>
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d310.33003144883725!2d-0.6317916!3d51.5198157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487664cc12c0361d%3A0xf3c36628b2dae0ef!2sRegus%20-%20Slough%20Bath%20Road!5e0!3m2!1sen!2s!4v1749202786860!5m2!1sen!2s"
+                  style="border:0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+            </div>
+          </section>
         </div>
       </div>
     </div>

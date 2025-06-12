@@ -4,7 +4,7 @@
   data-wf-site="64ae94fa75e1882ff9a4f9fe">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta charset="utf-8" />
   <!-- Meta Title -->
@@ -35,8 +35,8 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css"
-    rel="stylesheet" type="text/css" />
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
+    type="text/css" />
   <style>
     @media (min-width:992px) {
       html.w-mod-js:not(.w-mod-ix) [data-w-id="5319ee58-1ca7-9f4b-9306-46999fdf60b4"] {
@@ -91,8 +91,8 @@
 
   <script
     type="text/javascript">!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-  <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png"
-    rel="shortcut icon" type="image/x-icon" />
+  <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
+    type="image/x-icon" />
   <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
     rel="apple-touch-icon" />
   <?php include 'components/extra.php'; ?>
@@ -111,31 +111,32 @@
                 Whether you're moving your home or office in Buckinghamshire, Bestway Relocation delivers a smooth and
                 reliable service. Our experienced team ensures your move is handled with care, precision, and minimal
                 disruption — so you can settle into your new space with confidence.
-              </p>            <div style="padding: 30px 0px 0px 0px; " >
-                            <ul role="list" class="nav-menu-block w-list-unstyled">
-                                <li>
-                                    <a href="tel:08000147676" class="secondary-black-outline-cta "
-                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                                        onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                                        onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                                        Call us: 0800 014 7676
-                                    </a>
-                                </li>
-                                <li class="mobile-margin-top-10">
-                                    <a href="request-a-quote.php" class="secondary-black-cta "
-                                        style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
-                                        onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
-                                        onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
-                                        Request a Quote
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
+              </p>
+              <div style="padding: 30px 0px 0px 0px; ">
+                <ul role="list" class="nav-menu-block w-list-unstyled">
+                  <li>
+                    <a href="tel:08000147676" class="secondary-black-outline-cta "
+                      style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                      onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                      onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                      Call us: 0800 014 7676
+                    </a>
+                  </li>
+                  <li class="mobile-margin-top-10">
+                    <a href="request-a-quote.php" class="secondary-black-cta "
+                      style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                      onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                      onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                      Request a Quote
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </div>
-            <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg"
-              loading="eager" alt="Buckinghamshire removals service" class="image-15" />
-            <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg"
-              loading="eager" alt="Removals in Buckinghamshire illustration" class="image-11" />
+            <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Buckinghamshire removals service"
+              class="image-15" />
+            <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg" loading="eager"
+              alt="Removals in Buckinghamshire illustration" class="image-11" />
           </div>
 
 
@@ -161,7 +162,8 @@
             <li>Whether furniture needs to be disassembled and reassembled</li>
           </ul>
           <p>For an accurate quote tailored to your move, <a
-              href="https://www.bestwayrelocation.co.uk/contact-us.php">contact us today</a>. We’ll provide a no-obligation
+              href="https://www.bestwayrelocation.co.uk/contact-us.php">contact us today</a>. We’ll provide a
+            no-obligation
             estimate with no hidden charges.</p>
 
           <h2>Buying and Renting in Buckinghamshire</h2>
@@ -243,205 +245,313 @@
             know your requirements and get a detailed, transparent quote today. Whether via phone, email, or our contact
             form — we’re ready to help.</p>
 
-        </div>
-      </div>
-    </div>
-  </section>
+          <section class="standart-page_content-section">
+            <div class="w-layout-grid content-section_grid">
+              <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f" class="content-section_image pallets">
+              </div>
+              <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f" class="content-section_text">
+                <div class="rich-text w-richtext">
+                  <h2 class="heading-2">House Removals Buckinghamshire</h2>
+                  <div class="text-white">
+                    <p>Bestway Relocation is one of the most trusted and experienced house moving companies serving
+                      Buckinghamshire
+                      and surrounding areas. With a long-standing reputation and hundreds of satisfied customers, we
+                      specialise
+                      in providing stress-free, fully managed home moves tailored to your needs.</p>
 
-  <section class="standart-page_content-section">
-    <div class="w-layout-grid content-section_grid">
-      <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f" class="content-section_image pallets"></div>
-      <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f" class="content-section_text">
-        <div class="rich-text w-richtext">
-          <h2 class="heading-2">House Removals Buckinghamshire</h2>
-          <div class="text-white">
-            <p>Bestway Relocation is one of the most trusted and experienced house moving companies serving
-              Buckinghamshire
-              and surrounding areas. With a long-standing reputation and hundreds of satisfied customers, we specialise
-              in providing stress-free, fully managed home moves tailored to your needs.</p>
+                    <p>Whether you’re moving to or from Buckinghamshire, our team ensures that your belongings are
+                      handled with
+                      the
+                      utmost care, arriving safely at your new home. We understand that moving can be complicated —
+                      especially
+                      with chains or changing dates — so we pride ourselves on flexibility and professionalism at every
+                      step.
+                    </p>
 
-            <p>Whether you’re moving to or from Buckinghamshire, our team ensures that your belongings are handled with
-              the
-              utmost care, arriving safely at your new home. We understand that moving can be complicated — especially
-              with chains or changing dates — so we pride ourselves on flexibility and professionalism at every step.
-            </p>
+                    <p>From the moment you contact us, our experienced move coordinators will listen to your
+                      requirements,
+                      provide an accurate quote, and tailor a moving plan that fits your timeline, budget, and property
+                      size. We
+                      handle everything from packing and protection to transportation and unloading.</p>
 
-            <p>From the moment you contact us, our experienced move coordinators will listen to your requirements,
-              provide an accurate quote, and tailor a moving plan that fits your timeline, budget, and property size. We
-              handle everything from packing and protection to transportation and unloading.</p>
-
-            <p>If you’re looking for a smooth, hassle-free home removal service in Buckinghamshire, Bestway Relocation
-              is the
-              name you can rely on. Let us take the heavy lifting — so you can focus on settling into your new home.</p>
-          </div>
-        </div>
-        <a href="https://www.bestwayrelocation.co.uk/contact-us.php"
-          class="grey-outline-button_white-bg margin-top-28 ">Contact us for a quote</a>
-      </div>
-    </div>
-  </section>
-
-
-
-  <section class="cta_section">
-    <div class="cta_wrapper">
-      <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-      <div id="accordion">
-
-        <div class="card">
-          <div class="card-header" id="headingOne">
-            <h2 class="mb-0">
-              <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
-                aria-controls="collapseOne">
-                How do I choose a removals company in Buckinghamshire?
-              </button>
-            </h2>
-          </div>
-          <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-            <div class="card-body">
-              Start by checking reviews and testimonials of local companies. Ensure you understand what's included in
-              the service, such as packing, dismantling, or storage. A reputable company like Bestway Relocation will
-              offer transparency, reliability, and excellent customer support throughout your move.
+                    <p>If you’re looking for a smooth, hassle-free home removal service in Buckinghamshire, Bestway
+                      Relocation
+                      is the
+                      name you can rely on. Let us take the heavy lifting — so you can focus on settling into your new
+                      home.</p>
+                  </div>
+                </div>
+                <a href="https://www.bestwayrelocation.co.uk/contact-us.php"
+                  class="grey-outline-button_white-bg margin-top-28 ">Contact us for a quote</a>
+              </div>
             </div>
-          </div>
-        </div>
+          </section>
 
-        <div class="card">
-          <div class="card-header" id="headingTwo">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
-                aria-expanded="false" aria-controls="collapseTwo">
-                What is the best time for moving in Buckinghamshire?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-            <div class="card-body">
-              While summer is the most popular moving season, quieter months like December to February often offer more
-              flexible scheduling and better pricing. Avoid national holidays when availability may be limited.
+
+
+          <section class="cta_section">
+            <div class="cta_wrapper">
+              <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
+              <div id="accordion">
+
+                <div class="card">
+                  <div class="card-header" id="headingOne">
+                    <h2 class="mb-0">
+                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                        aria-expanded="true" aria-controls="collapseOne">
+                        How do I choose a removals company in Buckinghamshire?
+                      </button>
+                    </h2>
+                  </div>
+                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body">
+                      Start by checking reviews and testimonials of local companies. Ensure you understand what's
+                      included in
+                      the service, such as packing, dismantling, or storage. A reputable company like Bestway Relocation
+                      will
+                      offer transparency, reliability, and excellent customer support throughout your move.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingTwo">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
+                        aria-expanded="false" aria-controls="collapseTwo">
+                        What is the best time for moving in Buckinghamshire?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                    <div class="card-body">
+                      While summer is the most popular moving season, quieter months like December to February often
+                      offer more
+                      flexible scheduling and better pricing. Avoid national holidays when availability may be limited.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingThree">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
+                        aria-expanded="false" aria-controls="collapseThree">
+                        How can I obtain a fixed quote for my Buckinghamshire removals?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                    <div class="card-body">
+                      Contact our team directly via phone or our online form. We'll gather details about your move and
+                      provide a
+                      free, no-obligation fixed quote based on your requirements.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingFour">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
+                        aria-expanded="false" aria-controls="collapseFour">
+                        Do you dismantle and reassemble my furniture?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div class="card-body">
+                      Yes, we provide full dismantling and reassembly of beds, tables, wardrobes, and more. Your
+                      furniture will
+                      be handled professionally to ensure it arrives safely and is reassembled correctly at your new
+                      location.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingSix">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
+                        aria-expanded="false" aria-controls="collapseSix">
+                        How do I move house in Buckinghamshire?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                    <div class="card-body">
+                      Begin by decluttering your belongings, then book a professional removal service like Bestway
+                      Relocation.
+                      We’ll handle everything from packing to transport, allowing you to focus on settling into your new
+                      home.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingSeven">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
+                        aria-expanded="false" aria-controls="collapseSeven">
+                        Do you provide wardrobe boxes?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
+                    <div class="card-body">
+                      Yes, we supply wardrobe boxes and packing materials as part of our premium moving service. We also
+                      provide
+                      helpful links and advice for packing efficiently.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingEight">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
+                        aria-expanded="false" aria-controls="collapseEight">
+                        Is Bestway Relocation Buckinghamshire insured?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
+                    <div class="card-body">
+                      Absolutely. We include goods-in-transit insurance up to £50,000 as standard, giving you peace of
+                      mind that
+                      your belongings are protected from door to door.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingNine">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine"
+                        aria-expanded="false" aria-controls="collapseNine">
+                        What time will your team arrive on the day of my move?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
+                    <div class="card-body">
+                      Typically, we arrive between 8:00 AM and 9:00 AM, but we’re happy to adjust based on your
+                      preferences.
+                      Just let us know your ideal timing when you book.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
+                  <div class="card-header" id="headingTen">
+                    <h4 class="mb-0">
+                      <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTen"
+                        aria-expanded="false" aria-controls="collapseTen">
+                        What if I need to change my moving date?
+                      </button>
+                    </h4>
+                  </div>
+                  <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
+                    <div class="card-body">
+                      Life happens — we get it! That’s why we allow free date changes and don’t charge cancellation
+                      fees. Just
+                      give us as much notice as possible so we can adjust accordingly.
+                    </div>
+                  </div>
+                </div>
+
+              </div>
             </div>
-          </div>
-        </div>
+          </section>
 
-        <div class="card">
-          <div class="card-header" id="headingThree">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
-                aria-expanded="false" aria-controls="collapseThree">
-                How can I obtain a fixed quote for my Buckinghamshire removals?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-            <div class="card-body">
-              Contact our team directly via phone or our online form. We'll gather details about your move and provide a
-              free, no-obligation fixed quote based on your requirements.
+          <!-- How Can We Help? -->
+          <section class="section_520-height">
+            <div class="w-layout-grid section_520-height_grid">
+              <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19"
+                style="background-color: #FFBF39; border-bottom-left-radius: 6px; border-top-left-radius: 6px;">
+                <style>
+                  .top-features-list {
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+                  }
+
+                  .top-feature-item {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 25px;
+                  }
+
+                  .top-feature-icon {
+                    width: 50px;
+                    height: 50px;
+                    margin-right: 15px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-shrink: 0;
+                  }
+
+                  .top-feature-content {
+                    flex: 1;
+                  }
+
+                  .top-feature-title {
+                    font-weight: bold;
+                    margin-bottom: 5px;
+                    color: #000;
+                  }
+
+                  .top-feature-text {
+                    color: #666;
+                    line-height: 1.5;
+                  }
+                </style>
+                <h2 class="heading-2">How can we help?</h2>
+                <br>
+                <ul class="top-features-list">
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/26.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <p>09:00 AM - 08:00 PM (Mon - Fri)</p>
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/53.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <a href="mailto:buckinghamshire@bestwayrelocation.co.uk" style="text-decoration: none">
+                        <p>buckinghamshire@bestwayrelocation.co.uk</p>
+
+                      </a>
+                    </div>
+                  </li>
+
+                  <li class="top-feature-item">
+                    <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/54.svg" loading="lazy"
+                        alt="" />
+                    </div>
+                    <div class="top-feature-content">
+                      <a href="tel:01296596500" style="text-decoration: none">
+                        <p>0129 6596500</p>
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.9812893913163!2d-1.8486241!3d51.5502421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487143a383f71a59%3A0x61b4ba7bec8103e0!2sRegus%20House%2C%20Whitehill%20Way%2C%20Swindon%20SN5%206QR%2C%20UK!5e0!3m2!1sen!2s!4v1749732978082!5m2!1sen!2s"
+                  style="border:0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
             </div>
-          </div>
+          </section>
         </div>
-
-        <div class="card">
-          <div class="card-header" id="headingFour">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
-                aria-expanded="false" aria-controls="collapseFour">
-                Do you dismantle and reassemble my furniture?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-            <div class="card-body">
-              Yes, we provide full dismantling and reassembly of beds, tables, wardrobes, and more. Your furniture will
-              be handled professionally to ensure it arrives safely and is reassembled correctly at your new location.
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-header" id="headingSix">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
-                aria-expanded="false" aria-controls="collapseSix">
-                How do I move house in Buckinghamshire?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
-            <div class="card-body">
-              Begin by decluttering your belongings, then book a professional removal service like Bestway Relocation.
-              We’ll handle everything from packing to transport, allowing you to focus on settling into your new home.
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-header" id="headingSeven">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
-                aria-expanded="false" aria-controls="collapseSeven">
-                Do you provide wardrobe boxes?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
-            <div class="card-body">
-              Yes, we supply wardrobe boxes and packing materials as part of our premium moving service. We also provide
-              helpful links and advice for packing efficiently.
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-header" id="headingEight">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
-                aria-expanded="false" aria-controls="collapseEight">
-                Is Bestway Relocation Buckinghamshire insured?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
-            <div class="card-body">
-              Absolutely. We include goods-in-transit insurance up to £50,000 as standard, giving you peace of mind that
-              your belongings are protected from door to door.
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-header" id="headingNine">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine"
-                aria-expanded="false" aria-controls="collapseNine">
-                What time will your team arrive on the day of my move?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
-            <div class="card-body">
-              Typically, we arrive between 8:00 AM and 9:00 AM, but we’re happy to adjust based on your preferences.
-              Just let us know your ideal timing when you book.
-            </div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-header" id="headingTen">
-            <h4 class="mb-0">
-              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTen"
-                aria-expanded="false" aria-controls="collapseTen">
-                What if I need to change my moving date?
-              </button>
-            </h4>
-          </div>
-          <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
-            <div class="card-body">
-              Life happens — we get it! That’s why we allow free date changes and don’t charge cancellation fees. Just
-              give us as much notice as possible so we can adjust accordingly.
-            </div>
-          </div>
-        </div>
-
       </div>
     </div>
   </section>
@@ -451,8 +561,7 @@
   <script src="d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c88852.js?site=64ae94fa75e1882ff9a4f9fe"
     type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
     crossorigin="anonymous"></script>
-  <script src="assets/64ae94fa75e1882ff9a4f9fe/js/webflow.9c866a4f9.js"
-    type="text/javascript"></script>
+  <script src="assets/64ae94fa75e1882ff9a4f9fe/js/webflow.9c866a4f9.js" type="text/javascript"></script>
   <script src="code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
     crossorigin="anonymous"></script>
 

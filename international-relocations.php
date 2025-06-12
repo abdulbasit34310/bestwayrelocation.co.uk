@@ -462,7 +462,7 @@
             }
 
             .packages-section {
-              padding-bottom: 100px;
+              margin-bottom: 40px;
               background: #FBFBFD;
               align-self: center;
             }
@@ -694,7 +694,7 @@
         </section>
 
         <?php include 'components/secured-insured.php'; ?>
-        
+
         <?php
         // Include the file where the function is defined
         include 'components/other-services.php';

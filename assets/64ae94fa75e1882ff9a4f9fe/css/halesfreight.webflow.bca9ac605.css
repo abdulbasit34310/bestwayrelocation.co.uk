@@ -4267,7 +4267,7 @@ ul {
   border-radius: 6px;
   margin: 40px 0px;
   background-color: #FFF;
-  box-shadow: inset 0px 0px 55px rgba(4, 8, 47, .08)
+  box-shadow: 0px 0px 55px rgba(4, 8, 47, .08)
 }
 
 .section_520-height_grid {

@@ -483,7 +483,7 @@
     }
 
     .cta_section {
-        background: #f8f9fa;
+        /* background: #f8f9fa; */
         padding: 60px 0;
     }
 

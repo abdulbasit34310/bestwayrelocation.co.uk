@@ -8,6 +8,10 @@
 
         </div>
         <div class="w-layout-grid specialization-items-wrapper">
+            <div id="w-node-_36634bc5-3789-5575-fc09-1d76b5c29d7c-aba94876" class="specialization_item"><img
+                    src="assets/64ae94fa75e1882ff9a4f9fe/4.svg" loading="lazy" alt="" class="specialization_icon" />
+                <div class="subtitle specialization_white">Free<br /> Quote</div>
+            </div>
             <div id="w-node-_2677a9bc-aa75-aa34-e2af-f9ed1aa82536-aba94876" class="specialization_item"><img
                     src="assets/64ae94fa75e1882ff9a4f9fe/2.svg" loading="lazy" alt="" class="specialization_icon" />
                 <div class="subtitle specialization_white">Booking, Planning<br /> &amp; Pickup</div>
@@ -16,10 +20,6 @@
                     src="assets/64ae94fa75e1882ff9a4f9fe/64affdedb96532030bf14236_Delivery_icn.svg" loading="lazy"
                     alt="" class="specialization_icon" />
                 <div class="subtitle specialization_white">Packing <br>Services</div>
-            </div>
-            <div id="w-node-_36634bc5-3789-5575-fc09-1d76b5c29d7c-aba94876" class="specialization_item"><img
-                    src="assets/64ae94fa75e1882ff9a4f9fe/4.svg" loading="lazy" alt="" class="specialization_icon" />
-                <div class="subtitle specialization_white">Free<br /> Quote</div>
             </div>
             <div id="w-node-_31c499e9-6ac1-52a5-5e0e-959c1c3eb80e-aba94876" class="specialization_item"><img
                     src="assets/64ae94fa75e1882ff9a4f9fe/64affdec08e3adb42f45afb2_Sea%20an%20Road%20Transportation.svg"

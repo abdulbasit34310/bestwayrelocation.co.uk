@@ -7,7 +7,7 @@ function renderInternationalServicesBanner($showSections = [])
     }
     ?>
     <div class="content-section_text european-freight">
-        <h2 style="align-self: center; margin-bottom: 20px">Other Services</h2>
+        <h2 style="align-self: center; margin-bottom: 30px; color: #FBBB35">Other Services</h2>
         <div class="international-services-banner">
             <?php if (in_array('home', $showSections)): ?>
                 <div class="service-section house">

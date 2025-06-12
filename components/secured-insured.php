@@ -1,7 +1,7 @@
 <style>
     .centered {
         max-width: 750px;
-        margin: 0px auto;
+        margin: 80px auto;
         text-align: center;
         padding: 40px 0px 0px 0px;
     }
@@ -19,7 +19,7 @@
             class="icon-wrapper" />
     </div>
 
-    <h2>Secure &amp; Insured for Peace of Mind</h2>
+    <h2 style="color: #FBBB35">Secure &amp; Insured for Peace of Mind</h2>
     <p class="body-1 gray-2">
         We take the safety of your belongings seriously. Every booking includes comprehensive Goods-in-Transit
         insurance up to &pound;50,000, and our premium service offers even greater coverage.

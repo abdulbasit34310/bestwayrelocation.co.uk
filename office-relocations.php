@@ -373,6 +373,7 @@
                         </div>
                     </section>
                 </div>
+                
                 <?php include 'components/secured-insured.php'; ?>
 
                 <?php

@@ -5,7 +5,7 @@
     data-wf-site="64ae94fa75e1882ff9a4f9fe">
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
     <!-- Meta Title -->
@@ -37,8 +37,8 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css"
-        rel="stylesheet" type="text/css" />
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/css/halesfreight.webflow.bca9ac605.css" rel="stylesheet"
+        type="text/css" />
     <style>
         @media (min-width:992px) {
             html.w-mod-js:not(.w-mod-ix) [data-w-id="5319ee58-1ca7-9f4b-9306-46999fdf60b4"] {
@@ -99,8 +99,8 @@
                 .className += t + "touch")
         }(window, document);
     </script>
-    <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png"
-        rel="shortcut icon" type="image/x-icon" />
+    <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46edb910d4b79fb2bd8fb_Halesfreight_Favicon.png" rel="shortcut icon"
+        type="image/x-icon" />
     <link href="assets/64ae94fa75e1882ff9a4f9fe/64e46efc910d4b79fb2c05ac_Halesfreight_Webclip.png"
         rel="apple-touch-icon" />
     <?php include 'components/extra.php'; ?>
@@ -114,6 +114,7 @@
                 class="content-section_text european-freight">
 
                 <div class="main-content">
+
                     <div class="cta_maine">
                         <div class="cta_content">
                             <h2 class="heading-2">Professional Removals in East Sussex – Stress-Free Every Step</h2>
@@ -121,7 +122,7 @@
                                 seamless and professional moving solutions. Our experienced team ensures every item is
                                 handled with precision and care — so you can settle into your new space confidently and
                                 without stress.</p>
-                            <div style="padding: 30px 0px 0px 0px; " >
+                            <div style="padding: 30px 0px 0px 0px; ">
                                 <ul role="list" class="nav-menu-block w-list-unstyled">
                                     <li>
                                         <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -142,8 +143,8 @@
                                 </ul>
                             </div>
                         </div>
-                        <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg"
-                            loading="eager" alt="Buckinghamshire removals service" class="image-15" />
+                        <img src="assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager"
+                            alt="Buckinghamshire removals service" class="image-15" />
                         <img src="assets/64ae94fa75e1882ff9a4f9fe/64b66b2262a7dbadcdf1ded2_Frame%20288.svg"
                             loading="eager" alt="Removals in Buckinghamshire illustration" class="image-11" />
                     </div>
@@ -167,7 +168,8 @@
                         <li>Complexity (e.g., furniture disassembly and reassembly)</li>
                     </ul>
                     <p>For a tailored, no-obligation quote, <a
-                            href="https://www.bestwayrelocation.co.uk/contact-us.php">get in touch today</a>. We guarantee
+                            href="https://www.bestwayrelocation.co.uk/contact-us.php">get in touch today</a>. We
+                        guarantee
                         no hidden fees — only honest and upfront pricing.</p>
 
                     <h2>Speak With Our Friendly East Sussex Team</h2>
@@ -241,211 +243,345 @@
                     <p><strong>Start your East Sussex move with confidence</strong> — Bestway Relocation ensures your
                         relocation is professional, affordable, and fully supported. <a
                             href="https://www.bestwayrelocation.co.uk/contact-us.php">Get your free quote today</a>.</p>
-                </div>
-            </div>
-        </div>
-    </section>
+                    <!-- Div -->
+                    <section class="standart-page_content-section">
+                        <div class="w-layout-grid content-section_grid">
+                            <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f"
+                                class="content-section_image pallets"></div>
+                            <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f"
+                                class="content-section_text">
+                                <div class="rich-text w-richtext">
+                                    <h2 class="main-content-heading h2 fw-bold mb-3">House Removals East Sussex</h2>
+                                    <div class="text-white">
+                                        <p>Bestway Relocation is proud to be one of East Sussex’s most trusted and
+                                            experienced house
+                                            moving
+                                            companies. With a reputation built on care, precision, and customer
+                                            satisfaction, we provide
+                                            stress-free, fully managed home moves across East Sussex and the wider
+                                            Sussex region.</p>
 
+                                        <p>Whether you're moving from a flat near The Lanes or relocating to a family
+                                            home in Hove, our
+                                            team ensures your belongings are packed, transported, and delivered safely
+                                            and on schedule.
+                                            We understand that delays, moving chains, and access issues are real
+                                            concerns — and that’s
+                                            why we’re built to adapt and respond with efficiency.</p>
 
-    <section class="standart-page_content-section">
-        <div class="w-layout-grid content-section_grid">
-            <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f" class="content-section_image pallets"></div>
-            <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f" class="content-section_text">
-                <div class="rich-text w-richtext">
-                    <h2 class="main-content-heading h2 fw-bold mb-3">House Removals East Sussex</h2>
-                    <div class="text-white">
-                        <p>Bestway Relocation is proud to be one of East Sussex’s most trusted and experienced house
-                            moving
-                            companies. With a reputation built on care, precision, and customer satisfaction, we provide
-                            stress-free, fully managed home moves across East Sussex and the wider Sussex region.</p>
+                                        <p>From the first point of contact, you'll be supported by our experienced move
+                                            coordinators who
+                                            will provide a detailed, no-obligation quote and develop a moving plan
+                                            tailored to your
+                                            timeline, home size, and budget. We handle everything from protective
+                                            wrapping and careful
+                                            packing to lifting, loading, and unloading.</p>
 
-                        <p>Whether you're moving from a flat near The Lanes or relocating to a family home in Hove, our
-                            team ensures your belongings are packed, transported, and delivered safely and on schedule.
-                            We understand that delays, moving chains, and access issues are real concerns — and that’s
-                            why we’re built to adapt and respond with efficiency.</p>
-
-                        <p>From the first point of contact, you'll be supported by our experienced move coordinators who
-                            will provide a detailed, no-obligation quote and develop a moving plan tailored to your
-                            timeline, home size, and budget. We handle everything from protective wrapping and careful
-                            packing to lifting, loading, and unloading.</p>
-
-                        <p>If you’re planning a move to or from East Sussex, let Bestway Relocation do the heavy
-                            lifting.
-                            Enjoy peace of mind knowing your move is in the hands of seasoned professionals who care
-                            about every item we transport — from cherished heirlooms to everyday essentials.</p>
-                    </div>
-                </div>
-                <a href="https://www.bestwayrelocation.co.uk/contact-us.php"
-                    class="grey-outline-button_white-bg margin-top-28 ">Contact us for a quote</a>
-            </div>
-        </div>
-    </section>
-
-
-
-    <section class="cta_section">
-        <div class="cta_wrapper">
-            <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-            <div id="accordion">
-
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <h2 class="mb-0">
-                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
-                                aria-expanded="true" aria-controls="collapseOne">
-                                How do I choose a removals company in East Sussex?
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                        <div class="card-body">
-                            Start by researching local removal companies with positive reviews and proven experience in
-                            East Sussex. A reliable provider like Bestway Relocation offers transparent pricing, full
-                            insurance, and expert customer service throughout your move.
+                                        <p>If you’re planning a move to or from East Sussex, let Bestway Relocation do
+                                            the heavy
+                                            lifting.
+                                            Enjoy peace of mind knowing your move is in the hands of seasoned
+                                            professionals who care
+                                            about every item we transport — from cherished heirlooms to everyday
+                                            essentials.</p>
+                                    </div>
+                                </div>
+                                <a href="https://www.bestwayrelocation.co.uk/contact-us.php"
+                                    class="grey-outline-button_white-bg margin-top-28 ">Contact us for a quote</a>
+                            </div>
                         </div>
-                    </div>
-                </div>
+                    </section>
+                    <!-- FAQs -->
+                    <section class="cta_section">
+                        <div class="cta_wrapper">
+                            <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
+                            <div id="accordion">
 
-                <div class="card">
-                    <div class="card-header" id="headingTwo">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
-                                aria-expanded="false" aria-controls="collapseTwo">
-                                What is the best time for moving in East Sussex?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                        <div class="card-body">
-                            While spring and summer are most popular, moving in autumn or winter can provide better
-                            availability and more flexibility. Avoid weekends and public holidays when booking peak
-                            slots.
+                                <div class="card">
+                                    <div class="card-header" id="headingOne">
+                                        <h2 class="mb-0">
+                                            <button class="btn btn-link" data-toggle="collapse"
+                                                data-target="#collapseOne" aria-expanded="true"
+                                                aria-controls="collapseOne">
+                                                How do I choose a removals company in East Sussex?
+                                            </button>
+                                        </h2>
+                                    </div>
+                                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Start by researching local removal companies with positive reviews and
+                                            proven experience in
+                                            East Sussex. A reliable provider like Bestway Relocation offers transparent
+                                            pricing, full
+                                            insurance, and expert customer service throughout your move.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingTwo">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseTwo" aria-expanded="false"
+                                                aria-controls="collapseTwo">
+                                                What is the best time for moving in East Sussex?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            While spring and summer are most popular, moving in autumn or winter can
+                                            provide better
+                                            availability and more flexibility. Avoid weekends and public holidays when
+                                            booking peak
+                                            slots.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingThree">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseThree" aria-expanded="false"
+                                                aria-controls="collapseThree">
+                                                How can I obtain a fixed quote for my East Sussex move?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Simply contact Bestway Relocation via our website or by phone. We’ll assess
+                                            your moving
+                                            requirements and provide a clear, fixed quote tailored to your East Sussex
+                                            home or office
+                                            relocation.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingFour">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseFour" aria-expanded="false"
+                                                aria-controls="collapseFour">
+                                                Do you dismantle and reassemble furniture in East Sussex?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Yes — we professionally dismantle and reassemble furniture including beds,
+                                            tables, and
+                                            wardrobes. Our team ensures every item is reassembled correctly and safely
+                                            at your new
+                                            East Sussex address.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingSix">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseSix" aria-expanded="false"
+                                                aria-controls="collapseSix">
+                                                How do I move house in East Sussex?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Start by organising your belongings and creating a checklist. Then book a
+                                            trusted local
+                                            mover like Bestway Relocation to handle the packing, loading, transport, and
+                                            setup — all in
+                                            one seamless service.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingSeven">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseSeven" aria-expanded="false"
+                                                aria-controls="collapseSeven">
+                                                Do you provide wardrobe boxes and packing materials?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Absolutely. We supply strong wardrobe boxes and quality packing materials to
+                                            keep your
+                                            clothing and valuables secure during the move. Need help packing? We’ve got
+                                            you covered.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingEight">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseEight" aria-expanded="false"
+                                                aria-controls="collapseEight">
+                                                Is Bestway Relocation insured in East Sussex?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseEight" class="collapse" aria-labelledby="headingEight"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Yes — we provide goods-in-transit insurance up to £50,000 as standard, so
+                                            your belongings
+                                            are protected from the moment we load to final delivery.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingNine">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseNine" aria-expanded="false"
+                                                aria-controls="collapseNine">
+                                                What time will your team arrive on moving day?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseNine" class="collapse" aria-labelledby="headingNine"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Our team typically arrives between 8:00 AM and 9:00 AM. However, we offer
+                                            flexible
+                                            scheduling based on your preferred move time and access to your East Sussex
+                                            property.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingTen">
+                                        <h4 class="mb-0">
+                                            <button class="btn btn-link collapsed" data-toggle="collapse"
+                                                data-target="#collapseTen" aria-expanded="false"
+                                                aria-controls="collapseTen">
+                                                What if I need to reschedule my East Sussex move?
+                                            </button>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseTen" class="collapse" aria-labelledby="headingTen"
+                                        data-parent="#accordion">
+                                        <div class="card-body">
+                                            Life changes fast — which is why we offer flexible booking changes. There
+                                            are no fees for
+                                            rescheduling if you notify us in advance. We’ll adjust your moving plan
+                                            accordingly.
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
                         </div>
-                    </div>
-                </div>
+                    </section>
+                    <!-- How Can We Help? -->
+                    <section class="section_520-height">
+                        <div class="w-layout-grid section_520-height_grid">
+                            <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19"
+                                style="background-color: #FFBF39; border-bottom-left-radius: 6px; border-top-left-radius: 6px;">
+                                <style>
+                                    .top-features-list {
+                                        list-style: none;
+                                        padding: 0;
+                                        margin: 0;
+                                    }
 
-                <div class="card">
-                    <div class="card-header" id="headingThree">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
-                                aria-expanded="false" aria-controls="collapseThree">
-                                How can I obtain a fixed quote for my East Sussex move?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                        <div class="card-body">
-                            Simply contact Bestway Relocation via our website or by phone. We’ll assess your moving
-                            requirements and provide a clear, fixed quote tailored to your East Sussex home or office
-                            relocation.
+                                    .top-feature-item {
+                                        display: flex;
+                                        align-items: center;
+                                        margin-bottom: 25px;
+                                    }
+
+                                    .top-feature-icon {
+                                        width: 50px;
+                                        height: 50px;
+                                        margin-right: 15px;
+                                        display: flex;
+                                        align-items: center;
+                                        justify-content: center;
+                                        flex-shrink: 0;
+                                    }
+
+                                    .top-feature-content {
+                                        flex: 1;
+                                    }
+
+                                    .top-feature-title {
+                                        font-weight: bold;
+                                        margin-bottom: 5px;
+                                        color: #000;
+                                    }
+
+                                    .top-feature-text {
+                                        color: #666;
+                                        line-height: 1.5;
+                                    }
+                                </style>
+                                <h2 class="heading-2">How can we help?</h2>
+                                <br>
+                                <ul class="top-features-list">
+                                    <li class="top-feature-item">
+                                        <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/26.svg"
+                                                loading="lazy" alt="" />
+                                        </div>
+                                        <div class="top-feature-content">
+                                            <p>09:00 AM - 08:00 PM (Mon - Fri)</p>
+                                        </div>
+                                    </li>
+
+                                    <li class="top-feature-item">
+                                        <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/53.svg"
+                                                loading="lazy" alt="" />
+                                        </div>
+                                        <div class="top-feature-content">
+                                            <a href="mailto:eastsussex@bestwayrelocation.co.uk"
+                                                style="text-decoration: none">
+                                                <p>eastsussex@bestwayrelocation.co.uk</p>
+
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="top-feature-item">
+                                        <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/54.svg"
+                                                loading="lazy" alt="" />
+                                        </div>
+                                        <div class="top-feature-content">
+                                            <a href="tel:01273927320" style="text-decoration: none">
+                                                <p>0127 3927320</p>
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d315.0322633334692!2d-0.1419277!3d50.8263829!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487585749347c347%3A0x89cb8f0f75daa15a!2sRegus%20-%20Brighton%20City%20Centre!5e0!3m2!1sen!2s!4v1749732969423!5m2!1sen!2s"
+                                    style="border:0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy"
+                                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
                         </div>
-                    </div>
+                    </section>
                 </div>
-
-                <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
-                                aria-expanded="false" aria-controls="collapseFour">
-                                Do you dismantle and reassemble furniture in East Sussex?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                        <div class="card-body">
-                            Yes — we professionally dismantle and reassemble furniture including beds, tables, and
-                            wardrobes. Our team ensures every item is reassembled correctly and safely at your new
-                            East Sussex address.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-header" id="headingSix">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
-                                aria-expanded="false" aria-controls="collapseSix">
-                                How do I move house in East Sussex?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
-                        <div class="card-body">
-                            Start by organising your belongings and creating a checklist. Then book a trusted local
-                            mover like Bestway Relocation to handle the packing, loading, transport, and setup — all in
-                            one seamless service.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-header" id="headingSeven">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
-                                aria-expanded="false" aria-controls="collapseSeven">
-                                Do you provide wardrobe boxes and packing materials?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
-                        <div class="card-body">
-                            Absolutely. We supply strong wardrobe boxes and quality packing materials to keep your
-                            clothing and valuables secure during the move. Need help packing? We’ve got you covered.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-header" id="headingEight">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
-                                aria-expanded="false" aria-controls="collapseEight">
-                                Is Bestway Relocation insured in East Sussex?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
-                        <div class="card-body">
-                            Yes — we provide goods-in-transit insurance up to £50,000 as standard, so your belongings
-                            are protected from the moment we load to final delivery.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-header" id="headingNine">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine"
-                                aria-expanded="false" aria-controls="collapseNine">
-                                What time will your team arrive on moving day?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
-                        <div class="card-body">
-                            Our team typically arrives between 8:00 AM and 9:00 AM. However, we offer flexible
-                            scheduling based on your preferred move time and access to your East Sussex property.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-header" id="headingTen">
-                        <h4 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTen"
-                                aria-expanded="false" aria-controls="collapseTen">
-                                What if I need to reschedule my East Sussex move?
-                            </button>
-                        </h4>
-                    </div>
-                    <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
-                        <div class="card-body">
-                            Life changes fast — which is why we offer flexible booking changes. There are no fees for
-                            rescheduling if you notify us in advance. We’ll adjust your moving plan accordingly.
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </section>
