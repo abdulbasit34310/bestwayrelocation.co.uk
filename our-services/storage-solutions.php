@@ -36,7 +36,7 @@
             <p>Simplify your move and avoid logistical headaches by using secure, clean, and cost-effective storage
               facilities from Bestway Relocation. Whether you're moving your home or office, our flexible storage
               solutions give you the time and space you need.</p>
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta "
@@ -128,95 +128,96 @@
               href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> and experience a smooth, secure
             move with Bestway Relocation.</p> -->
         </div>
+        <section class="section_520-height">
+          <div class="w-layout-grid section_520-height_grid">
+            <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
+              <style>
+                .top-features-list {
+                  list-style: none;
+                  padding: 0;
+                  margin: 0;
+                }
+
+                .top-feature-item {
+                  display: flex;
+                  align-items: center;
+                  margin-bottom: 25px;
+                }
+
+                .top-feature-icon {
+                  width: 50px;
+                  height: 50px;
+                  margin-right: 15px;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  flex-shrink: 0;
+                }
+
+                .top-feature-content {
+                  flex: 1;
+                }
+
+                .top-feature-title {
+                  font-weight: bold;
+                  margin-bottom: 5px;
+                  color: #000;
+                }
+
+                .top-feature-text {
+                  color: #666;
+                  line-height: 1.5;
+                }
+
+                .yllw {
+                  color: #FFBF39;
+                }
+              </style>
+              <h2 class="heading-2 yllw">Secure Storage Solution</h2>
+              <p>
+                Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
+                facing a timing gap — we've got you covered with secure, flexible storage solutions.
+              </p>
+              <br>
+              <ul class="top-features-list">
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/22.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p><strong class="yllw">Great Value</strong> -
+                      Short and long term storage available for homes, businesses, and seasonal items.</p>
+                  </div>
+                </li>
+
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/23.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p><strong class="yllw">Professional Service</strong> -
+                      24/7 monitored facilities with high security. </p>
+                  </div>
+                </li>
+
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/24.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p><strong class="yllw">Trust & Care</strong> -
+                      Collection and re-delivery included - ideal during moves or renovations. </p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image storage">
+            </div>
+          </div>
+        </section>
       </div>
-      <section class="section_520-height">
-        <div class="w-layout-grid section_520-height_grid">
-          <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
-            <style>
-              .top-features-list {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-              }
 
-              .top-feature-item {
-                display: flex;
-                align-items: center;
-                margin-bottom: 25px;
-              }
 
-              .top-feature-icon {
-                width: 50px;
-                height: 50px;
-                margin-right: 15px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                flex-shrink: 0;
-              }
-
-              .top-feature-content {
-                flex: 1;
-              }
-
-              .top-feature-title {
-                font-weight: bold;
-                margin-bottom: 5px;
-                color: #000;
-              }
-
-              .top-feature-text {
-                color: #666;
-                line-height: 1.5;
-              }
-
-              .yllw {
-                color: #FFBF39;
-              }
-            </style>
-            <h2 class="heading-2 yllw">Secure Storage Solution</h2>
-            <p>
-              Not ready to move everything into your new property just yet? Whether you're downsizing, renovating, or
-              facing a timing gap — we've got you covered with secure, flexible storage solutions.
-            </p>
-            <br>
-            <ul class="top-features-list">
-              <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/22.svg" loading="lazy"
-                    alt="" />
-                </div>
-                <div class="top-feature-content">
-                  <p><strong class="yllw">Great Value</strong> -
-                    Short and long term storage available for homes, businesses, and seasonal items.</p>
-                </div>
-              </li>
-
-              <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/23.svg" loading="lazy"
-                    alt="" />
-                </div>
-                <div class="top-feature-content">
-                  <p><strong class="yllw">Professional Service</strong> -
-                    24/7 monitored facilities with high security. </p>
-                </div>
-              </li>
-
-              <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="../assets/64ae94fa75e1882ff9a4f9fe/24.svg" loading="lazy"
-                    alt="" />
-                </div>
-                <div class="top-feature-content">
-                  <p><strong class="yllw">Trust & Care</strong> -
-                    Collection and re-delivery included - ideal during moves or renovations. </p>
-                </div>
-              </li>
-            </ul>
-          </div>
-          <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image storage">
-          </div>
-        </div>
-      </section>
-      
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
         <div class="main-content">
           <h4>Storage FAQ</h4>

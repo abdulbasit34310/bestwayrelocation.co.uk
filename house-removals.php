@@ -194,87 +194,92 @@
           </p>
 
         </div>
+        <section class="section_520-height">
+          <div class="w-layout-grid section_520-height_grid">
+            <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
+              <style>
+                .top-features-list {
+                  list-style: none;
+                  padding: 0;
+                  margin: 0;
+                }
+
+                .top-feature-item {
+                  display: flex;
+                  align-items: center;
+                  margin-bottom: 25px;
+                }
+
+                .top-feature-icon {
+                  width: 50px;
+                  height: 50px;
+                  margin-right: 15px;
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  flex-shrink: 0;
+                }
+
+                .top-feature-content {
+                  flex: 1;
+                }
+
+                .top-feature-title {
+                  font-weight: bold;
+                  margin-bottom: 5px;
+                  color: #000;
+                }
+
+                .top-feature-text {
+                  color: #666;
+                  line-height: 1.5;
+                }
+
+                .yllw {
+                  color: #FFBF39;
+                }
+              </style>
+              <h2 class="heading-2 yllw">House Removals</h2>
+              <br>
+              <ul class="top-features-list">
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/46.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p>We offer full-service house removals including packing, disassembly, loading, transport, and
+                      setup
+                      at the new home.
+                  </div>
+                </li>
+
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/47.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p>Every move includes a personal coordinator to
+                      ensure everything goes smoothly.
+                  </div>
+                </li>
+
+                <li class="top-feature-item">
+                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/48.svg" loading="lazy"
+                      alt="" />
+                  </div>
+                  <div class="top-feature-content">
+                    <p>We protect flooring, furniture, and doors—ideal for landlords and developers who want to avoid
+                      property damage.
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image house">
+            </div>
+          </div>
+        </section>
       </div>
-      <section class="section_520-height">
-        <div class="w-layout-grid section_520-height_grid">
-          <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
-            <style>
-              .top-features-list {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-              }
 
-              .top-feature-item {
-                display: flex;
-                align-items: center;
-                margin-bottom: 25px;
-              }
-
-              .top-feature-icon {
-                width: 50px;
-                height: 50px;
-                margin-right: 15px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                flex-shrink: 0;
-              }
-
-              .top-feature-content {
-                flex: 1;
-              }
-
-              .top-feature-title {
-                font-weight: bold;
-                margin-bottom: 5px;
-                color: #000;
-              }
-
-              .top-feature-text {
-                color: #666;
-                line-height: 1.5;
-              }
-
-              .yllw {
-                color: #FFBF39;
-              }
-            </style>
-            <h2 class="heading-2 yllw">House Removals</h2>
-            <br>
-            <ul class="top-features-list">
-              <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/46.svg" loading="lazy" alt="" />
-                </div>
-                <div class="top-feature-content">
-                  <p>We offer full-service house removals including packing, disassembly, loading, transport, and setup
-                    at the new home.
-                </div>
-              </li>
-
-              <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/47.svg" loading="lazy" alt="" />
-                </div>
-                <div class="top-feature-content">
-                  <p>Every move includes a personal coordinator to
-                    ensure everything goes smoothly.
-                </div>
-              </li>
-
-              <li class="top-feature-item">
-                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/48.svg" loading="lazy" alt="" />
-                </div>
-                <div class="top-feature-content">
-                  <p>We protect flooring, furniture, and doors—ideal for landlords and developers who want to avoid
-                    property damage.
-                </div>
-              </li>
-            </ul>
-          </div>
-          <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893" class="section_520-height_image house">
-          </div>
-        </div>
-      </section>
       <?php include 'components/secured-insured.php'; ?>
 
       <style>

@@ -279,90 +279,91 @@
                         safety regulations, including the latest government guidance on workplace hygiene and COVID-19
                         compliance.
                     </p>
+                    <section class="section_520-height">
+                        <div class="w-layout-grid section_520-height_grid">
+                            <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
+                                <style>
+                                    .top-features-list {
+                                        list-style: none;
+                                        padding: 0;
+                                        margin: 0;
+                                    }
+
+                                    .top-feature-item {
+                                        display: flex;
+                                        align-items: center;
+                                        margin-bottom: 25px;
+                                    }
+
+                                    .top-feature-icon {
+                                        width: 50px;
+                                        height: 50px;
+                                        margin-right: 15px;
+                                        display: flex;
+                                        align-items: center;
+                                        justify-content: center;
+                                        flex-shrink: 0;
+                                    }
+
+                                    .top-feature-content {
+                                        flex: 1;
+                                    }
+
+                                    .top-feature-title {
+                                        font-weight: bold;
+                                        margin-bottom: 5px;
+                                        color: #000;
+                                    }
+
+                                    .top-feature-text {
+                                        color: #666;
+                                        line-height: 1.5;
+                                    }
+
+                                    .yllw {
+                                        color: #FFBF39;
+                                    }
+                                </style>
+                                <h2 class="heading-2 yllw">Office Relocation</h2>
+                                <br>
+                                <ul class="top-features-list">
+                                    <li class="top-feature-item">
+                                        <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/46.svg"
+                                                loading="lazy" alt="" />
+                                        </div>
+                                        <div class="top-feature-content">
+                                            <p>We relocate entire offices, IT systems, furniture, and archives with care
+                                                and
+                                                efficiency.</p>
+                                        </div>
+                                    </li>
+
+                                    <li class="top-feature-item">
+                                        <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/49.svg"
+                                                loading="lazy" alt="" />
+                                        </div>
+                                        <div class="top-feature-content">
+                                            <p>Moves can be scheduled during off-peak hours to avoid disruption.</p>
+                                        </div>
+                                    </li>
+
+                                    <li class="top-feature-item">
+                                        <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/50.svg"
+                                                loading="lazy" alt="" />
+                                        </div>
+                                        <div class="top-feature-content">
+                                            <p>Secure handling of confidential documents and tech equipment.</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893"
+                                class="section_520-height_image office">
+                            </div>
+                        </div>
+                    </section>
                 </div>
             </div>
-            <section class="section_520-height">
-                <div class="w-layout-grid section_520-height_grid">
-                    <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
-                        <style>
-                            .top-features-list {
-                                list-style: none;
-                                padding: 0;
-                                margin: 0;
-                            }
-
-                            .top-feature-item {
-                                display: flex;
-                                align-items: center;
-                                margin-bottom: 25px;
-                            }
-
-                            .top-feature-icon {
-                                width: 50px;
-                                height: 50px;
-                                margin-right: 15px;
-                                display: flex;
-                                align-items: center;
-                                justify-content: center;
-                                flex-shrink: 0;
-                            }
-
-                            .top-feature-content {
-                                flex: 1;
-                            }
-
-                            .top-feature-title {
-                                font-weight: bold;
-                                margin-bottom: 5px;
-                                color: #000;
-                            }
-
-                            .top-feature-text {
-                                color: #666;
-                                line-height: 1.5;
-                            }
-
-                            .yllw {
-                                color: #FFBF39;
-                            }
-                        </style>
-                        <h2 class="heading-2 yllw">Office Relocation</h2>
-                        <br>
-                        <ul class="top-features-list">
-                            <li class="top-feature-item">
-                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/46.svg"
-                                        loading="lazy" alt="" />
-                                </div>
-                                <div class="top-feature-content">
-                                    <p>We relocate entire offices, IT systems, furniture, and archives with care and
-                                        efficiency.</p>
-                                </div>
-                            </li>
-
-                            <li class="top-feature-item">
-                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/49.svg"
-                                        loading="lazy" alt="" />
-                                </div>
-                                <div class="top-feature-content">
-                                    <p>Moves can be scheduled during off-peak hours to avoid disruption.</p>
-                                </div>
-                            </li>
-
-                            <li class="top-feature-item">
-                                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/50.svg"
-                                        loading="lazy" alt="" />
-                                </div>
-                                <div class="top-feature-content">
-                                    <p>Secure handling of confidential documents and tech equipment.</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div id="w-node-da7437a3-da0a-7aed-728a-15c7b5830541-aba94893"
-                        class="section_520-height_image office">
-                    </div>
-                </div>
-            </section>
         </div>
     </section>
     <?php include 'components/secured-insured.php'; ?>
