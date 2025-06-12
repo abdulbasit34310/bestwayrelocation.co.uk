@@ -48,10 +48,12 @@
                             </ul>
                         </div>
         </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <br>
         <h4>Taking the Stress Out of Your Move</h4>
         <p>Moving can be one of life’s most challenging experiences — but with Bestway Relocation, it doesn’t have to be. Our Langley removals team combines years of hands-on experience with expert planning to eliminate the stress and hassle from your move. From careful logistics to efficient execution, we handle all the critical details so you can focus on settling into your new space.</p>

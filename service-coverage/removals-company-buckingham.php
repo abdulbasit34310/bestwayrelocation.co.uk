@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         <h4>Why Choose Bestway Relocation in Buckingham?</h4>
         <p>Our dedicated team offers personalised moving strategies, top-quality materials, and industry-leading tools to make your move efficient and stress-free. We take time to understand your specific requirements and deliver a seamless relocation experience from start to finish.</p>
         <ul class="rich-text">

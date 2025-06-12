@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>Dependable Removals Company in Datchet, Berkshire SL3</h4>
 <p>At Bestway Relocation, we take great pride in being one of the most trusted and reputable removals companies in Datchet and across Berkshire. Whether you’re relocating your home or business, our professional team is committed to delivering a smooth, efficient, and stress-free moving experience. If you've had an unsatisfactory experience with another moving service in the past, rest assured that with Bestway Relocation, your move is in expert hands.</p>

@@ -48,10 +48,12 @@
                             </ul>
                         </div>
         </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <br>
         <h4>Expert House Removals in Hampton</h4>
         <p>We eliminate the hassle of moving with professional house relocation services in Hampton TW12. Say goodbye to the stress of lifting, packing, or coordinating logistics—our team handles it all with care and efficiency.</p>

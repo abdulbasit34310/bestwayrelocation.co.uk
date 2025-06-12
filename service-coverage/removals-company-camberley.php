@@ -60,10 +60,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <h4>Why Choose Bestway Relocation in Camberley?</h4>
           <ul class="rich-text">
             <li><strong>Bespoke Service:</strong> We listen to your needs and create a customised moving plan to fit

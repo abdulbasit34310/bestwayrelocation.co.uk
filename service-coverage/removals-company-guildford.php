@@ -48,10 +48,12 @@
                             </ul>
                         </div>
         </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <br>
         <h4>Reliable and Friendly Moving Services in Guildford</h4>
         <p>We know how overwhelming moving can be, so we plan every step in detail — from scheduling and transit to careful packing and unloading. Our team keeps you informed throughout, ensuring you know what to expect at every stage. Rated 4.9/5 by our customers, we pride ourselves on exceeding expectations.</p>

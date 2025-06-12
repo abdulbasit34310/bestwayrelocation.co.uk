@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>House Removals in Earlsfield</h4>
 <p>Relocating your home in Earlsfield doesn’t have to be a hassle. With Bestway Relocation, your move is handled by experienced professionals who take care of every detail—from packing and disassembly to transport and setup. Whether moving locally or long-distance, we ensure a smooth, safe transition to your new home.</p>

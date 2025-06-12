@@ -59,10 +59,12 @@
             </div>
           </div>
 
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <h4>Comprehensive House Removals in East Molesey</h4>
           <p>Moving in or around East Molesey? Bestway Relocation offers professional, stress-free house removal
             services. With over 7+ years of experience, our expert team handles everything from packing and

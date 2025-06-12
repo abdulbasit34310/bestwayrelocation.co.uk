@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         <h4>Expert House Removals in Balham</h4>
         <p>Moving house can feel overwhelming—but with Bestway Relocation by your side, it doesn’t have to be. Our skilled movers handle your belongings with care and professionalism, from packing and loading to safe delivery and setup in your new home.</p>
         <ul class="rich-text">

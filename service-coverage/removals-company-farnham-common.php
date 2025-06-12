@@ -48,10 +48,12 @@
                             </ul>
                         </div>
         </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <br>
         <h4>Professional & Dedicated Service</h4>
         <p>As one of the leading removals companies in Farnham Common, our mission is to provide swift, safe, and reliable relocation services that reduce stress and simplify your move. Our team brings years of experience managing moves of all sizes across Buckinghamshire and the UK.</p>

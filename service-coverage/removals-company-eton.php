@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>Comprehensive Removal Services in Eton</h4>
 <p>Bestway Relocation is proud to be a trusted removals company in Eton, Berkshire SL4. With years of industry experience and an unwavering commitment to customer satisfaction, we’ve helped countless households and businesses move seamlessly throughout the UK. Whether you need full-service house removals, office relocation, or secure storage, our expert team is ready to assist.</p>

@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         <h4>Professional Removals Brixton Services</h4>
         <p>With a reputation built on reliability and excellence, Bestway Relocation stands out among removal companies in Brixton. We customise every move to meet your expectations — whether local or long-distance, residential or commercial. Our skilled professionals ensure everything runs smoothly from start to finish, using high-quality packing materials and modern tools to safeguard your belongings.</p>
 

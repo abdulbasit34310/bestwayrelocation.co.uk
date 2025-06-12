@@ -58,11 +58,12 @@
             </div>
           </div>
 
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+         <!--  <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />-->
         </div>
         <div class="main-content">
-          <br /><br /><br />
+           
           <h4>About Bestway Relocation</h4>
           <p>With years of experience and a reputation for reliability and professionalism, Bestway Relocation offers
             comprehensive moving and storage services across Burnham and surrounding areas. Our expert team handles all

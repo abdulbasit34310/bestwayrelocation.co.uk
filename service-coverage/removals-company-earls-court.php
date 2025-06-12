@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>House Removals in Earl’s Court</h4>
 <p>Moving in Earl’s Court doesn’t have to be stressful. Bestway Relocation offers comprehensive house removal services tailored to your specific needs. Whether you're relocating within the SW5 area or moving long-distance, our experienced team handles everything—packing, disassembly, transport, and setup—so you can focus on settling into your new home.</p>

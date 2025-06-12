@@ -48,10 +48,12 @@
                             </ul>
                         </div>
         </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <br>
         <h4>House Removals in Haslemere</h4>
         <p>Relocating to or from Haslemere? Our team offers personalised home removal services tailored to your preferences and schedule. Whether moving across town or across the country, we ensure a safe, smooth, and efficient experience from start to finish.</p>

@@ -51,10 +51,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>House Removals in Crowthorne</h4>
 <p>Whether you're upsizing, downsizing or simply relocating to a new street, Bestway Relocation ensures a smooth house move in Crowthorne. Our experienced team takes great care with your furniture and personal belongings, using professional-grade materials and tailored handling techniques.</p>

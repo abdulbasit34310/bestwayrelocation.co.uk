@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>House Removals in East Sheen</h4>
 <p>Moving house in East Sheen can be overwhelming, but with Bestway Relocation, it becomes a seamless process. Our professional house removal services are tailored to fit your specific needs—whether you're relocating within SW14 or across London. With meticulous planning, expert handling, and high-end logistics, we ensure your belongings are safely transported and set up in your new home.</p>

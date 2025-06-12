@@ -48,10 +48,12 @@
                             </ul>
                         </div>
         </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                     <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
           <br>
         <h4>Why Choose Bestway Relocation in Fulham?</h4>
         <p>Our highly-rated team manages everything from packing and loading to transportation and unloading. You can also take advantage of our flexible, secure storage solutions in Fulham—ideal for both short and long-term needs. With top-tier packing materials and customer-focused support, we ensure a smooth and stress-free experience every step of the way.</p>

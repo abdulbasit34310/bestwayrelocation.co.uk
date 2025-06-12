@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>House Removals in Eastbourne</h4>
 <p>Relocating to a new home in Eastbourne? Bestway Relocation is here to simplify the process. Our professional house removals in Eastbourne are tailored to make your move smooth, secure, and entirely stress-free. Whether you're moving a small apartment or a large family home, we have the expertise, tools, and team to deliver a seamless transition.</p>

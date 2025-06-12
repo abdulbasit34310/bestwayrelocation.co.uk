@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         <h4>About Our Barnes Removal Services</h4>
         <p>Relocating is a major life event — and we're here to handle every detail. With over 7+ years in the industry, Bestway Relocation provides full-service solutions from packing and transportation to storage and setup. Our experienced teams take the stress out of your move by carefully planning each stage and using advanced equipment for optimal safety and efficiency.</p>
 

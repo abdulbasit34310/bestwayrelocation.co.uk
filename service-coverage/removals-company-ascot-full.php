@@ -52,7 +52,7 @@
         </div>
 
            <div class="main-content">
-          <br /><br /><br />
+           
         <h4>About Us</h4>
         <p>We’re a family-run removal company with over 7+ years of experience in Ascot and Berkshire. Our goal is simple: to make your move safe, fast, and smooth. Backed by years of professional service and a strong reputation for reliability and care, our team offers the peace of mind you deserve when relocating.</p>
 

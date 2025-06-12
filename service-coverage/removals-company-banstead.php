@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         <!-- ✏️ Insert detailed, well-structured content here -->
         <h4>House Removals in Banstead</h4>
         <p>Bestway Relocation delivers dependable and stress-free house removals in Banstead. Whether you're moving from a studio flat or a large detached family home, our experienced movers ensure a smooth transition with minimal disruption. We understand that each move is different, so we tailor our services to meet your exact requirements.</p>

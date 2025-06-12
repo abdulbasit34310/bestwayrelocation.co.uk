@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>Expert House Removals in Dorking</h4>
 <p>Moving home is a major milestone and can be both exciting and overwhelming. Whether you're relocating within Dorking or to another part of the UK, Bestway Relocation provides expert house removal services that take the stress out of your move. With over 7+ years of experience, we tailor each move to suit your unique needs and ensure everything goes smoothly from start to finish.</p>

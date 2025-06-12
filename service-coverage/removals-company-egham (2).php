@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>Comprehensive House and Office Relocation in Egham</h4>
 <p>Bestway Relocation offers full-service residential and commercial removals in Egham and surrounding areas. Whether you’re moving across town or relocating to a new region, our professional movers ensure your belongings are packed, transported, and delivered with the utmost care and efficiency. No job is too big or small—from studio flats to large family homes and corporate offices, we’ve got you covered.</p>

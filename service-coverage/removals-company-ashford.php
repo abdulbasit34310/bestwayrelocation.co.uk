@@ -50,10 +50,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         <h4>Expert Removals Company in Ashford, Kent TN23</h4>
         <p>Whether relocating your home or business, Bestway Relocation Ashford offers comprehensive moving services across the TN23 area. We guide clients through every stage—from quotes and planning to careful packing and seamless delivery. Our white glove movers ensure your move is managed professionally with care for every item.</p>
 

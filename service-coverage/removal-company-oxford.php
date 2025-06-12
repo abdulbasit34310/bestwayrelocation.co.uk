@@ -37,7 +37,7 @@
               solutions. Whether you're relocating locally within Oxford or to another part of the UK, we ensure a
               smooth and stress-free move tailored to your needs.</p>
 
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
@@ -58,10 +58,12 @@
               </ul>
             </div>
           </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->
+        </div>
+
         <div class="main-content">
-          <br /><br /><br />
+
           <h3>Why Choose Bestway Relocation in Oxford?</h3>
           <p>With over 7+ years of industry experience, Bestway Relocation has built a solid reputation for dependable
             and affordable removals in Oxford. Our professional and friendly team handles each move with care,

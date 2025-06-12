@@ -51,10 +51,12 @@
             </div>
           </div>
  
-                  <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
+                             <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+          <!-- <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />    -->    </div>
+
         <div class="main-content">
-          <br /><br /><br />
+           
         
 <h4>Home and Office Relocation in Chertsey</h4>
 <p>Bestway Relocation Chertsey offers premium white-glove removal services, ensuring an elevated moving experience. Our trained professionals manage everything with precision—from packing delicate items to transporting and unpacking at your destination. We serve both local and long-distance moves with unmatched attention to detail.</p>

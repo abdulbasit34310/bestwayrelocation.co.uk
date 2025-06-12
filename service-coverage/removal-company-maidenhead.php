@@ -38,7 +38,7 @@
               experience for every customer. Whether you're relocating locally or nationwide, we offer tailored services
               to meet all your moving needs—from packing and storage to house and office removals.</p>
 
-            <div style="padding: 30px 0px 0px 0px; " >
+            <div style="padding: 30px 0px 0px 0px; ">
               <ul role="list" class="nav-menu-block w-list-unstyled">
                 <li>
                   <a href="tel:08000147676" class="secondary-black-outline-cta w-button"
@@ -59,11 +59,13 @@
               </ul>
             </div>
           </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />        </div>
-        
-          <div class="main-content">
-          <br /><br /><br />
+          <!--            <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="" class="image-15" /> -->
+
+         <!--  <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="" class="image-11" />-->
+        </div>
+
+        <div class="main-content">
+
           <h3>About Bestway Relocation in Maidenhead</h3>
           <p>Bestway Relocation is your reliable white-glove moving company in Maidenhead, ready to assist with every
             aspect of your move. Whether you're transitioning your household or relocating a business, our comprehensive

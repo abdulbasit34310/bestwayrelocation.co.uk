@@ -194,7 +194,6 @@
           </p>
 
           <p><strong>Bestway Relocation — Move your career forward with us.</strong></p>
-          <br><br><br>
         </div>
       </div>
     </div>
