@@ -525,7 +525,7 @@
                     <section class="section_520-height">
                         <div class="w-layout-grid section_520-height_grid">
                             <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19"
-                                style="background-color: #FFBF39; border-bottom-left-radius: 6px; border-top-left-radius: 6px;">
+                                style="background-color: #FFBF39; ">
                                 <style>
                                     .top-features-list {
                                         list-style: none;
