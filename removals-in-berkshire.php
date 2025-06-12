@@ -255,7 +255,7 @@
                             <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f"
                                 class="content-section_text">
                                 <div class="rich-text w-richtext">
-                                    <h3 class="main-content-heading h2 fw-bold mb-3">
+                                    <h2 class="heading-h2">
                                         House Removals Berkshire
                                         </h2>
                                         <div class="text-white">

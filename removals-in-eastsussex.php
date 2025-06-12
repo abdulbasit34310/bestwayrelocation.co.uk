@@ -251,7 +251,7 @@
                             <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f"
                                 class="content-section_text">
                                 <div class="rich-text w-richtext">
-                                    <h2 class="main-content-heading h2 fw-bold mb-3">House Removals East Sussex</h2>
+                                    <h2 class="heading-h2">House Removals East Sussex</h2>
                                     <div class="text-white">
                                         <p>Bestway Relocation is proud to be one of East Sussex’s most trusted and
                                             experienced house

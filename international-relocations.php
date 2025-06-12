@@ -703,10 +703,9 @@
         renderInternationalServicesBanner(['packing', 'storage', 'home']);
         ?>
       </div>
-      <?php include 'components/specialization.php'; ?>
     </div>
   </section>
-
+  <?php include 'components/specialization.php'; ?>
   <?php include 'components/foot-2.php'; ?>
 
   <script src="d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c88852.js?site=64ae94fa75e1882ff9a4f9fe"

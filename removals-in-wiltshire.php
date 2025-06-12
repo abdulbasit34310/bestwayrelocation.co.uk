@@ -252,7 +252,7 @@
                             <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba9488f"
                                 class="content-section_text">
                                 <div class="rich-text w-richtext">
-                                    <h2 class="main-content-heading h2 fw-bold mb-3">House Removals Wiltshire</h2>
+                                    <h2 class="heading-2">House Removals Wiltshire</h2>
                                     <div class="text-white">
                                         <p>Bestway Relocation is one of the most reputable and experienced house moving
                                             companies in
