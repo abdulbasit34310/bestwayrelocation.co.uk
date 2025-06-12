@@ -181,7 +181,7 @@
                     <p>East Sussex’s average property price stands at approximately £444,000, reflecting its popularity
                         among young professionals, families, and retirees alike.</p>
 
-                    <h4>Typical Property Prices</h4>
+                    <h5>Typical Property Prices</h5>
                     <ul class="rich-text">
                         <li>Detached: £732,000</li>
                         <li>Semi-detached: £520,000</li>
@@ -189,7 +189,7 @@
                         <li>Flats: £330,000</li>
                     </ul>
 
-                    <h4>Average Rental Costs</h4>
+                    <h5>Average Rental Costs</h5>
                     <ul class="rich-text">
                         <li>One bedroom: £1,200/month</li>
                         <li>Two bedrooms: £1,600/month</li>
@@ -223,16 +223,16 @@
                         digital agencies offer a dynamic job market.</p>
 
                     <h2>Lifestyle and Things to Do in East Sussex</h2>
-                    <h4>Nightlife and Dining</h4>
+                    <h5>Nightlife and Dining</h5>
                     <p>East Sussex’s nightlife is electric — from seafront clubs to indie bars, music venues, and comedy
                         clubs. The Lanes and North Laine districts offer diverse dining, from street food to fine
                         dining.</p>
                     <br>
-                    <h4>Shopping</h4>
+                    <h5>Shopping</h5>
                     <p>Explore Churchill Square Shopping Centre, The Lanes for boutique fashion, and weekly markets for
                         local crafts and produce.</p>
                     <br>
-                    <h4>Attractions and Entertainment</h4>
+                    <h5>Attractions and Entertainment</h5>
                     <ul class="rich-text">
                         <li><strong>East Sussex Pier</strong> – Iconic seafront funfair and arcade</li>
                         <li><strong>Royal Pavilion</strong> – Exotic 19th-century palace</li>
@@ -295,17 +295,18 @@
                     <section class="cta_section">
                         <div class="cta_wrapper">
                             <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-                            <div id="accordion">
+                                        <br>
+            <div id="accordion">
 
                                 <div class="card">
                                     <div class="card-header" id="headingOne">
-                                        <h2 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link" data-toggle="collapse"
                                                 data-target="#collapseOne" aria-expanded="true"
                                                 aria-controls="collapseOne">
                                                 How do I choose a removals company in East Sussex?
                                             </button>
-                                        </h2>
+                                        </h5>
                                     </div>
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                         data-parent="#accordion">
@@ -321,13 +322,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingTwo">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseTwo" aria-expanded="false"
                                                 aria-controls="collapseTwo">
                                                 What is the best time for moving in East Sussex?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                         data-parent="#accordion">
@@ -343,13 +344,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingThree">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseThree" aria-expanded="false"
                                                 aria-controls="collapseThree">
                                                 How can I obtain a fixed quote for my East Sussex move?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                         data-parent="#accordion">
@@ -365,13 +366,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingFour">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseFour" aria-expanded="false"
                                                 aria-controls="collapseFour">
                                                 Do you dismantle and reassemble furniture in East Sussex?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                                         data-parent="#accordion">
@@ -387,13 +388,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingSix">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseSix" aria-expanded="false"
                                                 aria-controls="collapseSix">
                                                 How do I move house in East Sussex?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
                                         data-parent="#accordion">
@@ -409,13 +410,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingSeven">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseSeven" aria-expanded="false"
                                                 aria-controls="collapseSeven">
                                                 Do you provide wardrobe boxes and packing materials?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven"
                                         data-parent="#accordion">
@@ -430,13 +431,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingEight">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseEight" aria-expanded="false"
                                                 aria-controls="collapseEight">
                                                 Is Bestway Relocation insured in East Sussex?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseEight" class="collapse" aria-labelledby="headingEight"
                                         data-parent="#accordion">
@@ -450,13 +451,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingNine">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseNine" aria-expanded="false"
                                                 aria-controls="collapseNine">
                                                 What time will your team arrive on moving day?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseNine" class="collapse" aria-labelledby="headingNine"
                                         data-parent="#accordion">
@@ -471,13 +472,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingTen">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseTen" aria-expanded="false"
                                                 aria-controls="collapseTen">
                                                 What if I need to reschedule my East Sussex move?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseTen" class="collapse" aria-labelledby="headingTen"
                                         data-parent="#accordion">

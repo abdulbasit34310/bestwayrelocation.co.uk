@@ -104,6 +104,7 @@
     <div class="content-section_grid european-freight">
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
         <div class="main-content">
+
           <div class="cta_maine">
             <div class="cta_content">
               <h2 class="heading-2">Professional Removals in Buckinghamshire – Stress-Free Every Step</h2>
@@ -139,7 +140,6 @@
               alt="Removals in Buckinghamshire illustration" class="image-11" />
           </div>
 
-
           <h2>Home and Office Moves in and Around Buckinghamshire</h2>
           <p>Looking for a trusted and experienced moving company in Buckinghamshire? Bestway Relocation offers
             reliable,
@@ -170,7 +170,7 @@
           <p>The average property price in Buckinghamshire is around £293,564 — lower than the UK average, making it an
             appealing choice for first-time buyers and growing families.</p>
 
-          <h4>Typical Property Prices</h4>
+          <h5>Typical Property Prices</h5>
           <ul class="rich-text">
             <li>Detached: £521,412</li>
             <li>Semi-detached: £348,912</li>
@@ -178,7 +178,7 @@
             <li>Flats: £190,530</li>
           </ul>
 
-          <h4>Average Rental Costs</h4>
+          <h5>Average Rental Costs</h5>
           <ul class="rich-text">
             <li>One bedroom: £810/month</li>
             <li>Two bedrooms: £908/month</li>
@@ -215,18 +215,18 @@
           </p>
 
           <h2>Leisure and Lifestyle in Buckinghamshire</h2>
-          <h4>Nightlife and Social Scene</h4>
+          <h5>Nightlife and Social Scene</h5>
           <p>Enjoy a mix of pubs, bars, international restaurants, and entertainment venues like theatres, cinemas, and
             bowling alleys. Fitness centres and golf courses are also popular with locals.</p>
 
 
 
-          <h4>Shopping</h4>
+          <h5>Shopping</h5>
           <p>Key retail destinations include Friars Square, Hale Leys, and Buckinghamshire Shopping Park. Don’t miss the
             general market (Weds, Fri & Sat) and “Foodie Friday” with artisan food vendors every week in Market Square.
           </p>
 
-          <h4>Things to See and Do</h4>
+          <h5>Things to See and Do</h5>
           <ul class="rich-text">
             <li><strong>Roald Dahl Children’s Gallery</strong>: A literary-themed interactive museum for children</li>
             <li><strong>Buckinghamshire Waterside Theatre</strong>: Home to musicals, opera, and West End shows</li>
@@ -287,21 +287,19 @@
             </div>
           </section>
 
-
-
           <section class="cta_section">
             <div class="cta_wrapper">
               <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-              <div id="accordion">
-
+                          <br>
+            <div id="accordion">
                 <div class="card">
                   <div class="card-header" id="headingOne">
-                    <h2 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
                         aria-expanded="true" aria-controls="collapseOne">
                         How do I choose a removals company in Buckinghamshire?
                       </button>
-                    </h2>
+                    </h5>
                   </div>
                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div class="card-body">
@@ -316,12 +314,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingTwo">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
                         aria-expanded="false" aria-controls="collapseTwo">
                         What is the best time for moving in Buckinghamshire?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div class="card-body">
@@ -334,12 +332,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingThree">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
                         aria-expanded="false" aria-controls="collapseThree">
                         How can I obtain a fixed quote for my Buckinghamshire removals?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                     <div class="card-body">
@@ -352,12 +350,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingFour">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
                         aria-expanded="false" aria-controls="collapseFour">
                         Do you dismantle and reassemble my furniture?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                     <div class="card-body">
@@ -371,12 +369,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingSix">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
                         aria-expanded="false" aria-controls="collapseSix">
                         How do I move house in Buckinghamshire?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
                     <div class="card-body">
@@ -390,12 +388,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingSeven">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
                         aria-expanded="false" aria-controls="collapseSeven">
                         Do you provide wardrobe boxes?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordion">
                     <div class="card-body">
@@ -408,12 +406,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingEight">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
                         aria-expanded="false" aria-controls="collapseEight">
                         Is Bestway Relocation Buckinghamshire insured?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion">
                     <div class="card-body">
@@ -426,12 +424,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingNine">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine"
                         aria-expanded="false" aria-controls="collapseNine">
                         What time will your team arrive on the day of my move?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion">
                     <div class="card-body">
@@ -444,12 +442,12 @@
 
                 <div class="card">
                   <div class="card-header" id="headingTen">
-                    <h4 class="mb-0">
+                    <h5 class="mb-0">
                       <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTen"
                         aria-expanded="false" aria-controls="collapseTen">
                         What if I need to change my moving date?
                       </button>
-                    </h4>
+                    </h5>
                   </div>
                   <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordion">
                     <div class="card-body">

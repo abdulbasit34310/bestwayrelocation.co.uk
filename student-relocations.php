@@ -313,9 +313,10 @@
     </section>
     <section class="cta_section">
         <div class="cta_wrapper">
-            <h2 class="heading-2"><b>Student Relocations FAQs</b></h2>
+            <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1>
+            <br>
+            <br>
             <div id="accordion">
-
                 <div class="card">
                     <div class="card-header" id="headingOne">
                         <h5 class="mb-0">

@@ -303,16 +303,17 @@
                                 <section class="cta_section">
                                     <div class="cta_wrapper">
                                         <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br>
-                                        <div id="accordion">
+                                                    <br>
+            <div id="accordion">
                                             <div class="card">
                                                 <div class="card-header" id="headingOne">
-                                                    <h2 class="mb-0">
+                                                    <h5 class="mb-0">
                                                         <button class="btn btn-link" data-toggle="collapse"
                                                             data-target="#collapseOne" aria-expanded="true"
                                                             aria-controls="collapseOne">
                                                             How do I choose a removals company in Surrey?
                                                         </button>
-                                                    </h2>
+                                                    </h5>
                                                 </div>
                                                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                                     data-parent="#accordion">

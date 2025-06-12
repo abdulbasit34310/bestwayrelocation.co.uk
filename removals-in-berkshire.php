@@ -138,7 +138,6 @@
                             loading="eager" alt="Removals in Berkshire illustration" class="image-11" />
                     </div>
 
-
                     <h2>Expert House and Office Relocation Across Berkshire</h2>
                     <p>Bestway Relocation is a trusted, high-quality removals company based in Berkshire. We
                         offer bespoke packing, relocation, and secure storage services for residential and
@@ -248,6 +247,7 @@
                         packing tips, and provide everything you need for a stress-free transition.</p>
                     <p><a href="https://www.bestwayrelocation.co.uk/contact-us.php">Get in touch with Bestway
                             Relocation</a> and experience a better way to move.</p>
+
                     <section class="standart-page_content-section">
                         <div class="w-layout-grid content-section_grid">
                             <div id="w-node-_06d54a92-e77c-175f-55f0-cbe1583becf9-aba9488f"
@@ -257,53 +257,53 @@
                                 <div class="rich-text w-richtext">
                                     <h2 class="heading-h2">
                                         House Removals Berkshire
-                                        </h2>
-                                        <div class="text-white">
-                                            <p>Bestway Relocation is one of the most experienced moving
-                                                companies in Berkshire,
-                                                delivering dependable, stress-free home removals across the
-                                                area. With deep local
-                                                knowledge and a highly trained team, we offer seamless moving
-                                                solutions tailored to your
-                                                unique needs.</p>
-                                            <p>We aim to make the process straightforward, efficient, and as
-                                                worry-free as possible.
-                                                Whether you're relocating to a new apartment across town or
-                                                moving into your dream home
-                                                in the suburbs, our team will ensure everything arrives safely
-                                                and on schedule. We
-                                                understand that delays can be frustrating — especially in
-                                                complex property chains — so
-                                                we remain flexible and communicative throughout your journey.
-                                            </p>
-                                            <p>Our services include professional packing, careful handling, and
-                                                efficient transport —
-                                                all managed with precision. From the moment you request a quote,
-                                                we’ll work closely with
-                                                you to understand your instructions and ensure your belongings
-                                                are treated with care.
-                                            </p>
-                                            <p>We offer:</p>
-                                            <ul class="rich-text">
-                                                <li>Free, no-obligation quotes with clear pricing</li>
-                                                <li>Flexible scheduling to accommodate your move date</li>
-                                                <li>Full and partial packing options</li>
-                                                <li>Specialised equipment for large or delicate items</li>
-                                                <li>Furniture dismantling and reassembly</li>
-                                                <li>Short- and long-term storage solutions</li>
-                                            </ul>
-                                            <p>Whether you’re moving from a studio flat or a five-bedroom family
-                                                home, Bestway
-                                                Relocation makes your move easy, safe, and efficient. Our
-                                                commitment to customer
-                                                satisfaction and care has earned us a reputation as Berkshire’s
-                                                preferred removals
-                                                company.</p>
-                                            <p>Let us handle the heavy lifting — contact our friendly team today
-                                                for a quote and enjoy
-                                                the peace of mind that comes with moving with Bestway
-                                                Relocation.</p>
-                                        </div>
+                                    </h2>
+                                    <div class="text-white">
+                                        <p>Bestway Relocation is one of the most experienced moving
+                                            companies in Berkshire,
+                                            delivering dependable, stress-free home removals across the
+                                            area. With deep local
+                                            knowledge and a highly trained team, we offer seamless moving
+                                            solutions tailored to your
+                                            unique needs.</p>
+                                        <p>We aim to make the process straightforward, efficient, and as
+                                            worry-free as possible.
+                                            Whether you're relocating to a new apartment across town or
+                                            moving into your dream home
+                                            in the suburbs, our team will ensure everything arrives safely
+                                            and on schedule. We
+                                            understand that delays can be frustrating — especially in
+                                            complex property chains — so
+                                            we remain flexible and communicative throughout your journey.
+                                        </p>
+                                        <p>Our services include professional packing, careful handling, and
+                                            efficient transport —
+                                            all managed with precision. From the moment you request a quote,
+                                            we’ll work closely with
+                                            you to understand your instructions and ensure your belongings
+                                            are treated with care.
+                                        </p>
+                                        <p>We offer:</p>
+                                        <ul class="rich-text">
+                                            <li>Free, no-obligation quotes with clear pricing</li>
+                                            <li>Flexible scheduling to accommodate your move date</li>
+                                            <li>Full and partial packing options</li>
+                                            <li>Specialised equipment for large or delicate items</li>
+                                            <li>Furniture dismantling and reassembly</li>
+                                            <li>Short- and long-term storage solutions</li>
+                                        </ul>
+                                        <p>Whether you’re moving from a studio flat or a five-bedroom family
+                                            home, Bestway
+                                            Relocation makes your move easy, safe, and efficient. Our
+                                            commitment to customer
+                                            satisfaction and care has earned us a reputation as Berkshire’s
+                                            preferred removals
+                                            company.</p>
+                                        <p>Let us handle the heavy lifting — contact our friendly team today
+                                            for a quote and enjoy
+                                            the peace of mind that comes with moving with Bestway
+                                            Relocation.</p>
+                                    </div>
                                 </div>
                                 <a href="#" class="grey-outline-button_white-bg margin-top-28 ">Contact us for a
                                     quote</a>
@@ -311,20 +311,20 @@
                         </div>
                     </section>
 
-
                     <section class="cta_section">
                         <div class="cta_wrapper">
                             <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1><br><br>
-                            <div id="accordion">
+                                        <br>
+            <div id="accordion">
                                 <div class="card">
                                     <div class="card-header" id="headingOne">
-                                        <h3 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link" data-toggle="collapse"
                                                 data-target="#collapseOne" aria-expanded="true"
                                                 aria-controls="collapseOne">
                                                 How do I choose a removals company in Berkshire?
                                             </button>
-                                            </h2>
+                                        </h5>
                                     </div>
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                         data-parent="#accordion">

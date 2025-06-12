@@ -181,7 +181,7 @@
                     <p>Wiltshire offers affordable and appealing housing options for families and professionals. The
                         average property price is around £271,000, making it a great choice for first-time buyers.</p>
                     <br>
-                    <h4>Average Property Prices</h4>
+                    <h5>Average Property Prices</h5>
                     <ul class="rich-text">
                         <li>Detached: £451,200</li>
                         <li>Semi-detached: £313,500</li>
@@ -189,7 +189,7 @@
                         <li>Flats: £169,400</li>
                     </ul>
 
-                    <h4>Average Rent Costs</h4>
+                    <h5>Average Rent Costs</h5>
                     <ul class="rich-text">
                         <li>One bedroom: £750/month</li>
                         <li>Two bedrooms: £950/month</li>
@@ -223,15 +223,15 @@
                         and graduates.</p>
 
                     <h2>Leisure and Lifestyle in Wiltshire</h2>
-                    <h4>Nightlife & Dining</h4>
+                    <h5>Nightlife & Dining</h5>
                     <p>Wiltshire features a wide mix of restaurants, cocktail bars, and entertainment venues. The Wyvern
                         Theatre and MECA music hall host regular performances and events.</p>
 
-                    <h4>Shopping</h4>
+                    <h5>Shopping</h5>
                     <p>Major retail centres include The Brunel and Greenbridge Retail Park. Wiltshire Designer Outlet is
                         also a popular destination for fashion and lifestyle brands.</p>
 
-                    <h4>Things to See & Do</h4>
+                    <h5>Things to See & Do</h5>
                     <ul class="rich-text">
                         <li><strong>Lydiard Park</strong> – Scenic country park with historic manor house</li>
                         <li><strong>STEAM Museum</strong> – Celebrating Wiltshire’s railway heritage</li>
@@ -300,17 +300,18 @@
                         <div class="cta_wrapper">
                             <h1 class="main-content-heading h1 fw-bold text-center"><b>FAQs</b></h1>
                             <br><br>
-                            <div id="accordion">
+                                        <br>
+            <div id="accordion">
 
                                 <div class="card">
                                     <div class="card-header" id="headingOne">
-                                        <h2 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link" data-toggle="collapse"
                                                 data-target="#collapseOne" aria-expanded="true"
                                                 aria-controls="collapseOne">
                                                 How do I choose a removals company in Wiltshire?
                                             </button>
-                                        </h2>
+                                        </h5>
                                     </div>
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                         data-parent="#accordion">
@@ -327,13 +328,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingTwo">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseTwo" aria-expanded="false"
                                                 aria-controls="collapseTwo">
                                                 What is the best time to move in Wiltshire?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                         data-parent="#accordion">
@@ -348,13 +349,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingThree">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseThree" aria-expanded="false"
                                                 aria-controls="collapseThree">
                                                 How can I get a fixed quote for my Wiltshire move?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                         data-parent="#accordion">
@@ -369,13 +370,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingFour">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseFour" aria-expanded="false"
                                                 aria-controls="collapseFour">
                                                 Do you dismantle and reassemble furniture?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                                         data-parent="#accordion">
@@ -390,13 +391,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingSix">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseSix" aria-expanded="false"
                                                 aria-controls="collapseSix">
                                                 How do I prepare for a house move in Wiltshire?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
                                         data-parent="#accordion">
@@ -413,13 +414,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingSeven">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseSeven" aria-expanded="false"
                                                 aria-controls="collapseSeven">
                                                 Do you provide wardrobe boxes and packing supplies?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven"
                                         data-parent="#accordion">
@@ -435,13 +436,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingEight">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseEight" aria-expanded="false"
                                                 aria-controls="collapseEight">
                                                 Are you insured for Wiltshire moves?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseEight" class="collapse" aria-labelledby="headingEight"
                                         data-parent="#accordion">
@@ -456,13 +457,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingNine">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseNine" aria-expanded="false"
                                                 aria-controls="collapseNine">
                                                 What time will your team arrive on moving day?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseNine" class="collapse" aria-labelledby="headingNine"
                                         data-parent="#accordion">
@@ -477,13 +478,13 @@
 
                                 <div class="card">
                                     <div class="card-header" id="headingTen">
-                                        <h4 class="mb-0">
+                                        <h5 class="mb-0">
                                             <button class="btn btn-link collapsed" data-toggle="collapse"
                                                 data-target="#collapseTen" aria-expanded="false"
                                                 aria-controls="collapseTen">
                                                 Can I reschedule my Wiltshire move?
                                             </button>
-                                        </h4>
+                                        </h5>
                                     </div>
                                     <div id="collapseTen" class="collapse" aria-labelledby="headingTen"
                                         data-parent="#accordion">
