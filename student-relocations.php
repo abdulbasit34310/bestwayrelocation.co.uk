@@ -110,11 +110,6 @@
             padding: 0 20px;
         }
 
-        .heading-2 {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-
         @media (min-width:992px) {
             html.w-mod-js:not(.w-mod-ix) [data-w-id="5319ee58-1ca7-9f4b-9306-46999fdf60b4"] {
                 background-color: rgb(255, 255, 255);
