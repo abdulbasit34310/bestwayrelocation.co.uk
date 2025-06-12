@@ -32,15 +32,35 @@
       <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
         <div class="cta_maine">
           <div class="cta_content">
-          <h2 class="heading-2">Removals Service from London to Manchester</h2>
+            <h2 class="heading-2">Removals Service from London to Manchester</h2>
             <p>Relocating from London to Manchester? Bestway Relocation offers reliable long-distance moving services
               tailored to your needs—covering everything from packing to unloading. With decades of combined experience,
               our team makes your transition seamless, efficient, and stress-free.</p>
+            <div style="padding: 30px 0px 0px 0px; ">
+              <ul role="list" class="nav-menu-block w-list-unstyled">
+                <li>
+                  <a href="tel:08000147676" class="secondary-black-outline-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Call us: 0800 014 7676
+                  </a>
+                </li>
+                <li class="mobile-margin-top-10">
+                  <a href="../request-a-quote.php" class="secondary-black-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Request a Quote
+                  </a>
+                </li>
+              </ul>
+            </div>
           </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager"
-            alt="Office relocation service" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager"
-            alt="Moving office illustration" class="image-11" />
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Office relocation service"
+            class="image-15" />
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="Moving office illustration"
+            class="image-11" />
         </div>
 
         <div class="main-content">
@@ -125,7 +145,8 @@
           <h4>Get Your Move Started with Bestway Relocation</h4>
           <p>Let Bestway Relocation help you settle into Manchester with ease. We’re here to make your relocation
             smooth, timely, and affordable—whether you need a full-service move or just assistance with transport and
-            heavy lifting. <a href='https://www.bestwayrelocation.co.uk/contact-us.php'>Contact us</a> today at to get your
+            heavy lifting. <a href='https://www.bestwayrelocation.co.uk/contact-us.php'>Contact us</a> today at to get
+            your
             personalised quote and expert support from our friendly team.</p>
         </div>
       </div>

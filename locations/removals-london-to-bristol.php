@@ -33,15 +33,35 @@
 
         <div class="cta_maine">
           <div class="cta_content">
-          <h2 class="heading-2">Removals Service from London to Bristol</h2>
+            <h2 class="heading-2">Removals Service from London to Bristol</h2>
             <p>Planning a move from London to Bristol? Let Bestway Relocation handle it for you. We specialise in
               long-distance removals and are dedicated to delivering a smooth, stress-free relocation
               experience—covering everything from packing to furniture assembly.</p>
+            <div style="padding: 30px 0px 0px 0px; ">
+              <ul role="list" class="nav-menu-block w-list-unstyled">
+                <li>
+                  <a href="tel:08000147676" class="secondary-black-outline-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Call us: 0800 014 7676
+                  </a>
+                </li>
+                <li class="mobile-margin-top-10">
+                  <a href="../request-a-quote.php" class="secondary-black-cta "
+                    style="background-color: #1e1e1e; color: white; border: 2px solid transparent; padding: 10px 20px; display: inline-block; text-decoration: none; width: 175px; text-align: center;"
+                    onmouseover="this.style.backgroundColor='#FFBF39'; this.style.color='black'; this.style.border='2px solid black';"
+                    onmouseout="this.style.backgroundColor='black'; this.style.color='white'; this.style.border='2px solid transparent';">
+                    Request a Quote
+                  </a>
+                </li>
+              </ul>
+            </div>
           </div>
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager"
-            alt="Office relocation service" class="image-15" />
-          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager"
-            alt="Moving office illustration" class="image-11" />
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/287.svg" loading="eager" alt="Office relocation service"
+            class="image-15" />
+          <img src="../assets/64ae94fa75e1882ff9a4f9fe/288.svg" loading="eager" alt="Moving office illustration"
+            class="image-11" />
         </div>
 
         <div class="main-content">
@@ -110,7 +130,8 @@
           <p>From detailed planning to safe delivery, Bestway Relocation makes moving from London to Bristol easy and
             efficient. Our dedicated team handles the logistics, so you can focus on starting your new chapter with
             peace of mind.</p>
-          <p>Ready to get started? <a href="https://www.bestwayrelocation.co.uk/contact-us.php">Visit our contact page</a> to
+          <p>Ready to get started? <a href="https://www.bestwayrelocation.co.uk/contact-us.php">Visit our contact
+              page</a> to
             request a
             free quote or speak with a relocation expert.</p>
         </div>
