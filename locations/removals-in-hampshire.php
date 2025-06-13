@@ -155,6 +155,9 @@
               removal service.</p>
             <p>Service Hours: Mon - Sat: 8AM – 6PM | Sunday: Closed</p>
           </div>
+          <div style="padding: 0px 0px 40px 0px">
+            <script defer async src='https://cdn.trustindex.io/loader.js?27a9f99480a80824ac16c50533f'></script>
+          </div>
           <!-- How Can We Help? -->
           <section class="section_520-height">
             <div class="w-layout-grid section_520-height_grid">

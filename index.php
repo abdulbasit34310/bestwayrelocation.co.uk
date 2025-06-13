@@ -137,7 +137,7 @@
         <div class="div-block-80"></div>
       </div>
     </section>
-    
+
     <script>
 
       document.addEventListener("DOMContentLoaded", function () {
@@ -525,7 +525,7 @@
 
       </div>
     </section>
-    
+
     <section class="standart-page_content-section paddingLine paddingTop" Style="margin:5%">
       <div class="w-layout-grid content-section_grid">
         <div id="w-node-_9240820d-8522-78a6-2507-fc2ed5a08fb5-aba94893" class="content-section_text">
@@ -1263,6 +1263,8 @@
         background: linear-gradient(to left, #f8f9fa 0%, transparent 100%);
       }
     </style>
+
+
 
     <section class="section_our-values marginTop">
       <div class="content_wrapper">

@@ -71,6 +71,7 @@
             <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
               rel="noopener">Trustpilot</a>
           </div>
+
           <div class="text-content">
 
             <h4>Flexible Storage Solutions Across the UK</h4>
@@ -96,6 +97,7 @@
               facing a timing gap — we've got you covered with secure, flexible storage solutions.
             </p>
           </div>
+
           <section class="section_520-height">
             <div class="w-layout-grid section_520-height_grid">
               <div id="w-node-_293e33e1-69c1-58f5-4a60-e308f2e9711f-aba94893" class="div-block-19">
@@ -224,7 +226,9 @@
             cost-effective approach. Our team is ready to assist—get your free quote now at <a
               href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a> and experience a smooth, secure
             move with Bestway Relocation.</p>
-
+          <div style="padding: 0px 0px 0px 0px">
+            <script defer async src='https://cdn.trustindex.io/loader.js?27a9f99480a80824ac16c50533f'></script>
+          </div>
         </div>
       </div>
     </div>

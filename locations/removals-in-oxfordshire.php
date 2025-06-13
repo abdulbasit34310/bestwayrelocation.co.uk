@@ -127,6 +127,9 @@
             <p>Website: <a href="https://www.bestwayrelocation.co.uk">bestwayrelocation.co.uk</a></p>
             <p>Service Hours: Monday to Saturday, 8 AM – 6 PM | Sunday: Closed</p>
           </div>
+          <div style="padding: 0px 0px 40px 0px">
+            <script defer async src='https://cdn.trustindex.io/loader.js?27a9f99480a80824ac16c50533f'></script>
+          </div>
           <!-- How Can We Help? -->
           <section class="section_520-height">
             <div class="w-layout-grid section_520-height_grid">

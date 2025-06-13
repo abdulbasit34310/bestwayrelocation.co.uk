@@ -105,97 +105,94 @@
   <?php include 'components/nav-2.php'; ?>
   <section class="standart-page_content-section next-section">
     <div id="w-node-e1d60606-b145-0bef-d8eb-ac0b85fa2807-aba9488c" class="content-section_text european-freight">
-      <div class="main-content">
 
-        <section class="our-focus-div">
-          <div class="w-layout-grid contact-hero">
-            <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2f5-aba9487e" class="div-block-19">
-              <style>
-                .top-features-list {
-                  list-style: none;
-                  padding: 0;
-                  margin: 0;
-                }
+      <section class="our-focus-div">
+        <div class="w-layout-grid contact-hero">
+          <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2f5-aba9487e" class="div-block-19">
+            <style>
+              .top-features-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+              }
 
-                .top-feature-item {
-                  display: flex;
-                  align-items: center;
-                  margin-bottom: 25px;
-                }
+              .top-feature-item {
+                display: flex;
+                align-items: center;
+                margin-bottom: 25px;
+              }
 
-                .top-feature-icon {
-                  width: 50px;
-                  height: 50px;
-                  margin-right: 15px;
-                  display: flex;
-                  align-items: center;
-                  justify-content: center;
-                  flex-shrink: 0;
-                }
+              .top-feature-icon {
+                width: 50px;
+                height: 50px;
+                margin-right: 15px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-shrink: 0;
+              }
 
-                .top-feature-content {
-                  flex: 1;
-                }
+              .top-feature-content {
+                flex: 1;
+              }
 
-                .top-feature-title {
-                  font-weight: bold;
-                  margin-bottom: 5px;
-                  color: #000;
-                }
+              .top-feature-title {
+                font-weight: bold;
+                margin-bottom: 5px;
+                color: #000;
+              }
 
-                .top-feature-text {
-                  color: #666;
-                  line-height: 1.5;
-                }
-              </style>
-              <h2 class="heading-2 yllw">Our Focus</h2>
-              <p>
-                Bestway Relocation is a trusted leader in nationwide removals, delivering both residential and
-                commercial moving services with a premium white glove touch. We offer complete end-to-end
-                relocation solutions that are reliable, cost-effective, and designed to reduce the stress of
-                moving.
-              </p>
-              <br>
-              <ul class="top-features-list">
-                <li class="top-feature-item">
-                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/22.svg" loading="lazy"
-                      alt="" />
-                  </div>
-                  <div class="top-feature-content">
-                    <p><strong class="yllw">Great Value</strong> -
-                      Efficient logistics and a flexible fleet allow us to offer competitive pricing.
-                    </p>
-                  </div>
-                </li>
+              .top-feature-text {
+                color: #666;
+                line-height: 1.5;
+              }
+            </style>
+            <h2 class="heading-2 yllw">Our Focus</h2>
+            <p>
+              Bestway Relocation is a trusted leader in nationwide removals, delivering both residential and
+              commercial moving services with a premium white glove touch. We offer complete end-to-end
+              relocation solutions that are reliable, cost-effective, and designed to reduce the stress of
+              moving.
+            </p>
+            <br>
+            <ul class="top-features-list">
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/22.svg" loading="lazy" alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Great Value</strong> -
+                    Efficient logistics and a flexible fleet allow us to offer competitive pricing.
+                  </p>
+                </div>
+              </li>
 
-                <li class="top-feature-item">
-                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/23.svg" loading="lazy"
-                      alt="" />
-                  </div>
-                  <div class="top-feature-content">
-                    <p><strong class="yllw">Professional Service</strong> -
-                      Our friendly, trained team ensures every move runs smoothly.
-                    </p>
-                  </div>
-                </li>
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/23.svg" loading="lazy" alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Professional Service</strong> -
+                    Our friendly, trained team ensures every move runs smoothly.
+                  </p>
+                </div>
+              </li>
 
-                <li class="top-feature-item">
-                  <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/24.svg" loading="lazy"
-                      alt="" />
-                  </div>
-                  <div class="top-feature-content">
-                    <p><strong class="yllw">Trust & Care</strong> -
-                      We treat every move with the care and attention it deserves.
-                    </p>
-                  </div>
-                </li>
-              </ul>
-            </div>
-
-            <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2fb-aba9487e" class="_340_hero-setion_img departure">
-            </div>
+              <li class="top-feature-item">
+                <div class="top-feature-icon"><img src="assets/64ae94fa75e1882ff9a4f9fe/24.svg" loading="lazy" alt="" />
+                </div>
+                <div class="top-feature-content">
+                  <p><strong class="yllw">Trust & Care</strong> -
+                    We treat every move with the care and attention it deserves.
+                  </p>
+                </div>
+              </li>
+            </ul>
           </div>
-        </section>
+
+          <div id="w-node-bdea8ea2-9465-9cd7-37e8-26d09310b2fb-aba9487e" class="_340_hero-setion_img departure">
+          </div>
+        </div>
+      </section>
+      <div class="main-content">
 
         <h4>What We Do</h4>
         <p>

@@ -161,8 +161,9 @@
                         <a href="htps://uk.trustpilot.com/review/bestwayrelocation.co.uk" trget="_blank"
                             rel="noopener">Trustpilot</a>
                     </div>
-                    <div class="text-content">
 
+        
+                    <div class="text-content">
                         <h4>Why Businesses Trust Bestway Relocation</h4>
                         <p>
                             Whether you're expanding into a larger space, moving across town, or relocating your head
